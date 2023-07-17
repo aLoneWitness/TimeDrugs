@@ -11,7 +11,7 @@ import SwiftUI
 struct TimeDrugsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SubstancesHome()
         }
     }
 }

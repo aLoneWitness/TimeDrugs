@@ -6,8 +6,10 @@
 //
 
 import SwiftUI
+import SwiftUICharts
 
 struct ContentView: View {
+    var demoData: [Double] = [8, 2, 4, 6, 12, 9, 2]
     var body: some View {
         VStack {
             Image(systemName: "globe")
