@@ -1,0 +1,6 @@
+
+query SubstanceList($search: String) {
+    substances(query: $search, limit: 999) {
+        name
+    }
+}

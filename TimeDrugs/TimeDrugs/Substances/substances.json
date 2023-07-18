@@ -1,0 +1,5872 @@
+[
+    {
+        "name": "1,3-DMAA",
+        "url": "https://psychonautwiki.org/wiki/1,3-DMAA",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "1,3-dimethylbutylamine",
+        "url": "https://psychonautwiki.org/wiki/1,3-dimethylbutylamine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "1,4-Butanediol",
+        "url": "https://psychonautwiki.org/wiki/1,4-Butanediol",
+        "commonNames": [
+            "1,4-Butanediol",
+            "1,4-B",
+            "BD",
+            "BDO",
+            "One Comma Four",
+            "One Four Bee",
+            "Butylene Glycol",
+            "One Four B-D-O"
+        ],
+        "class": {
+            "chemical": [
+                "Alkanediol",
+                "Diol"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "1B-LSD",
+        "url": "https://psychonautwiki.org/wiki/1B-LSD",
+        "commonNames": [
+            "1B-LSD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "1P-ETH-LAD",
+        "url": "https://psychonautwiki.org/wiki/1P-ETH-LAD",
+        "commonNames": [
+            "1P-ETH-LAD",
+            "1-Propionyl-6-ethyl-6-nor-lysergic acid diethyamide"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "1P-LSD",
+        "url": "https://psychonautwiki.org/wiki/1P-LSD",
+        "commonNames": [
+            "1P-LSD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "1V-LSD",
+        "url": "https://psychonautwiki.org/wiki/1V-LSD",
+        "commonNames": [
+            "1V-LSD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "1cP-AL-LAD",
+        "url": "https://psychonautwiki.org/wiki/1cP-AL-LAD",
+        "commonNames": [
+            "1cP-AL-LAD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "1cP-LSD",
+        "url": "https://psychonautwiki.org/wiki/1cP-LSD",
+        "commonNames": [
+            "1cP-LSD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "1cP-MiPLA",
+        "url": "https://psychonautwiki.org/wiki/1cP-MiPLA",
+        "commonNames": [
+            "1cP-MiPLA"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2,5-DMA",
+        "url": "https://psychonautwiki.org/wiki/2,5-DMA",
+        "commonNames": [
+            "2,5-DMA",
+            "DOH"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "2-Aminoindane",
+        "url": "https://psychonautwiki.org/wiki/2-Aminoindane",
+        "commonNames": [
+            "2-AI"
+        ],
+        "class": {
+            "chemical": [
+                "Aminoindane"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "2-FA",
+        "url": "https://psychonautwiki.org/wiki/2-FA",
+        "commonNames": [
+            "2-FA"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "2-FEA",
+        "url": "https://psychonautwiki.org/wiki/2-FEA",
+        "commonNames": [
+            "2-FEA"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "2-FMA",
+        "url": "https://psychonautwiki.org/wiki/2-FMA",
+        "commonNames": [
+            "2-FMA"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "2-Fluorodeschloroketamine",
+        "url": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine",
+        "commonNames": [
+            "2-Fluoroketamine",
+            "Fluoroketamine",
+            "2-FK",
+            "2-FDCK"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "2-MMC",
+        "url": "https://psychonautwiki.org/wiki/2-MMC",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25B-NBOH",
+        "url": "https://psychonautwiki.org/wiki/25B-NBOH",
+        "commonNames": [
+            "25B-NBOH"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25B-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25B-NBOMe",
+        "commonNames": [
+            "25B-NBOMe"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25C-NBOH",
+        "url": "https://psychonautwiki.org/wiki/25C-NBOH",
+        "commonNames": [
+            "25C-NBOH"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25C-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25C-NBOMe",
+        "commonNames": [
+            "25C-NBOMe",
+            "Cimbi-82",
+            "NBOMe-2C-C",
+            "2C-C-NBOMe"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25D-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25D-NBOMe",
+        "commonNames": [
+            "25D-NBOMe"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25E-NBOH",
+        "url": "https://psychonautwiki.org/wiki/25E-NBOH",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25H-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25H-NBOMe",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25I-NBOH",
+        "url": "https://psychonautwiki.org/wiki/25I-NBOH",
+        "commonNames": [
+            "25i-NBOH",
+            "Cimbi-27"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25I-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25I-NBOMe",
+        "commonNames": [
+            "25i-NBOMe",
+            "25i",
+            "Cimbi-5"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25N-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25N-NBOMe",
+        "commonNames": [
+            "25N-NBOMe"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "25x-NBOH",
+        "url": "https://psychonautwiki.org/wiki/25x-NBOH",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "25x-NBOMe",
+        "url": "https://psychonautwiki.org/wiki/25x-NBOMe",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "2C-B",
+        "url": "https://psychonautwiki.org/wiki/2C-B",
+        "commonNames": [
+            "2C-B",
+            "Nexus",
+            "Bees"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-B-FLY",
+        "url": "https://psychonautwiki.org/wiki/2C-B-FLY",
+        "commonNames": [
+            "2C-B-FLY"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines",
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-C",
+        "url": "https://psychonautwiki.org/wiki/2C-C",
+        "commonNames": [
+            "2C-C"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-D",
+        "url": "https://psychonautwiki.org/wiki/2C-D",
+        "commonNames": [
+            "2C-D",
+            "2C-M",
+            "LE-25"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-E",
+        "url": "https://psychonautwiki.org/wiki/2C-E",
+        "commonNames": [
+            "2C-E",
+            "Eternity"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-H",
+        "url": "https://psychonautwiki.org/wiki/2C-H",
+        "commonNames": [
+            "2C-H",
+            "DMPEA"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "2C-I",
+        "url": "https://psychonautwiki.org/wiki/2C-I",
+        "commonNames": [
+            "2C-I"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-P",
+        "url": "https://psychonautwiki.org/wiki/2C-P",
+        "commonNames": [
+            "2C-P"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-T",
+        "url": "https://psychonautwiki.org/wiki/2C-T",
+        "commonNames": [
+            "2C-T",
+            "Tesseract"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-T-2",
+        "url": "https://psychonautwiki.org/wiki/2C-T-2",
+        "commonNames": [
+            "2C-T-2",
+            "Rosy"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-T-21",
+        "url": "https://psychonautwiki.org/wiki/2C-T-21",
+        "commonNames": [
+            "2C-T-21",
+            "Aurora"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-T-7",
+        "url": "https://psychonautwiki.org/wiki/2C-T-7",
+        "commonNames": [
+            "2C-T-7",
+            "Beautiful",
+            "Blue Mystic",
+            "7th Heaven"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "2C-T-x",
+        "url": "https://psychonautwiki.org/wiki/2C-T-x",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "2C-x",
+        "url": "https://psychonautwiki.org/wiki/2C-x",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "2M2B",
+        "url": "https://psychonautwiki.org/wiki/2M2B",
+        "commonNames": [
+            "2M2B",
+            "2-methyl-2-butanol"
+        ],
+        "class": {
+            "chemical": [
+                "Alcohol"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "3,4-CTMP",
+        "url": "https://psychonautwiki.org/wiki/3,4-CTMP",
+        "commonNames": [
+            "3,4-CTMP"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "3-Cl-PCP",
+        "url": "https://psychonautwiki.org/wiki/3-Cl-PCP",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-FA",
+        "url": "https://psychonautwiki.org/wiki/3-FA",
+        "commonNames": [
+            "3-FA",
+            "PAL-353"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "3-FEA",
+        "url": "https://psychonautwiki.org/wiki/3-FEA",
+        "commonNames": [
+            "3-FEA"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "3-FMA",
+        "url": "https://psychonautwiki.org/wiki/3-FMA",
+        "commonNames": [
+            "3-FMA"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "3-FPM",
+        "url": "https://psychonautwiki.org/wiki/3-FPM",
+        "commonNames": [
+            "3-FPM",
+            "PAL-593"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Phenylmorpholine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "3-HO-PCE",
+        "url": "https://psychonautwiki.org/wiki/3-HO-PCE",
+        "commonNames": [
+            "3-HO-PCE",
+            "Hydroxyeticyclidine"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-HO-PCP",
+        "url": "https://psychonautwiki.org/wiki/3-HO-PCP",
+        "commonNames": [
+            "3-HO-PCP",
+            "Hydroxyphencyclidine"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-MMC",
+        "url": "https://psychonautwiki.org/wiki/3-MMC",
+        "commonNames": [
+            "3-MMC",
+            "Metaphedrone"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "3-Me-PCP",
+        "url": "https://psychonautwiki.org/wiki/3-Me-PCP",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-Me-PCPy",
+        "url": "https://psychonautwiki.org/wiki/3-Me-PCPy",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-MeO-PCE",
+        "url": "https://psychonautwiki.org/wiki/3-MeO-PCE",
+        "commonNames": [
+            "3-MeO-PCE",
+            "Methoxyeticyclidine"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-MeO-PCMo",
+        "url": "https://psychonautwiki.org/wiki/3-MeO-PCMo",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3-MeO-PCP",
+        "url": "https://psychonautwiki.org/wiki/3-MeO-PCP",
+        "commonNames": [
+            "3-MeO-PCP",
+            "3-MeO"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "3C-E",
+        "url": "https://psychonautwiki.org/wiki/3C-E",
+        "commonNames": [
+            "3C-E",
+            "3C-Escaline"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted amphetamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "3C-P",
+        "url": "https://psychonautwiki.org/wiki/3C-P",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted amphetamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-AcO-DET",
+        "url": "https://psychonautwiki.org/wiki/4-AcO-DET",
+        "commonNames": [
+            "4-AcO-DET",
+            "4-Acetoxy-DET",
+            "Ethacetin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-AcO-DMT",
+        "url": "https://psychonautwiki.org/wiki/4-AcO-DMT",
+        "commonNames": [
+            "4-AcO-DMT",
+            "4-Acetoxy-DMT",
+            "Psilacetin",
+            "O-Acetylpsilocin",
+            "Synthetic mushrooms"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-AcO-DiPT",
+        "url": "https://psychonautwiki.org/wiki/4-AcO-DiPT",
+        "commonNames": [
+            "4-AcO-DiPT",
+            "4-Acetoxy-DiPT",
+            "Ipracetin",
+            "Aces"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-AcO-MET",
+        "url": "https://psychonautwiki.org/wiki/4-AcO-MET",
+        "commonNames": [
+            "4-AcO-MET",
+            "4-Acetoxy-MET",
+            "Metacetin",
+            "O-Acetylmetocin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-AcO-MiPT",
+        "url": "https://psychonautwiki.org/wiki/4-AcO-MiPT",
+        "commonNames": [
+            "4-AcO-MiPT",
+            "Mipracetin",
+            "O-Acetylmiprocin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-FA",
+        "url": "https://psychonautwiki.org/wiki/4-FA",
+        "commonNames": [
+            "4-FA",
+            "4-FMP",
+            "PAL-303",
+            "Flux"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "4-FMA",
+        "url": "https://psychonautwiki.org/wiki/4-FMA",
+        "commonNames": [
+            "4-FMA"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-DET",
+        "url": "https://psychonautwiki.org/wiki/4-HO-DET",
+        "commonNames": [
+            "4-HO-DET",
+            "Ethocin",
+            "CZ-74"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-DPT",
+        "url": "https://psychonautwiki.org/wiki/4-HO-DPT",
+        "commonNames": [
+            "4-HO-DPT",
+            "Procin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-DiPT",
+        "url": "https://psychonautwiki.org/wiki/4-HO-DiPT",
+        "commonNames": [
+            "4-HO-DiPT",
+            "Iprocin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-EPT",
+        "url": "https://psychonautwiki.org/wiki/4-HO-EPT",
+        "commonNames": [
+            "4-HO-EPT",
+            "Eprocin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-MET",
+        "url": "https://psychonautwiki.org/wiki/4-HO-MET",
+        "commonNames": [
+            "4-HO-MET",
+            "Metocin",
+            "Methylcybin",
+            "Colour"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-MPT",
+        "url": "https://psychonautwiki.org/wiki/4-HO-MPT",
+        "commonNames": [
+            "4-HO-MPT",
+            "Meprocin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-HO-MiPT",
+        "url": "https://psychonautwiki.org/wiki/4-HO-MiPT",
+        "commonNames": [
+            "4-HO-MiPT",
+            "Miprocin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4-MEC",
+        "url": "https://psychonautwiki.org/wiki/4-MEC",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "4-MeO-PCP",
+        "url": "https://psychonautwiki.org/wiki/4-MeO-PCP",
+        "commonNames": [
+            "4-MeO-PCP",
+            "Methoxydine"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "4C-D",
+        "url": "https://psychonautwiki.org/wiki/4C-D",
+        "commonNames": [
+            "4C-D",
+            "ARIADNE",
+            "dimoxamine",
+            "α-ethyl-2C-D",
+            "α-ethyl-DOM",
+            "BL-3912"
+        ],
+        "class": {
+            "chemical": [
+                "Phenisobutylamine"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "4F-ADB",
+        "url": "https://psychonautwiki.org/wiki/4F-ADB",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Indazolecarboxamide"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "4F-EPH",
+        "url": "https://psychonautwiki.org/wiki/4F-EPH",
+        "commonNames": [
+            "4F-EPH",
+            "4FEPH"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "4F-MPH",
+        "url": "https://psychonautwiki.org/wiki/4F-MPH",
+        "commonNames": [
+            "4F-MPH"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "5-APB",
+        "url": "https://psychonautwiki.org/wiki/5-APB",
+        "commonNames": [
+            "5-APB"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "5-Br-DMT",
+        "url": "https://psychonautwiki.org/wiki/5-Br-DMT",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "5-Hydroxytryptophan",
+        "url": "https://psychonautwiki.org/wiki/5-Hydroxytryptophan",
+        "commonNames": [
+            "5-HTP",
+            "Oxitriptan",
+            "Cincofarm",
+            "Levothym",
+            "Levotonine",
+            "Oxyfan",
+            "Telesol",
+            "Tript-OH",
+            "Triptum"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines",
+                "Amino acid"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "5-MAPB",
+        "url": "https://psychonautwiki.org/wiki/5-MAPB",
+        "commonNames": [
+            "5-MAPB"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-DALT",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-DALT",
+        "commonNames": [
+            "5-MeO-DALT",
+            "Foxtrot"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-DMT",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-DMT",
+        "commonNames": [
+            "5-MeO-DMT",
+            "The God Molecule",
+            "Toad",
+            "Jaguar"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-DiBF",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-DiBF",
+        "commonNames": [
+            "5-MeO-DiBF"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-DiPT",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-DiPT",
+        "commonNames": [
+            "5-MeO-DiPT",
+            "Foxy Methoxy",
+            "Foxy"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-EiPT",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-EiPT",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-MiPT",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-MiPT",
+        "commonNames": [
+            "5-MeO-MiPT",
+            "Moxy"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "5-MeO-aMT",
+        "url": "https://psychonautwiki.org/wiki/5-MeO-aMT",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "5F-AKB48",
+        "url": "https://psychonautwiki.org/wiki/5F-AKB48",
+        "commonNames": [
+            "5F-AKB48",
+            "5F-APINACA"
+        ],
+        "class": {
+            "chemical": [
+                "Indazolecarboxamide",
+                "Adamantanes"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "5F-PB-22",
+        "url": "https://psychonautwiki.org/wiki/5F-PB-22",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Indolecarboxylate"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "6-APB",
+        "url": "https://psychonautwiki.org/wiki/6-APB",
+        "commonNames": [
+            "6-APB",
+            "Benzofury"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "6-APDB",
+        "url": "https://psychonautwiki.org/wiki/6-APDB",
+        "commonNames": [
+            "6-APDB"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted phenethylamines",
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "8-Chlorotheophylline",
+        "url": "https://psychonautwiki.org/wiki/8-Chlorotheophylline",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "A-PHP",
+        "url": "https://psychonautwiki.org/wiki/A-PHP",
+        "commonNames": [
+            "α-PHP",
+            "alpha-PHP",
+            "PV7"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted cathinones",
+                "Pyrrolidinophenone",
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "A-PVP",
+        "url": "https://psychonautwiki.org/wiki/A-PVP",
+        "commonNames": [
+            "α-PVP",
+            "alpha-PVP",
+            "Flakka",
+            "Flak",
+            "O-2387",
+            "β-ketone-prolintane",
+            "Prolintanone",
+            "Gravel"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted cathinones",
+                "Pyrrolidinophenone",
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "AB-FUBINACA",
+        "url": "https://psychonautwiki.org/wiki/AB-FUBINACA",
+        "commonNames": [
+            "Ab-fubi"
+        ],
+        "class": {
+            "chemical": [
+                "Indazolecarboxamide"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "AL-LAD",
+        "url": "https://psychonautwiki.org/wiki/AL-LAD",
+        "commonNames": [
+            "AL-LAD",
+            "Aladdin"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "ALD-52",
+        "url": "https://psychonautwiki.org/wiki/ALD-52",
+        "commonNames": [
+            "ALD-52",
+            "1-Acetyl-LSD",
+            "1A-LSD",
+            "1A-LAD",
+            "Orange Sunshine"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "APICA",
+        "url": "https://psychonautwiki.org/wiki/APICA",
+        "commonNames": [
+            "APICA",
+            "SDB-001",
+            "2NE1"
+        ],
+        "class": {
+            "chemical": [
+                "Indolecarboxamide",
+                "Indole cannabinoid"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "Acetylfentanyl",
+        "url": "https://psychonautwiki.org/wiki/Acetylfentanyl",
+        "commonNames": [
+            "Acetylfentanyl"
+        ],
+        "class": {
+            "chemical": [
+                "Anilidopiperidine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Adrafinil",
+        "url": "https://psychonautwiki.org/wiki/Adrafinil",
+        "commonNames": [
+            "Adrafinil",
+            "Olmifon"
+        ],
+        "class": {
+            "chemical": null,
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Alcohol",
+        "url": "https://psychonautwiki.org/wiki/Alcohol",
+        "commonNames": [
+            "Alcohol",
+            "Booze",
+            "Liquor",
+            "Moonshine",
+            "Sauce",
+            "Juice",
+            "Bevvy"
+        ],
+        "class": {
+            "chemical": [
+                "Alcohol"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Alimemazine",
+        "url": "https://psychonautwiki.org/wiki/Alimemazine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Allylescaline",
+        "url": "https://psychonautwiki.org/wiki/Allylescaline",
+        "commonNames": [
+            "Allylescaline",
+            "AL"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Alpha-GPC",
+        "url": "https://psychonautwiki.org/wiki/Alpha-GPC",
+        "commonNames": [
+            "Alpha-GPC",
+            "Choline Alfoscerate",
+            "L-Alpha Glycerylphosphorylcholine"
+        ],
+        "class": {
+            "chemical": [
+                "Choline derivative"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Alprazolam",
+        "url": "https://psychonautwiki.org/wiki/Alprazolam",
+        "commonNames": [
+            "Xanax",
+            "Alprazolam",
+            "Ksalol"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Amanita muscaria",
+        "url": "https://psychonautwiki.org/wiki/Amanita_muscaria",
+        "commonNames": [
+            "Fly agaric",
+            "Fly amanita"
+        ],
+        "class": null
+    },
+    {
+        "name": "Amantadine",
+        "url": "https://psychonautwiki.org/wiki/Amantadine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Adamantanes"
+            ],
+            "psychoactive": [
+                "Dissociatives",
+                "Deliriant",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Amobarbital",
+        "url": "https://psychonautwiki.org/wiki/Amobarbital",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Amphetamine",
+        "url": "https://psychonautwiki.org/wiki/Amphetamine",
+        "commonNames": [
+            "Amphetamine",
+            "Speed",
+            "Adderall",
+            "Pep"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Amphetamine (disambiguation)",
+        "url": "https://psychonautwiki.org/wiki/Amphetamine_(disambiguation)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Anadenanthera peregrina",
+        "url": "https://psychonautwiki.org/wiki/Anadenanthera_peregrina",
+        "commonNames": [
+            "Yopo",
+            "Jopo",
+            "Cohoba"
+        ],
+        "class": null
+    },
+    {
+        "name": "Aniracetam",
+        "url": "https://psychonautwiki.org/wiki/Aniracetam",
+        "commonNames": [
+            "Aniracetam"
+        ],
+        "class": {
+            "chemical": [
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Antidepressants",
+        "url": "https://psychonautwiki.org/wiki/Antidepressants",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Antihistamine",
+        "url": "https://psychonautwiki.org/wiki/Antihistamine",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Antipsychotic",
+        "url": "https://psychonautwiki.org/wiki/Antipsychotic",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Armodafinil",
+        "url": "https://psychonautwiki.org/wiki/Armodafinil",
+        "commonNames": [
+            "Armodafinil",
+            "Nuvigil",
+            "Waklert",
+            "Artvigil",
+            "R-Modawake",
+            "Neoresotyl"
+        ],
+        "class": {
+            "chemical": [
+                "Benzhydryl"
+            ],
+            "psychoactive": [
+                "Eugeroics"
+            ]
+        }
+    },
+    {
+        "name": "Arylcyclohexylamines",
+        "url": "https://psychonautwiki.org/wiki/Arylcyclohexylamines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Atropa belladonna",
+        "url": "https://psychonautwiki.org/wiki/Atropa_belladonna",
+        "commonNames": [
+            "Belladonna",
+            "Deadly nightshade"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tropanes"
+            ],
+            "psychoactive": [
+                "Deliriant"
+            ]
+        }
+    },
+    {
+        "name": "Ayahuasca",
+        "url": "https://psychonautwiki.org/wiki/Ayahuasca",
+        "commonNames": [
+            "Ayahuasca",
+            "Aya",
+            "Caapi",
+            "Cipó",
+            "Hoasca",
+            "Vegetal",
+            "Yagé",
+            "Yajé",
+            "Natem",
+            "Shori"
+        ],
+        "class": {
+            "chemical": null,
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Baclofen",
+        "url": "https://psychonautwiki.org/wiki/Baclofen",
+        "commonNames": [
+            "Baclofen",
+            "Lioresal"
+        ],
+        "class": {
+            "chemical": [
+                "Butyric acid"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Banisteriopsis caapi",
+        "url": "https://psychonautwiki.org/wiki/Banisteriopsis_caapi",
+        "commonNames": [
+            "Ayahuasca",
+            "Caapi",
+            "Yagé"
+        ],
+        "class": null
+    },
+    {
+        "name": "Barbiturates",
+        "url": "https://psychonautwiki.org/wiki/Barbiturates",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Benzodiazepines",
+        "url": "https://psychonautwiki.org/wiki/Benzodiazepines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Benzydamine",
+        "url": "https://psychonautwiki.org/wiki/Benzydamine",
+        "commonNames": [
+            "Benzydamine",
+            "Tantum Verde"
+        ],
+        "class": {
+            "chemical": [
+                "Indazole"
+            ],
+            "psychoactive": [
+                "Deliriant",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Bisfluoromodafinil",
+        "url": "https://psychonautwiki.org/wiki/Bisfluoromodafinil",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Bromantane",
+        "url": "https://psychonautwiki.org/wiki/Bromantane",
+        "commonNames": [
+            "Bromantane",
+            "Bromantan",
+            "Ladasten"
+        ],
+        "class": {
+            "chemical": [
+                "Adamantanes"
+            ],
+            "psychoactive": [
+                "Stimulants",
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Bromazolam",
+        "url": "https://psychonautwiki.org/wiki/Bromazolam",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Bromo-DragonFLY",
+        "url": "https://psychonautwiki.org/wiki/Bromo-DragonFLY",
+        "commonNames": [
+            "Bromo-DragonFLY",
+            "DOB-DragonFLY",
+            "B-DFLY",
+            "Dragonfly"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted amphetamines",
+                "Substituted benzofurans"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Bufotenin",
+        "url": "https://psychonautwiki.org/wiki/Bufotenin",
+        "commonNames": [
+            "Bufotenin",
+            "5-HO-DMT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Buprenorphine",
+        "url": "https://psychonautwiki.org/wiki/Buprenorphine",
+        "commonNames": [
+            "Buprenex",
+            "Subutex",
+            "Butrans",
+            "Cizdol",
+            "Addnok",
+            "Transtec"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Buspirone",
+        "url": "https://psychonautwiki.org/wiki/Buspirone",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Butylone",
+        "url": "https://psychonautwiki.org/wiki/Butylone",
+        "commonNames": [
+            "Butylone",
+            "bk-MBDB",
+            "B1"
+        ],
+        "class": {
+            "chemical": [
+                "MDxx",
+                "Substituted cathinones",
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Cabergoline",
+        "url": "https://psychonautwiki.org/wiki/Cabergoline",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Caffeine",
+        "url": "https://psychonautwiki.org/wiki/Caffeine",
+        "commonNames": [
+            "Caffeine"
+        ],
+        "class": {
+            "chemical": [
+                "Xanthines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Cake",
+        "url": "https://psychonautwiki.org/wiki/Cake",
+        "commonNames": [
+            "Cake",
+            "Caky",
+            "Cokoo"
+        ],
+        "class": {
+            "chemical": null,
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Cannabidiol",
+        "url": "https://psychonautwiki.org/wiki/Cannabidiol",
+        "commonNames": [
+            "Cannabidiol",
+            "CBD",
+            "Epidiolex"
+        ],
+        "class": {
+            "chemical": [
+                "Cannabinoid"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "Cannabinoid",
+        "url": "https://psychonautwiki.org/wiki/Cannabinoid",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Cannabis",
+        "url": "https://psychonautwiki.org/wiki/Cannabis",
+        "commonNames": [
+            "Cannabis",
+            "Marijuana",
+            "Weed",
+            "Pot",
+            "Mary Jane",
+            "Grass",
+            "Herb",
+            "Green",
+            "Bud",
+            "Tree"
+        ],
+        "class": {
+            "chemical": [
+                "Cannabinoid"
+            ],
+            "psychoactive": null
+        }
+    },
+    {
+        "name": "Cariprazine",
+        "url": "https://psychonautwiki.org/wiki/Cariprazine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Carisoprodol",
+        "url": "https://psychonautwiki.org/wiki/Carisoprodol",
+        "commonNames": [
+            "Carisoprodol",
+            "Soma"
+        ],
+        "class": {
+            "chemical": [
+                "Carbamate"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Changa",
+        "url": "https://psychonautwiki.org/wiki/Changa",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Choline bitartrate",
+        "url": "https://psychonautwiki.org/wiki/Choline_bitartrate",
+        "commonNames": [
+            "Choline"
+        ],
+        "class": {
+            "chemical": [
+                "Ammonium salt"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Cinolazepam",
+        "url": "https://psychonautwiki.org/wiki/Cinolazepam",
+        "commonNames": [
+            "Cinolazepam",
+            "Gerodorm"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": null
+        }
+    },
+    {
+        "name": "Citicoline",
+        "url": "https://psychonautwiki.org/wiki/Citicoline",
+        "commonNames": [
+            "Citicoline"
+        ],
+        "class": {
+            "chemical": [
+                "Ammonium salt"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Classical psychedelics",
+        "url": "https://psychonautwiki.org/wiki/Classical_psychedelics",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Clonazepam",
+        "url": "https://psychonautwiki.org/wiki/Clonazepam",
+        "commonNames": [
+            "Clonazepam",
+            "Klonopin",
+            "K-Pins",
+            "Rivotril"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Clonazolam",
+        "url": "https://psychonautwiki.org/wiki/Clonazolam",
+        "commonNames": [
+            "Clonazolam",
+            "Clonitrazolam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Clonidine",
+        "url": "https://psychonautwiki.org/wiki/Clonidine",
+        "commonNames": [
+            "Catapres",
+            "Catapres-TTS",
+            "Kapvay",
+            "Nexiclon XR"
+        ],
+        "class": {
+            "chemical": [
+                "Imidazoline"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Cocaine",
+        "url": "https://psychonautwiki.org/wiki/Cocaine",
+        "commonNames": [
+            "Cocaine",
+            "Coke",
+            "Coca",
+            "Crack",
+            "Blow",
+            "Girl",
+            "White",
+            "Snow",
+            "Nose Candy",
+            "Chari"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tropanes"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Cocoa",
+        "url": "https://psychonautwiki.org/wiki/Cocoa",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Codeine",
+        "url": "https://psychonautwiki.org/wiki/Codeine",
+        "commonNames": [
+            "Codeine",
+            "Lean",
+            "Purple Drank",
+            "Syrup"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Coluracetam",
+        "url": "https://psychonautwiki.org/wiki/Coluracetam",
+        "commonNames": [
+            "Coluracetam"
+        ],
+        "class": {
+            "chemical": [
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Creatine",
+        "url": "https://psychonautwiki.org/wiki/Creatine",
+        "commonNames": [
+            "Creatine",
+            "N-Carbamimidoyl-N-methylglycine",
+            "Methylguanidoacetic acid"
+        ],
+        "class": {
+            "chemical": [
+                "Nitrogenous organic acid"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Cyclazodone",
+        "url": "https://psychonautwiki.org/wiki/Cyclazodone",
+        "commonNames": [
+            "Cyclazodone"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted aminorexes",
+                "4-oxazolidinone"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Cyclobenzaprine",
+        "url": "https://psychonautwiki.org/wiki/Cyclobenzaprine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DET",
+        "url": "https://psychonautwiki.org/wiki/DET",
+        "commonNames": [
+            "Diethyltryptamine",
+            "DET"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DMT",
+        "url": "https://psychonautwiki.org/wiki/DMT",
+        "commonNames": [
+            "DMT",
+            "N,N-DMT",
+            "Dmitry",
+            "The Glory",
+            "The Spirit Molecule"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DOB",
+        "url": "https://psychonautwiki.org/wiki/DOB",
+        "commonNames": [
+            "DOB",
+            "Brolamfetamine",
+            "Bromo-DMA"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DOC",
+        "url": "https://psychonautwiki.org/wiki/DOC",
+        "commonNames": [
+            "DOC"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DOI",
+        "url": "https://psychonautwiki.org/wiki/DOI",
+        "commonNames": [
+            "DOI"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine",
+                "Substituted amphetamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DOM",
+        "url": "https://psychonautwiki.org/wiki/DOM",
+        "commonNames": [
+            "DOM",
+            "STP (Serenity, Tranquility, and Peace)"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "DOx",
+        "url": "https://psychonautwiki.org/wiki/DOx",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "DPT",
+        "url": "https://psychonautwiki.org/wiki/DPT",
+        "commonNames": [
+            "DPT",
+            "Dipropyltryptamine",
+            "The Light"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Datura",
+        "url": "https://psychonautwiki.org/wiki/Datura",
+        "commonNames": [
+            "Datura",
+            "Jimson Weed"
+        ],
+        "class": {
+            "chemical": null,
+            "psychoactive": [
+                "Deliriant"
+            ]
+        }
+    },
+    {
+        "name": "Datura (botany)",
+        "url": "https://psychonautwiki.org/wiki/Datura_(botany)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Deliriant",
+        "url": "https://psychonautwiki.org/wiki/Deliriant",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Depressant",
+        "url": "https://psychonautwiki.org/wiki/Depressant",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Deschloroetizolam",
+        "url": "https://psychonautwiki.org/wiki/Deschloroetizolam",
+        "commonNames": [
+            "Deschloroetizolam"
+        ],
+        "class": {
+            "chemical": [
+                "Thienodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Deschloroketamine",
+        "url": "https://psychonautwiki.org/wiki/Deschloroketamine",
+        "commonNames": [
+            "Deschloroketamine",
+            "DCK",
+            "DXE",
+            "O-PCM"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Desomorphine",
+        "url": "https://psychonautwiki.org/wiki/Desomorphine",
+        "commonNames": [
+            "Desomorphine",
+            "Krokodil",
+            "Krok"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Desoxypipradrol",
+        "url": "https://psychonautwiki.org/wiki/Desoxypipradrol",
+        "commonNames": [
+            "Desoxypipradol",
+            "2-DPMP",
+            "Ivory Wave"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted piperidines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Dexamphetamine",
+        "url": "https://psychonautwiki.org/wiki/Dexamphetamine",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Dextromethorphan",
+        "url": "https://psychonautwiki.org/wiki/Dextromethorphan",
+        "commonNames": [
+            "DXM",
+            "DMO",
+            "DM",
+            "Dex",
+            "Robitussin",
+            "Delsym",
+            "DexAlone",
+            "Duract"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Dextropropoxyphene",
+        "url": "https://psychonautwiki.org/wiki/Dextropropoxyphene",
+        "commonNames": [
+            "Dextropropoxyphene",
+            "Propoxyphene",
+            "Darvon"
+        ],
+        "class": {
+            "chemical": [
+                "Phenylpropylamine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "DiPT",
+        "url": "https://psychonautwiki.org/wiki/DiPT",
+        "commonNames": [
+            "DiPT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Diarylethylamines",
+        "url": "https://psychonautwiki.org/wiki/Diarylethylamines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Diazepam",
+        "url": "https://psychonautwiki.org/wiki/Diazepam",
+        "commonNames": [
+            "Valium",
+            "Diastat",
+            "Mother's Little Helper",
+            "Apaurin"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Dichloropane",
+        "url": "https://psychonautwiki.org/wiki/Dichloropane",
+        "commonNames": [
+            "Dichloropane",
+            "RTI-111"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tropanes"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Diclazepam",
+        "url": "https://psychonautwiki.org/wiki/Diclazepam",
+        "commonNames": [
+            "Diclazepam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Dihydrocodeine",
+        "url": "https://psychonautwiki.org/wiki/Dihydrocodeine",
+        "commonNames": [
+            "Dihydrocodeine"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Diphenhydramine",
+        "url": "https://psychonautwiki.org/wiki/Diphenhydramine",
+        "commonNames": [
+            "DPH",
+            "Benadryl",
+            "Nytol",
+            "Sominex",
+            "Unisom SleepMelts",
+            "ZzzQuil"
+        ],
+        "class": {
+            "chemical": [
+                "Ethanolamine"
+            ],
+            "psychoactive": [
+                "Deliriant",
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Diphenidine",
+        "url": "https://psychonautwiki.org/wiki/Diphenidine",
+        "commonNames": [
+            "Diphenidine"
+        ],
+        "class": {
+            "chemical": [
+                "Diarylethylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Dissociatives",
+        "url": "https://psychonautwiki.org/wiki/Dissociatives",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Doxylamine",
+        "url": "https://psychonautwiki.org/wiki/Doxylamine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Ethanolamine"
+            ],
+            "psychoactive": [
+                "Deliriant"
+            ]
+        }
+    },
+    {
+        "name": "EPT",
+        "url": "https://psychonautwiki.org/wiki/EPT",
+        "commonNames": [
+            "EPT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "ETH-CAT",
+        "url": "https://psychonautwiki.org/wiki/ETH-CAT",
+        "commonNames": [
+            "ETH-CAT",
+            "Ethcathinone",
+            "Ethylpropion"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "ETH-LAD",
+        "url": "https://psychonautwiki.org/wiki/ETH-LAD",
+        "commonNames": [
+            "ETH-LAD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Efavirenz",
+        "url": "https://psychonautwiki.org/wiki/Efavirenz",
+        "commonNames": [
+            "Efavirenz",
+            "Sustiva"
+        ],
+        "class": {
+            "chemical": [
+                "Benzoxazine"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Entheogen",
+        "url": "https://psychonautwiki.org/wiki/Entheogen",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Ephedrine",
+        "url": "https://psychonautwiki.org/wiki/Ephedrine",
+        "commonNames": [
+            "Ephedrine",
+            "Ephedra"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Ephenidine",
+        "url": "https://psychonautwiki.org/wiki/Ephenidine",
+        "commonNames": [
+            "Ephenidine",
+            "NEDPA"
+        ],
+        "class": {
+            "chemical": [
+                "Diarylethylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Ephylone",
+        "url": "https://psychonautwiki.org/wiki/Ephylone",
+        "commonNames": [
+            "Ephylone",
+            "bk-EBDP",
+            "βk-EBDP",
+            "bk-ethyl-K"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Ergotamine",
+        "url": "https://psychonautwiki.org/wiki/Ergotamine",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Escaline",
+        "url": "https://psychonautwiki.org/wiki/Escaline",
+        "commonNames": [
+            "Escaline"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Eszopiclone",
+        "url": "https://psychonautwiki.org/wiki/Eszopiclone",
+        "commonNames": [
+            "Lunesta",
+            "Eszop"
+        ],
+        "class": {
+            "chemical": [
+                "Cyclopyrrolone"
+            ],
+            "psychoactive": [
+                "Hallucinogens",
+                "Depressant",
+                "Hypnotic"
+            ]
+        }
+    },
+    {
+        "name": "Etazene",
+        "url": "https://psychonautwiki.org/wiki/Etazene",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Ethylmorphine",
+        "url": "https://psychonautwiki.org/wiki/Ethylmorphine",
+        "commonNames": [
+            "Ethylmorphine",
+            "Codethyline",
+            "Dionine"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Ethylone",
+        "url": "https://psychonautwiki.org/wiki/Ethylone",
+        "commonNames": [
+            "Ethylone",
+            "bk-MDEA",
+            "MDEC"
+        ],
+        "class": {
+            "chemical": null,
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Ethylphenidate",
+        "url": "https://psychonautwiki.org/wiki/Ethylphenidate",
+        "commonNames": [
+            "Ethylphenidate",
+            "EPH"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Etizolam",
+        "url": "https://psychonautwiki.org/wiki/Etizolam",
+        "commonNames": [
+            "Etizolam",
+            "Etilaam",
+            "Etizest"
+        ],
+        "class": {
+            "chemical": [
+                "Thienodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Eugeroics",
+        "url": "https://psychonautwiki.org/wiki/Eugeroics",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Eutylone",
+        "url": "https://psychonautwiki.org/wiki/Eutylone",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted cathinones"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "F-Phenibut",
+        "url": "https://psychonautwiki.org/wiki/F-Phenibut",
+        "commonNames": [
+            "F-Phenibut",
+            "Fluorophenibut",
+            "Fluorobut"
+        ],
+        "class": {
+            "chemical": [
+                "Gabapentinoids"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Fasoracetam",
+        "url": "https://psychonautwiki.org/wiki/Fasoracetam",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted piperidines",
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Fentanyl",
+        "url": "https://psychonautwiki.org/wiki/Fentanyl",
+        "commonNames": [
+            "Fentanyl",
+            "fentanil",
+            "Sublimaze",
+            "Actiq",
+            "Durogesic",
+            "Duragesic",
+            "Fentora",
+            "Matrifen",
+            "Haldid",
+            "Onsolis",
+            "Instanyl",
+            "Abstral",
+            "Lazanda"
+        ],
+        "class": {
+            "chemical": [
+                "Anilidopiperidine",
+                "Substituted piperidines"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Flualprazolam",
+        "url": "https://psychonautwiki.org/wiki/Flualprazolam",
+        "commonNames": [
+            "Flualprazolam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Flubromazepam",
+        "url": "https://psychonautwiki.org/wiki/Flubromazepam",
+        "commonNames": [
+            "Flubromazepam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Flubromazolam",
+        "url": "https://psychonautwiki.org/wiki/Flubromazolam",
+        "commonNames": [
+            "Flubromazolam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Fluclotizolam",
+        "url": "https://psychonautwiki.org/wiki/Fluclotizolam",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Thienodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Flunitrazepam",
+        "url": "https://psychonautwiki.org/wiki/Flunitrazepam",
+        "commonNames": [
+            "Rohypnol",
+            "Flunitrazepam",
+            "Roofies",
+            "Roches",
+            "Ruffies",
+            "Circles",
+            "Forget Pill",
+            "Forget Me Pill",
+            "La Rocha",
+            "Mexican Valium",
+            "R2",
+            "Roach 2",
+            "Rophies",
+            "Wolfies"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Flunitrazolam",
+        "url": "https://psychonautwiki.org/wiki/Flunitrazolam",
+        "commonNames": [
+            "Flunitrazolam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "GBL",
+        "url": "https://psychonautwiki.org/wiki/GBL",
+        "commonNames": [
+            "GBL",
+            "gamma-Butyrolactone"
+        ],
+        "class": {
+            "chemical": [
+                "Lactone"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "GHB",
+        "url": "https://psychonautwiki.org/wiki/GHB",
+        "commonNames": [
+            "GHB",
+            "G",
+            "Xyrem",
+            "Sodium oxybate"
+        ],
+        "class": {
+            "chemical": [
+                "Butyric acid"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Gabapentin",
+        "url": "https://psychonautwiki.org/wiki/Gabapentin",
+        "commonNames": [
+            "Gabapentin",
+            "Neurontin",
+            "Gabarone",
+            "Gralise"
+        ],
+        "class": {
+            "chemical": [
+                "Gabapentinoids"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Gabapentinoids",
+        "url": "https://psychonautwiki.org/wiki/Gabapentinoids",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Gaboxadol",
+        "url": "https://psychonautwiki.org/wiki/Gaboxadol",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Tetrahydroisoxazole",
+                "Tetrahydroisoxazolopyridine"
+            ],
+            "psychoactive": [
+                "Hallucinogens",
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Galantamine",
+        "url": "https://psychonautwiki.org/wiki/Galantamine",
+        "commonNames": [
+            "Galantamine"
+        ],
+        "class": {
+            "chemical": [
+                "Benzazepine"
+            ],
+            "psychoactive": [
+                "Oneirogen",
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "HXE",
+        "url": "https://psychonautwiki.org/wiki/HXE",
+        "commonNames": [
+            "HXE"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Hallucinogens",
+        "url": "https://psychonautwiki.org/wiki/Hallucinogens",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Haloperidol",
+        "url": "https://psychonautwiki.org/wiki/Haloperidol",
+        "commonNames": [
+            "Haldol"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted piperidines",
+                "Butyrophenone"
+            ],
+            "psychoactive": [
+                "Antipsychotic"
+            ]
+        }
+    },
+    {
+        "name": "Harmala alkaloid",
+        "url": "https://psychonautwiki.org/wiki/Harmala_alkaloid",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Heroin",
+        "url": "https://psychonautwiki.org/wiki/Heroin",
+        "commonNames": [
+            "Heroin",
+            "H",
+            "Smack",
+            "Junk",
+            "Brown"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Hexedrone",
+        "url": "https://psychonautwiki.org/wiki/Hexedrone",
+        "commonNames": [
+            "Hexedrone"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Hydrocodone",
+        "url": "https://psychonautwiki.org/wiki/Hydrocodone",
+        "commonNames": [
+            "Vicodin (with paracetamol)",
+            "Zohydro ER (extended-release)"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Hydromorphone",
+        "url": "https://psychonautwiki.org/wiki/Hydromorphone",
+        "commonNames": [
+            "Dilaudid",
+            "Jurnista",
+            "Palladone"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Hyoscyamus niger (botany)",
+        "url": "https://psychonautwiki.org/wiki/Hyoscyamus_niger_(botany)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Hypnotic",
+        "url": "https://psychonautwiki.org/wiki/Hypnotic",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Ibogaine",
+        "url": "https://psychonautwiki.org/wiki/Ibogaine",
+        "commonNames": [
+            "Ibogaine",
+            "Endabuse",
+            "Iboga"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Inhalants",
+        "url": "https://psychonautwiki.org/wiki/Inhalants",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Inorganic molecule"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Iso-LSD",
+        "url": "https://psychonautwiki.org/wiki/Iso-LSD",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Isopropylphenidate",
+        "url": "https://psychonautwiki.org/wiki/Isopropylphenidate",
+        "commonNames": [
+            "Isopropylphenidate",
+            "IPH",
+            "IPPH"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "JWH-018",
+        "url": "https://psychonautwiki.org/wiki/JWH-018",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Naphthoylindole"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "JWH-073",
+        "url": "https://psychonautwiki.org/wiki/JWH-073",
+        "commonNames": [
+            "JWH-073",
+            "Spice"
+        ],
+        "class": {
+            "chemical": [
+                "Naphthoylindole"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "Kanna",
+        "url": "https://psychonautwiki.org/wiki/Kanna",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Kava",
+        "url": "https://psychonautwiki.org/wiki/Kava",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Ketamine",
+        "url": "https://psychonautwiki.org/wiki/Ketamine",
+        "commonNames": [
+            "Ketamine",
+            "K",
+            "Ket",
+            "Kitty",
+            "Special K",
+            "Cat Tranquilizer",
+            "Ketaset",
+            "Ketalar",
+            "Ketanest",
+            "Vitamin K",
+            "Purple",
+            "Jet"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Kratom",
+        "url": "https://psychonautwiki.org/wiki/Kratom",
+        "commonNames": [
+            "Mitragyna Speciosa",
+            "กระท่อม (Thai)",
+            "Ketum",
+            "Kratom",
+            "Kratum"
+        ],
+        "class": {
+            "chemical": [
+                "Indole alkaloids"
+            ],
+            "psychoactive": [
+                "Stimulants",
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "LAE-32",
+        "url": "https://psychonautwiki.org/wiki/LAE-32",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "LSA",
+        "url": "https://psychonautwiki.org/wiki/LSA",
+        "commonNames": [
+            "LSA",
+            "Ergine"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "LSD",
+        "url": "https://psychonautwiki.org/wiki/LSD",
+        "commonNames": [
+            "LSD",
+            "LSD-25",
+            "Lucy",
+            "L",
+            "Acid",
+            "Cid",
+            "Tabs",
+            "Blotter"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "LSM-775",
+        "url": "https://psychonautwiki.org/wiki/LSM-775",
+        "commonNames": [
+            "LSM-775"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "LSZ",
+        "url": "https://psychonautwiki.org/wiki/LSZ",
+        "commonNames": [
+            "LSZ",
+            "LA-SS-Az",
+            "Diazedine",
+            "Lambda"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Lisdexamfetamine",
+        "url": "https://psychonautwiki.org/wiki/Lisdexamfetamine",
+        "commonNames": [
+            "Lisdexamfetamine",
+            "Vyvanse",
+            "Elvanse"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "List of prodrugs",
+        "url": "https://psychonautwiki.org/wiki/List_of_prodrugs",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Lorazepam",
+        "url": "https://psychonautwiki.org/wiki/Lorazepam",
+        "commonNames": [
+            "Lorazepam",
+            "Ativan",
+            "Orfidal",
+            "Lorsilan"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Lysergamides",
+        "url": "https://psychonautwiki.org/wiki/Lysergamides",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "MAOI",
+        "url": "https://psychonautwiki.org/wiki/MAOI",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "MCPP",
+        "url": "https://psychonautwiki.org/wiki/MCPP",
+        "commonNames": [
+            "mCPP"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted piperazines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "MDA",
+        "url": "https://psychonautwiki.org/wiki/MDA",
+        "commonNames": [
+            "MDA",
+            "Sass",
+            "Sally",
+            "Tenamfetamine"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "MDAI",
+        "url": "https://psychonautwiki.org/wiki/MDAI",
+        "commonNames": [
+            "MDAI"
+        ],
+        "class": {
+            "chemical": [
+                "Aminoindane"
+            ],
+            "psychoactive": [
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "MDEA",
+        "url": "https://psychonautwiki.org/wiki/MDEA",
+        "commonNames": [
+            "MDEA",
+            "MDE",
+            "Eve"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine",
+                "MDxx"
+            ],
+            "psychoactive": [
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "MDMA",
+        "url": "https://psychonautwiki.org/wiki/MDMA",
+        "commonNames": [
+            "MDMA",
+            "Molly",
+            "Mandy",
+            "Emma",
+            "MD",
+            "Ecstasy",
+            "E",
+            "X",
+            "XTC",
+            "Rolls",
+            "Beans",
+            "Pingers"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine",
+                "MDxx"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "MDPV",
+        "url": "https://psychonautwiki.org/wiki/MDPV",
+        "commonNames": [
+            "MDPV",
+            "Bath Salts",
+            "NRG-1"
+        ],
+        "class": {
+            "chemical": [
+                "MDxx",
+                "Substituted cathinones",
+                "Pyrrolidinophenone"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "MET",
+        "url": "https://psychonautwiki.org/wiki/MET",
+        "commonNames": [
+            "MET",
+            "Methylethyltryptamine"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "MMDA",
+        "url": "https://psychonautwiki.org/wiki/MMDA",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamines"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "MPT",
+        "url": "https://psychonautwiki.org/wiki/MPT",
+        "commonNames": [
+            "MPT",
+            "Methylpropyltryptamine"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "MXPr",
+        "url": "https://psychonautwiki.org/wiki/MXPr",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "MXiPr",
+        "url": "https://psychonautwiki.org/wiki/MXiPr",
+        "commonNames": [
+            "MXiPR",
+            "MXiP"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Mandragora",
+        "url": "https://psychonautwiki.org/wiki/Mandragora",
+        "commonNames": [
+            "Mandrake"
+        ],
+        "class": null
+    },
+    {
+        "name": "Mandragora officinarum (botany)",
+        "url": "https://psychonautwiki.org/wiki/Mandragora_officinarum_(botany)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Mebroqualone",
+        "url": "https://psychonautwiki.org/wiki/Mebroqualone",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Quinazolinone"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Meditation frequency",
+        "url": "https://psychonautwiki.org/wiki/Meditation_frequency",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Melatonin",
+        "url": "https://psychonautwiki.org/wiki/Melatonin",
+        "commonNames": [
+            "Melatonin"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Oneirogen"
+            ]
+        }
+    },
+    {
+        "name": "Memantine",
+        "url": "https://psychonautwiki.org/wiki/Memantine",
+        "commonNames": [
+            "Memantine",
+            "Memaxa",
+            "Ebixa",
+            "Namenda",
+            "Namenda XR",
+            "Namzaric (with donepezil",
+            "both extended-release)"
+        ],
+        "class": {
+            "chemical": [
+                "Adamantanes"
+            ],
+            "psychoactive": [
+                "Dissociatives",
+                "Deliriant"
+            ]
+        }
+    },
+    {
+        "name": "Mephedrone",
+        "url": "https://psychonautwiki.org/wiki/Mephedrone",
+        "commonNames": [
+            "Mephedrone",
+            "4-MMC",
+            "Drone",
+            "M-CAT",
+            "Meow Meow"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted cathinones",
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Meprobamate",
+        "url": "https://psychonautwiki.org/wiki/Meprobamate",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Mescaline",
+        "url": "https://psychonautwiki.org/wiki/Mescaline",
+        "commonNames": [
+            "Mescaline",
+            "Peyote",
+            "San Pedro",
+            "Cactus",
+            "Buttons"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Methadone",
+        "url": "https://psychonautwiki.org/wiki/Methadone",
+        "commonNames": [
+            "Methadone",
+            "Dolophine",
+            "Methadose"
+        ],
+        "class": {
+            "chemical": [
+                "Diphenylpropylamine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Methallylescaline",
+        "url": "https://psychonautwiki.org/wiki/Methallylescaline",
+        "commonNames": [
+            "Methallylescaline",
+            "MAL"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Methamphetamine",
+        "url": "https://psychonautwiki.org/wiki/Methamphetamine",
+        "commonNames": [
+            "Methamphetamine",
+            "Meth",
+            "Speed",
+            "Ice",
+            "Glass",
+            "Shard",
+            "Tina",
+            "Crank",
+            "Desoxyn",
+            "Crystal",
+            "Ma",
+            "T",
+            "Tweak",
+            "Shabu",
+            "Yaba"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Methaqualone",
+        "url": "https://psychonautwiki.org/wiki/Methaqualone",
+        "commonNames": [
+            "Methaqualone",
+            "Quaaludes",
+            "Ludes",
+            "Mandrax",
+            "Sopor",
+            "Quack",
+            "Vitamin Q",
+            "Soaper"
+        ],
+        "class": {
+            "chemical": [
+                "Quinazolinone"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Methiopropamine",
+        "url": "https://psychonautwiki.org/wiki/Methiopropamine",
+        "commonNames": [
+            "MPA"
+        ],
+        "class": {
+            "chemical": [
+                "Thiophene"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Methoxetamine",
+        "url": "https://psychonautwiki.org/wiki/Methoxetamine",
+        "commonNames": [
+            "Methoxetamine",
+            "MXE",
+            "Mexxy"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Methoxphenidine",
+        "url": "https://psychonautwiki.org/wiki/Methoxphenidine",
+        "commonNames": [
+            "Methoxphenidine",
+            "Methoxyphenidine",
+            "MXP",
+            "2-MXP"
+        ],
+        "class": {
+            "chemical": [
+                "Diarylethylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Methylnaphthidate",
+        "url": "https://psychonautwiki.org/wiki/Methylnaphthidate",
+        "commonNames": [
+            "Methylnaphthidate",
+            "HDMP-28"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Methylone",
+        "url": "https://psychonautwiki.org/wiki/Methylone",
+        "commonNames": [
+            "Methylone",
+            "bk-MDMA",
+            "M1",
+            "MDMC"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Methylphenidate",
+        "url": "https://psychonautwiki.org/wiki/Methylphenidate",
+        "commonNames": [
+            "Methylphenidate",
+            "Concerta",
+            "Methylin",
+            "Ritalin",
+            "Equasym XL"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenidates"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Metizolam",
+        "url": "https://psychonautwiki.org/wiki/Metizolam",
+        "commonNames": [
+            "Metizolam",
+            "Desmethyletizolam"
+        ],
+        "class": {
+            "chemical": [
+                "Thienodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Mexedrone",
+        "url": "https://psychonautwiki.org/wiki/Mexedrone",
+        "commonNames": [
+            "Mexedrone",
+            "4-MMC-MeO"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "MiPLA",
+        "url": "https://psychonautwiki.org/wiki/MiPLA",
+        "commonNames": [
+            "MiPLA",
+            "Lamide"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "MiPT",
+        "url": "https://psychonautwiki.org/wiki/MiPT",
+        "commonNames": [
+            "MiPT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Midazolam",
+        "url": "https://psychonautwiki.org/wiki/Midazolam",
+        "commonNames": [
+            "Midazolam",
+            "Versed"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Mirtazapine",
+        "url": "https://psychonautwiki.org/wiki/Mirtazapine",
+        "commonNames": [
+            "Avanza",
+            "Axit",
+            "Mirtaz",
+            "Mirtazon",
+            "Remeron",
+            "Zispin"
+        ],
+        "class": {
+            "chemical": [
+                "Piperazinoazepine"
+            ],
+            "psychoactive": [
+                "Deliriant",
+                "Depressant",
+                "Antidepressants"
+            ]
+        }
+    },
+    {
+        "name": "Modafinil",
+        "url": "https://psychonautwiki.org/wiki/Modafinil",
+        "commonNames": [
+            "Modafinil",
+            "Alertec",
+            "Modavigil",
+            "Modiodal",
+            "Provigil",
+            "Modalert"
+        ],
+        "class": {
+            "chemical": [
+                "Benzhydryl"
+            ],
+            "psychoactive": [
+                "Eugeroics"
+            ]
+        }
+    },
+    {
+        "name": "Morning glory",
+        "url": "https://psychonautwiki.org/wiki/Morning_glory",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Morphine",
+        "url": "https://psychonautwiki.org/wiki/Morphine",
+        "commonNames": [
+            "Morphine",
+            "MS-Contin",
+            "Oramorph",
+            "Zomorph",
+            "Sevredol",
+            "Duramorph"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Myristicin",
+        "url": "https://psychonautwiki.org/wiki/Myristicin",
+        "commonNames": [
+            "Nutmeg"
+        ],
+        "class": {
+            "chemical": [
+                "Phenylpropenes"
+            ],
+            "psychoactive": [
+                "Deliriant"
+            ]
+        }
+    },
+    {
+        "name": "N-(2C)-fentanyl",
+        "url": "https://psychonautwiki.org/wiki/N-(2C)-fentanyl",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "N-Acetylcysteine",
+        "url": "https://psychonautwiki.org/wiki/N-Acetylcysteine",
+        "commonNames": [
+            "N-Acetylcysteine"
+        ],
+        "class": {
+            "chemical": [
+                "Cysteine"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "N-Ethylhexedrone",
+        "url": "https://psychonautwiki.org/wiki/N-Ethylhexedrone",
+        "commonNames": [
+            "Hexen",
+            "Hex-en",
+            "NEH",
+            "Ethyl-Hexedrone"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "N-Methylbisfluoromodafinil",
+        "url": "https://psychonautwiki.org/wiki/N-Methylbisfluoromodafinil",
+        "commonNames": [
+            "N-Methylbisfluoromodafinil",
+            "Dehydroxyfluorafinil",
+            "Modafiendz"
+        ],
+        "class": {
+            "chemical": [
+                "Benzhydryl"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "NEP",
+        "url": "https://psychonautwiki.org/wiki/NEP",
+        "commonNames": [
+            "N-Ethylpentedrone",
+            "NEP",
+            "Ethyl-Pentedrone"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "NM-2-AI",
+        "url": "https://psychonautwiki.org/wiki/NM-2-AI",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Aminoindane"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Naloxone",
+        "url": "https://psychonautwiki.org/wiki/Naloxone",
+        "commonNames": [
+            "Naloxone",
+            "Narcan",
+            "Evzio"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Nicotine",
+        "url": "https://psychonautwiki.org/wiki/Nicotine",
+        "commonNames": [
+            "Nicotine"
+        ],
+        "class": {
+            "chemical": [
+                "Pyridine",
+                "Substituted pyrrolidines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Nifoxipam",
+        "url": "https://psychonautwiki.org/wiki/Nifoxipam",
+        "commonNames": [
+            "Nifoxipam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Nitromethaqualone",
+        "url": "https://psychonautwiki.org/wiki/Nitromethaqualone",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Nitrous",
+        "url": "https://psychonautwiki.org/wiki/Nitrous",
+        "commonNames": [
+            "Nitrous Oxide",
+            "Laughing Gas",
+            "Nitrous",
+            "Hippy Crack",
+            "NOS",
+            "Nitro",
+            "N2O",
+            "Nangs"
+        ],
+        "class": {
+            "chemical": null,
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Nootropic",
+        "url": "https://psychonautwiki.org/wiki/Nootropic",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Norflurazepam",
+        "url": "https://psychonautwiki.org/wiki/Norflurazepam",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "O-Desmethyltramadol",
+        "url": "https://psychonautwiki.org/wiki/O-Desmethyltramadol",
+        "commonNames": [
+            "O-Desmethyltramadol"
+        ],
+        "class": {
+            "chemical": [
+                "Phenylpropylamine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "O-PCE",
+        "url": "https://psychonautwiki.org/wiki/O-PCE",
+        "commonNames": [
+            "O-PCE",
+            "Eticyclidone"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "Omberacetam",
+        "url": "https://psychonautwiki.org/wiki/Omberacetam",
+        "commonNames": [
+            "Noopept",
+            "Ноопепт",
+            "GVS-111",
+            "Omberacetam"
+        ],
+        "class": {
+            "chemical": [
+                "Peptide"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Opioids",
+        "url": "https://psychonautwiki.org/wiki/Opioids",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Oroxylin A",
+        "url": "https://psychonautwiki.org/wiki/Oroxylin_A",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Orphenadrine",
+        "url": "https://psychonautwiki.org/wiki/Orphenadrine",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Oxiracetam",
+        "url": "https://psychonautwiki.org/wiki/Oxiracetam",
+        "commonNames": [
+            "Oxiracetam"
+        ],
+        "class": {
+            "chemical": [
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Stimulants",
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Oxycodone",
+        "url": "https://psychonautwiki.org/wiki/Oxycodone",
+        "commonNames": [
+            "OxyContin",
+            "Oxy",
+            "Roxicodone",
+            "Oxecta",
+            "OxyIR",
+            "Endone",
+            "Oxynor",
+            "Codilek",
+            "Oxydor",
+            "Redocam",
+            "Oxygesic"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Oxymorphone",
+        "url": "https://psychonautwiki.org/wiki/Oxymorphone",
+        "commonNames": [
+            "Opana"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted morphinans"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "PARGY-LAD",
+        "url": "https://psychonautwiki.org/wiki/PARGY-LAD",
+        "commonNames": [
+            "PARGY-LAD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "PCE",
+        "url": "https://psychonautwiki.org/wiki/PCE",
+        "commonNames": [
+            "PCE",
+            "Eticyclidine"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "PCP",
+        "url": "https://psychonautwiki.org/wiki/PCP",
+        "commonNames": [
+            "PCP",
+            "Angel Dust",
+            "Sherman",
+            "Sernyl",
+            "Wet",
+            "Dust",
+            "Supergrass",
+            "Boat",
+            "Tic Tac",
+            "Zoom"
+        ],
+        "class": {
+            "chemical": [
+                "Arylcyclohexylamines"
+            ],
+            "psychoactive": [
+                "Dissociatives"
+            ]
+        }
+    },
+    {
+        "name": "PMA",
+        "url": "https://psychonautwiki.org/wiki/PMA",
+        "commonNames": [
+            "PMA"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Hallucinogens"
+            ]
+        }
+    },
+    {
+        "name": "PMMA",
+        "url": "https://psychonautwiki.org/wiki/PMMA",
+        "commonNames": [
+            "PMMA"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "PPAP",
+        "url": "https://psychonautwiki.org/wiki/PPAP",
+        "commonNames": [
+            "PPAP",
+            "Phenylpropylaminopentane"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "PRO-LAD",
+        "url": "https://psychonautwiki.org/wiki/PRO-LAD",
+        "commonNames": [
+            "PRO-LAD"
+        ],
+        "class": {
+            "chemical": [
+                "Lysergamides"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Peganum harmala",
+        "url": "https://psychonautwiki.org/wiki/Peganum_harmala",
+        "commonNames": [
+            "Espand",
+            "Esfand",
+            "Syrian rue"
+        ],
+        "class": null
+    },
+    {
+        "name": "Pentedrone",
+        "url": "https://psychonautwiki.org/wiki/Pentedrone",
+        "commonNames": [
+            "Pentedrone",
+            "Drone"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Pentobarbital",
+        "url": "https://psychonautwiki.org/wiki/Pentobarbital",
+        "commonNames": [
+            "Pentobarbital",
+            "pentobarbitone",
+            "Nembutal"
+        ],
+        "class": {
+            "chemical": [
+                "Barbiturates"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Pentylone",
+        "url": "https://psychonautwiki.org/wiki/Pentylone",
+        "commonNames": [
+            "Pentylone",
+            "βk-MBDP",
+            "bk-MBDP",
+            "bk-methyl-K"
+        ],
+        "class": {
+            "chemical": [
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Entactogen",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Pethidine",
+        "url": "https://psychonautwiki.org/wiki/Pethidine",
+        "commonNames": [
+            "Pethidine",
+            "Meperidine",
+            "Demerol",
+            "Dolantin",
+            "Dolcontral"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted piperidines"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Phenazepam",
+        "url": "https://psychonautwiki.org/wiki/Phenazepam",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Phenethylamine (compound)",
+        "url": "https://psychonautwiki.org/wiki/Phenethylamine_(compound)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Phenibut",
+        "url": "https://psychonautwiki.org/wiki/Phenibut",
+        "commonNames": [
+            "Phenibut",
+            "Fenibut",
+            "Phenybut",
+            "PhGABA"
+        ],
+        "class": {
+            "chemical": [
+                "Gabapentinoids"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Phenmetrazine",
+        "url": "https://psychonautwiki.org/wiki/Phenmetrazine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Phenobarbital",
+        "url": "https://psychonautwiki.org/wiki/Phenobarbital",
+        "commonNames": [
+            "Phenobarbital",
+            "Phenobarbitone",
+            "Luminal",
+            "Phenobarb"
+        ],
+        "class": {
+            "chemical": [
+                "Barbiturates"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Phenylpiracetam",
+        "url": "https://psychonautwiki.org/wiki/Phenylpiracetam",
+        "commonNames": [
+            "Phenylpiracetam",
+            "Phenotropil",
+            "Carphedon"
+        ],
+        "class": {
+            "chemical": [
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Stimulants",
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Picamilon",
+        "url": "https://psychonautwiki.org/wiki/Picamilon",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "GABA"
+            ],
+            "psychoactive": [
+                "Depressant",
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Piper nigrum (botany)",
+        "url": "https://psychonautwiki.org/wiki/Piper_nigrum_(botany)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Piracetam",
+        "url": "https://psychonautwiki.org/wiki/Piracetam",
+        "commonNames": [
+            "Piracetam"
+        ],
+        "class": {
+            "chemical": [
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Poppers",
+        "url": "https://psychonautwiki.org/wiki/Poppers",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Poppers"
+            ],
+            "psychoactive": null
+        }
+    },
+    {
+        "name": "Pramiracetam",
+        "url": "https://psychonautwiki.org/wiki/Pramiracetam",
+        "commonNames": [
+            "Pramiracetam"
+        ],
+        "class": {
+            "chemical": [
+                "Racetams"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Pregabalin",
+        "url": "https://psychonautwiki.org/wiki/Pregabalin",
+        "commonNames": [
+            "Pregabalin",
+            "Lyrica",
+            "Nervalin"
+        ],
+        "class": {
+            "chemical": [
+                "Gabapentinoids"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Prochlorperazine",
+        "url": "https://psychonautwiki.org/wiki/Prochlorperazine",
+        "commonNames": [
+            "Compazine",
+            "Stemzine",
+            "Buccastem",
+            "Stemetil",
+            "Phenotil"
+        ],
+        "class": {
+            "chemical": [
+                "Phenothiazine"
+            ],
+            "psychoactive": [
+                "Antipsychotic"
+            ]
+        }
+    },
+    {
+        "name": "Prolintane",
+        "url": "https://psychonautwiki.org/wiki/Prolintane",
+        "commonNames": [
+            "Prolintane"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine",
+                "Substituted pyrrolidines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Promethazine",
+        "url": "https://psychonautwiki.org/wiki/Promethazine",
+        "commonNames": [
+            "Phenergan",
+            "Lergigan"
+        ],
+        "class": {
+            "chemical": [
+                "Phenothiazine"
+            ],
+            "psychoactive": [
+                "Deliriant",
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Propylhexedrine",
+        "url": "https://psychonautwiki.org/wiki/Propylhexedrine",
+        "commonNames": [
+            "Propylhexedrine",
+            "Benzedrex"
+        ],
+        "class": {
+            "chemical": [
+                "Cycloalkylamines"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Proscaline",
+        "url": "https://psychonautwiki.org/wiki/Proscaline",
+        "commonNames": [
+            "Proscaline"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Pseudoephedrine",
+        "url": "https://psychonautwiki.org/wiki/Pseudoephedrine",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amphetamine"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Psilocin",
+        "url": "https://psychonautwiki.org/wiki/Psilocin",
+        "commonNames": [
+            "Psilocin",
+            "Psilocine",
+            "Psilocyn",
+            "Psilotsin",
+            "4-HO-DMT",
+            "4-OH-DMT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Psilocybe cubensis",
+        "url": "https://psychonautwiki.org/wiki/Psilocybe_cubensis",
+        "commonNames": [
+            "Shrooms",
+            "Magic mushroom"
+        ],
+        "class": null
+    },
+    {
+        "name": "Psilocybin mushrooms",
+        "url": "https://psychonautwiki.org/wiki/Psilocybin_mushrooms",
+        "commonNames": [
+            "Psilocybin",
+            "Psilocybin mushrooms",
+            "Magic Mushrooms",
+            "Shrooms",
+            "4-PO-DMT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "Psychedelic",
+        "url": "https://psychonautwiki.org/wiki/Psychedelic",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Pyrazolam",
+        "url": "https://psychonautwiki.org/wiki/Pyrazolam",
+        "commonNames": [
+            "Pyrazolam"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Quetiapine",
+        "url": "https://psychonautwiki.org/wiki/Quetiapine",
+        "commonNames": [
+            "Quetiapine",
+            "Seroquel"
+        ],
+        "class": {
+            "chemical": [
+                "Dibenzothiazepine"
+            ],
+            "psychoactive": [
+                "Antipsychotic"
+            ]
+        }
+    },
+    {
+        "name": "RIMA",
+        "url": "https://psychonautwiki.org/wiki/RIMA",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Racetams",
+        "url": "https://psychonautwiki.org/wiki/Racetams",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Risperidone",
+        "url": "https://psychonautwiki.org/wiki/Risperidone",
+        "commonNames": [
+            "Risperdal"
+        ],
+        "class": {
+            "chemical": [
+                "Benzisoxazole"
+            ],
+            "psychoactive": [
+                "Antipsychotic"
+            ]
+        }
+    },
+    {
+        "name": "SAM-e",
+        "url": "https://psychonautwiki.org/wiki/SAM-e",
+        "commonNames": [
+            "S-Adenosyl Methionine",
+            "SAM-e",
+            "Methylguanidoacetic Acid"
+        ],
+        "class": {
+            "chemical": [
+                "Nitrogenous organic acid"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "STS-135",
+        "url": "https://psychonautwiki.org/wiki/STS-135",
+        "commonNames": [
+            "STS-135"
+        ],
+        "class": {
+            "chemical": [
+                "Indolecarboxamide",
+                "Adamantanes"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "Salvia divinorum",
+        "url": "https://psychonautwiki.org/wiki/Salvia_divinorum",
+        "commonNames": [
+            "Salvia",
+            "Sage of the Diviners",
+            "ska maría pastora",
+            "seer's sage",
+            "yerba de la pastora",
+            "Sally"
+        ],
+        "class": null
+    },
+    {
+        "name": "Salvinorin A",
+        "url": "https://psychonautwiki.org/wiki/Salvinorin_A",
+        "commonNames": [
+            "Salvia",
+            "Salvia divinorum",
+            "Diviner's Sage",
+            "Ska María Pastora",
+            "Seer's Sage",
+            "Sally"
+        ],
+        "class": {
+            "chemical": [
+                "Salvinorin",
+                "Terpenoid"
+            ],
+            "psychoactive": [
+                "Hallucinogens"
+            ]
+        }
+    },
+    {
+        "name": "Salvinorin B methoxymethyl ether",
+        "url": "https://psychonautwiki.org/wiki/Salvinorin_B_methoxymethyl_ether",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Salvinorin"
+            ],
+            "psychoactive": [
+                "Hallucinogens"
+            ]
+        }
+    },
+    {
+        "name": "Secobarbital",
+        "url": "https://psychonautwiki.org/wiki/Secobarbital",
+        "commonNames": [
+            "Secobarbital",
+            "Secobarbitone",
+            "Seconal"
+        ],
+        "class": {
+            "chemical": [
+                "Barbiturates"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Sedative",
+        "url": "https://psychonautwiki.org/wiki/Sedative",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Selective serotonin reuptake inhibitor",
+        "url": "https://psychonautwiki.org/wiki/Selective_serotonin_reuptake_inhibitor",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Serotonergic psychedelic",
+        "url": "https://psychonautwiki.org/wiki/Serotonergic_psychedelic",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Serotonin",
+        "url": "https://psychonautwiki.org/wiki/Serotonin",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Serotonin-norepinephrine reuptake inhibitor",
+        "url": "https://psychonautwiki.org/wiki/Serotonin-norepinephrine_reuptake_inhibitor",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Sertraline",
+        "url": "https://psychonautwiki.org/wiki/Sertraline",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Tetralin"
+            ],
+            "psychoactive": [
+                "Selective serotonin reuptake inhibitor",
+                "Antidepressants"
+            ]
+        }
+    },
+    {
+        "name": "Stimulants",
+        "url": "https://psychonautwiki.org/wiki/Stimulants",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted aminorexes",
+        "url": "https://psychonautwiki.org/wiki/Substituted_aminorexes",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted amphetamines",
+        "url": "https://psychonautwiki.org/wiki/Substituted_amphetamines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted cathinones",
+        "url": "https://psychonautwiki.org/wiki/Substituted_cathinones",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted morphinans",
+        "url": "https://psychonautwiki.org/wiki/Substituted_morphinans",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted phenethylamines",
+        "url": "https://psychonautwiki.org/wiki/Substituted_phenethylamines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted phenidates",
+        "url": "https://psychonautwiki.org/wiki/Substituted_phenidates",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Substituted tryptamines",
+        "url": "https://psychonautwiki.org/wiki/Substituted_tryptamines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Sufentanil",
+        "url": "https://psychonautwiki.org/wiki/Sufentanil",
+        "commonNames": [
+            "Sufentanil",
+            "Sufentanyl",
+            "Sufenta",
+            "Chronogesic"
+        ],
+        "class": {
+            "chemical": [
+                "Anilidopiperidine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Synthetic cannabinoid",
+        "url": "https://psychonautwiki.org/wiki/Synthetic_cannabinoid",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "THC-O",
+        "url": "https://psychonautwiki.org/wiki/THC-O",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    },
+    {
+        "name": "THJ-018",
+        "url": "https://psychonautwiki.org/wiki/THJ-018",
+        "commonNames": [
+            "THJ-018"
+        ],
+        "class": {
+            "chemical": [
+                "Naphthoylindazole"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "THJ-2201",
+        "url": "https://psychonautwiki.org/wiki/THJ-2201",
+        "commonNames": [
+            "THJ-2201"
+        ],
+        "class": {
+            "chemical": [
+                "Naphthoylindazole"
+            ],
+            "psychoactive": [
+                "Cannabinoid"
+            ]
+        }
+    },
+    {
+        "name": "TMA",
+        "url": "https://psychonautwiki.org/wiki/TMA",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "TMA-2",
+        "url": "https://psychonautwiki.org/wiki/TMA-2",
+        "commonNames": [
+            "TMA-2"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "TMA-6",
+        "url": "https://psychonautwiki.org/wiki/TMA-6",
+        "commonNames": [
+            "TMA-6"
+        ],
+        "class": {
+            "chemical": [
+                "Amphetamine",
+                "Substituted amphetamine"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Tabernanthe iboga (botany)",
+        "url": "https://psychonautwiki.org/wiki/Tabernanthe_iboga_(botany)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Tapentadol",
+        "url": "https://psychonautwiki.org/wiki/Tapentadol",
+        "commonNames": [
+            "Tapentadol",
+            "Nucynta",
+            "Palexia",
+            "Yantil",
+            "Yantil SR"
+        ],
+        "class": {
+            "chemical": [
+                "Phenylpropylamine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Temazepam",
+        "url": "https://psychonautwiki.org/wiki/Temazepam",
+        "commonNames": [
+            "Temazepam",
+            "Restoril",
+            "Normison"
+        ],
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "N-Methyl-Cyclazodone",
+        "url": "https://psychonautwiki.org/wiki/N-Methyl-Cyclazodone",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Substituted aminorexes",
+                "4-oxazolidinone"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Theacrine",
+        "url": "https://psychonautwiki.org/wiki/Theacrine",
+        "commonNames": [
+            "Theacrine",
+            "Temurin",
+            "Temorine"
+        ],
+        "class": {
+            "chemical": [
+                "Xanthines",
+                "Purine alkaloid"
+            ],
+            "psychoactive": [
+                "Stimulants",
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Theanine",
+        "url": "https://psychonautwiki.org/wiki/Theanine",
+        "commonNames": [
+            "Theanine",
+            "L-Theanine",
+            "L-γ-glutamylethylamide and N5-ethyl-L-glutamine"
+        ],
+        "class": {
+            "chemical": [
+                "Amino acid analogue"
+            ],
+            "psychoactive": [
+                "Nootropic"
+            ]
+        }
+    },
+    {
+        "name": "Thebaine",
+        "url": "https://psychonautwiki.org/wiki/Thebaine",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Thienodiazepines",
+        "url": "https://psychonautwiki.org/wiki/Thienodiazepines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Thujone",
+        "url": "https://psychonautwiki.org/wiki/Thujone",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Tianeptine",
+        "url": "https://psychonautwiki.org/wiki/Tianeptine",
+        "commonNames": [
+            "Tianeptine",
+            "Stablon",
+            "Coaxil",
+            "Tatinol"
+        ],
+        "class": {
+            "chemical": [
+                "Dibenzothiazepine",
+                "Tricyclic antidepressant"
+            ],
+            "psychoactive": [
+                "Nootropic",
+                "Opioids",
+                "Antidepressants"
+            ]
+        }
+    },
+    {
+        "name": "Tramadol",
+        "url": "https://psychonautwiki.org/wiki/Tramadol",
+        "commonNames": [
+            "Tramadol",
+            "Tramal",
+            "Tadol",
+            "Tramacur",
+            "Tramundin"
+        ],
+        "class": {
+            "chemical": [
+                "Phenylpropylamine"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Triazolam",
+        "url": "https://psychonautwiki.org/wiki/Triazolam",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Benzodiazepines"
+            ],
+            "psychoactive": [
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Troparil",
+        "url": "https://psychonautwiki.org/wiki/Troparil",
+        "commonNames": [
+            "Troparil",
+            "WIN 35,065-2",
+            "β-CPT"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tropanes"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "Tryptamine (compound)",
+        "url": "https://psychonautwiki.org/wiki/Tryptamine_(compound)",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Tyrosine",
+        "url": "https://psychonautwiki.org/wiki/Tyrosine",
+        "commonNames": [
+            "Tyrosine",
+            "L-Tyrosine",
+            "4-Hydroxyphenylalanine"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines",
+                "Amino acid"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "U-47700",
+        "url": "https://psychonautwiki.org/wiki/U-47700",
+        "commonNames": [
+            "U-47700"
+        ],
+        "class": {
+            "chemical": [
+                "Benzamide"
+            ],
+            "psychoactive": [
+                "Opioids"
+            ]
+        }
+    },
+    {
+        "name": "Xanthines",
+        "url": "https://psychonautwiki.org/wiki/Xanthines",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Zaleplon",
+        "url": "https://psychonautwiki.org/wiki/Zaleplon",
+        "commonNames": [
+            "Sonata",
+            "Starnoc",
+            "Andante"
+        ],
+        "class": {
+            "chemical": [
+                "Pyrazolopyrimidine"
+            ],
+            "psychoactive": [
+                "Hallucinogens",
+                "Depressant",
+                "Hypnotic"
+            ]
+        }
+    },
+    {
+        "name": "Zolpidem",
+        "url": "https://psychonautwiki.org/wiki/Zolpidem",
+        "commonNames": [
+            "Ambien",
+            "Intermezzo",
+            "Edluar",
+            "Zolpimist"
+        ],
+        "class": {
+            "chemical": [
+                "Imidazopyridine"
+            ],
+            "psychoactive": [
+                "Hallucinogens",
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Zopiclone",
+        "url": "https://psychonautwiki.org/wiki/Zopiclone",
+        "commonNames": [
+            "Zimovane",
+            "Imovane"
+        ],
+        "class": {
+            "chemical": [
+                "Cyclopyrrolone"
+            ],
+            "psychoactive": [
+                "Hallucinogens",
+                "Depressant"
+            ]
+        }
+    },
+    {
+        "name": "Beta-Carboline",
+        "url": "https://psychonautwiki.org/wiki/Beta-Carboline",
+        "commonNames": null,
+        "class": null
+    },
+    {
+        "name": "Α-PiHP",
+        "url": "https://psychonautwiki.org/wiki/%CE%91-PiHP",
+        "commonNames": null,
+        "class": {
+            "chemical": [
+                "Pyrrolidinophenone",
+                "Khat#1#"
+            ],
+            "psychoactive": [
+                "Stimulants"
+            ]
+        }
+    },
+    {
+        "name": "ΑMT",
+        "url": "https://psychonautwiki.org/wiki/%CE%91MT",
+        "commonNames": [
+            "AMT",
+            "αMT",
+            "Indopan"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted tryptamines"
+            ],
+            "psychoactive": [
+                "Psychedelic",
+                "Entactogen"
+            ]
+        }
+    },
+    {
+        "name": "Βk-2C-B",
+        "url": "https://psychonautwiki.org/wiki/%CE%92k-2C-B",
+        "commonNames": [
+            "βk-2C-B",
+            "beta-keto 2C-B",
+            "bk-2C-B"
+        ],
+        "class": {
+            "chemical": [
+                "Substituted phenethylamines"
+            ],
+            "psychoactive": [
+                "Psychedelic"
+            ]
+        }
+    }
+]
+ 

@@ -47,10 +47,6 @@ struct SubstancesHome: View {
     
     @State var showOverlay = false
     
-    @State private var selectedFlavor: String = ""
-    
-    @State private var searchText: String = ""
-    
     var body: some View {
         NavigationView {
             VStack{
@@ -60,48 +56,69 @@ struct SubstancesHome: View {
                         .frame(maxWidth: .infinity, alignment: .leading)
                 }
                 
-                ZStack {
-                    RoundedRectangle(cornerRadius: 20)
-                        .foregroundColor(Color("Secondary"))
-                    VStack() {
-                        Text("").font(.title2)
+                VStack() {
+                    ZStack {
                         
-                        let dp = DataPoint(value: SubstancesHome.mock[0].endValue, label: "Come up", legend: Legend(color: .orange, label: "Come up", order: 2))
-                        BarChartView(dataPoints: SubstancesHome.mock, limit: dp)
-                            .chartStyle(
-                                BarChartStyle(
-                                    showAxis: false,
-                                    showLabels: true,
-                                    labelCount: 5,
-                                    showLegends: false
+                        VStack() {
+                            Text("").font(.title2)
+                            
+                            let dp = DataPoint(value: SubstancesHome.mock[0].endValue, label: "Come up", legend: Legend(color: .orange, label: "Come up", order: 2))
+                            BarChartView(dataPoints: SubstancesHome.mock, limit: dp)
+                                .chartStyle(
+                                    BarChartStyle(
+                                        showAxis: false,
+                                        showLabels: true,
+                                        labelCount: 5,
+                                        showLegends: false
+                                    )
                                 )
-                            )
+                            
+                            
+                        }
+                        .padding(16).foregroundColor(Color("Primary")).cornerRadius(20)
+                        
                         
                         
                     }
-                    .padding(16).foregroundColor(Color("Primary")).cornerRadius(20)
+                    .frame(height: 150)
+                    
+                    ZStack {
+                        RoundedRectangle(cornerRadius: 15)
+                            .foregroundColor(Color("Secondary"))
+                        HStack {
+                            Text("BPM")
+                            Text("BPM")
+                        }
+                    }.frame(height: 75)
                     
                 }
-                .frame(maxHeight: UIScreen.main.bounds.height * 0.15)
+                
+                
+
                 
                 Divider()
-                    .padding(.top, 16.0)
                 
                 
                 
                 
                 HStack {
                     Text("Active Substances")
-                        .font(.title.bold())
+                        .font(.title2)
                         .frame(maxWidth: .infinity, alignment: .leading)
                     Button() {
                         showOverlay.toggle()
                     } label: {
                         Image(systemName: "plus")
-                    }
+                            
+                    } .foregroundColor(.accentColor)
+                }
+                
+                ScrollView {
+                    
                 }
                 
                 Spacer()
+            
             }
             .padding(16)
             
@@ -109,36 +126,14 @@ struct SubstancesHome: View {
             
             
             .sheet(isPresented: $showOverlay) {
-                VStack() {
-//                    HStack() {
-//
-//
-//                        Button("Dismiss",
-//                               action: { showOverlay.toggle() }).foregroundColor(Color("Primary")).frame(maxWidth: .infinity, alignment: .center)
-//
-//
-//                    }.padding(8)
-                    
-                    NavigationStack {
-                        List() {
-                            //                        Text("Searching for \(searchText)")
-                            
-                        }
-                        .searchable(text: $searchText)
-                        .navigationTitle("Known substances")
-                    }
-                    .padding(-16.0)
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                }
-                .padding().foregroundColor(Color("Primary"))
+                HStack() {
+                    Button("Dismiss",
+                           action: { showOverlay.toggle() }).foregroundColor(Color("Primary")).frame(maxWidth: .infinity, alignment: .trailing)
+
+
+                }.padding(16)
                 
+                SubstancesAdd()
             }
             
         }

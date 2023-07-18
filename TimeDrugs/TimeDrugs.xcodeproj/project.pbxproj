@@ -17,6 +17,20 @@
 		1B7E4CCD2A657D970012BEA0 /* SubstancesHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */; };
 		1B7E4CD72A6593800012BEA0 /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 1B7E4CD62A6593800012BEA0 /* SwiftUICharts */; };
 		1B7E4CDE2A65CC820012BEA0 /* SlideOverCard in Frameworks */ = {isa = PBXBuildFile; productRef = 1B7E4CDD2A65CC820012BEA0 /* SlideOverCard */; };
+		1B82AE8F2A6685EE00795CB4 /* SubstancesAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B82AE8E2A6685EE00795CB4 /* SubstancesAdd.swift */; };
+		1BB66E952A669E13001FF7CF /* Apollo in Frameworks */ = {isa = PBXBuildFile; productRef = 1BB66E942A669E13001FF7CF /* Apollo */; };
+		1BB66E9F2A66A4FD001FF7CF /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66E9E2A66A4FD001FF7CF /* Network.swift */; };
+		1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */; };
+		1BB66EAB2A66AAD4001FF7CF /* apollo-ios-cli in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */; };
+		1BB66EAE2A66AE6E001FF7CF /* SubstancesQuery.graphql in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EAD2A66AE6E001FF7CF /* SubstancesQuery.graphql */; };
+		1BB66EBA2A66AFD9001FF7CF /* SubstanceListQuery.graphql.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB22A66AFD9001FF7CF /* SubstanceListQuery.graphql.swift */; };
+		1BB66EBB2A66AFD9001FF7CF /* Substance.graphql.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB52A66AFD9001FF7CF /* Substance.graphql.swift */; };
+		1BB66EBC2A66AFD9001FF7CF /* Query.graphql.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB62A66AFD9001FF7CF /* Query.graphql.swift */; };
+		1BB66EBD2A66AFD9001FF7CF /* SchemaConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB72A66AFD9001FF7CF /* SchemaConfiguration.swift */; };
+		1BB66EBE2A66AFD9001FF7CF /* SchemaMetadata.graphql.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB82A66AFD9001FF7CF /* SchemaMetadata.graphql.swift */; };
+		1BB66EBF2A66AFD9001FF7CF /* SubstanceSchema.graphql.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB92A66AFD9001FF7CF /* SubstanceSchema.graphql.swift */; };
+		1BB66EC12A66D67B001FF7CF /* substances.json in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EC02A66D67B001FF7CF /* substances.json */; };
+		1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EC32A66DB8A001FF7CF /* Substance.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +63,19 @@
 		1B7E4CB92A6556B20012BEA0 /* TimeDrugsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeDrugsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesHome.swift; sourceTree = "<group>"; };
 		1B7E4CDB2A65BBE30012BEA0 /* TimeDrugs.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TimeDrugs.entitlements; sourceTree = "<group>"; };
+		1B82AE8E2A6685EE00795CB4 /* SubstancesAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesAdd.swift; sourceTree = "<group>"; };
+		1BB66E9E2A66A4FD001FF7CF /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "apollo-codegen-config.json"; sourceTree = "<group>"; };
+		1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "apollo-ios-cli"; sourceTree = "<group>"; };
+		1BB66EAD2A66AE6E001FF7CF /* SubstancesQuery.graphql */ = {isa = PBXFileReference; lastKnownFileType = text; path = SubstancesQuery.graphql; sourceTree = "<group>"; };
+		1BB66EB22A66AFD9001FF7CF /* SubstanceListQuery.graphql.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubstanceListQuery.graphql.swift; sourceTree = "<group>"; };
+		1BB66EB52A66AFD9001FF7CF /* Substance.graphql.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Substance.graphql.swift; sourceTree = "<group>"; };
+		1BB66EB62A66AFD9001FF7CF /* Query.graphql.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Query.graphql.swift; sourceTree = "<group>"; };
+		1BB66EB72A66AFD9001FF7CF /* SchemaConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SchemaConfiguration.swift; sourceTree = "<group>"; };
+		1BB66EB82A66AFD9001FF7CF /* SchemaMetadata.graphql.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SchemaMetadata.graphql.swift; sourceTree = "<group>"; };
+		1BB66EB92A66AFD9001FF7CF /* SubstanceSchema.graphql.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubstanceSchema.graphql.swift; sourceTree = "<group>"; };
+		1BB66EC02A66D67B001FF7CF /* substances.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = substances.json; sourceTree = "<group>"; };
+		1BB66EC32A66DB8A001FF7CF /* Substance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Substance.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +84,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B7E4CDE2A65CC820012BEA0 /* SlideOverCard in Frameworks */,
+				1BB66E952A669E13001FF7CF /* Apollo in Frameworks */,
 				1B7E4CD72A6593800012BEA0 /* SwiftUICharts in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -101,6 +129,10 @@
 		1B7E4C9B2A6556B10012BEA0 /* TimeDrugs */ = {
 			isa = PBXGroup;
 			children = (
+				1BB66EAF2A66AFD9001FF7CF /* GraphQL */,
+				1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */,
+				1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */,
+				1BB66E9D2A66A4EF001FF7CF /* Network */,
 				1B7E4CDB2A65BBE30012BEA0 /* TimeDrugs.entitlements */,
 				1B7E4CCB2A657D770012BEA0 /* Substances */,
 				1B7E4C9C2A6556B10012BEA0 /* TimeDrugsApp.swift */,
@@ -139,9 +171,82 @@
 		1B7E4CCB2A657D770012BEA0 /* Substances */ = {
 			isa = PBXGroup;
 			children = (
+				1BB66EC22A66DB7A001FF7CF /* Models */,
 				1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */,
+				1B82AE8E2A6685EE00795CB4 /* SubstancesAdd.swift */,
+				1BB66EC02A66D67B001FF7CF /* substances.json */,
 			);
 			path = Substances;
+			sourceTree = "<group>";
+		};
+		1BB66E9D2A66A4EF001FF7CF /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EAC2A66AE59001FF7CF /* Operations */,
+				1BB66E9E2A66A4FD001FF7CF /* Network.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		1BB66EAC2A66AE59001FF7CF /* Operations */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EAD2A66AE6E001FF7CF /* SubstancesQuery.graphql */,
+			);
+			path = Operations;
+			sourceTree = "<group>";
+		};
+		1BB66EAF2A66AFD9001FF7CF /* GraphQL */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EB02A66AFD9001FF7CF /* Operations */,
+				1BB66EB32A66AFD9001FF7CF /* Schema */,
+				1BB66EB92A66AFD9001FF7CF /* SubstanceSchema.graphql.swift */,
+			);
+			path = GraphQL;
+			sourceTree = "<group>";
+		};
+		1BB66EB02A66AFD9001FF7CF /* Operations */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EB12A66AFD9001FF7CF /* Queries */,
+			);
+			path = Operations;
+			sourceTree = "<group>";
+		};
+		1BB66EB12A66AFD9001FF7CF /* Queries */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EB22A66AFD9001FF7CF /* SubstanceListQuery.graphql.swift */,
+			);
+			path = Queries;
+			sourceTree = "<group>";
+		};
+		1BB66EB32A66AFD9001FF7CF /* Schema */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EB42A66AFD9001FF7CF /* Objects */,
+				1BB66EB72A66AFD9001FF7CF /* SchemaConfiguration.swift */,
+				1BB66EB82A66AFD9001FF7CF /* SchemaMetadata.graphql.swift */,
+			);
+			path = Schema;
+			sourceTree = "<group>";
+		};
+		1BB66EB42A66AFD9001FF7CF /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EB52A66AFD9001FF7CF /* Substance.graphql.swift */,
+				1BB66EB62A66AFD9001FF7CF /* Query.graphql.swift */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		1BB66EC22A66DB7A001FF7CF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EC32A66DB8A001FF7CF /* Substance.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +268,7 @@
 			packageProductDependencies = (
 				1B7E4CD62A6593800012BEA0 /* SwiftUICharts */,
 				1B7E4CDD2A65CC820012BEA0 /* SlideOverCard */,
+				1BB66E942A669E13001FF7CF /* Apollo */,
 			);
 			productName = TimeDrugs;
 			productReference = 1B7E4C992A6556B10012BEA0 /* TimeDrugs.app */;
@@ -239,6 +345,7 @@
 			packageReferences = (
 				1B7E4CD52A6593800012BEA0 /* XCRemoteSwiftPackageReference "SwiftUICharts" */,
 				1B7E4CDC2A65CC820012BEA0 /* XCRemoteSwiftPackageReference "SlideOverCard" */,
+				1BB66E932A669E13001FF7CF /* XCRemoteSwiftPackageReference "apollo-ios" */,
 			);
 			productRefGroup = 1B7E4C9A2A6556B10012BEA0 /* Products */;
 			projectDirPath = "";
@@ -256,8 +363,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BB66EC12A66D67B001FF7CF /* substances.json in Resources */,
 				1B7E4CA42A6556B20012BEA0 /* Preview Assets.xcassets in Resources */,
+				1BB66EAB2A66AAD4001FF7CF /* apollo-ios-cli in Resources */,
+				1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */,
 				1B7E4CA12A6556B20012BEA0 /* Assets.xcassets in Resources */,
+				1BB66EAE2A66AE6E001FF7CF /* SubstancesQuery.graphql in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,9 +393,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BB66EBB2A66AFD9001FF7CF /* Substance.graphql.swift in Sources */,
+				1BB66EBC2A66AFD9001FF7CF /* Query.graphql.swift in Sources */,
+				1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */,
+				1BB66EBA2A66AFD9001FF7CF /* SubstanceListQuery.graphql.swift in Sources */,
+				1BB66E9F2A66A4FD001FF7CF /* Network.swift in Sources */,
 				1B7E4C9F2A6556B10012BEA0 /* ContentView.swift in Sources */,
 				1B7E4CCD2A657D970012BEA0 /* SubstancesHome.swift in Sources */,
+				1B82AE8F2A6685EE00795CB4 /* SubstancesAdd.swift in Sources */,
 				1B7E4C9D2A6556B10012BEA0 /* TimeDrugsApp.swift in Sources */,
+				1BB66EBF2A66AFD9001FF7CF /* SubstanceSchema.graphql.swift in Sources */,
+				1BB66EBE2A66AFD9001FF7CF /* SchemaMetadata.graphql.swift in Sources */,
+				1BB66EBD2A66AFD9001FF7CF /* SchemaConfiguration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -631,6 +751,14 @@
 				minimumVersion = 2.0.0;
 			};
 		};
+		1BB66E932A669E13001FF7CF /* XCRemoteSwiftPackageReference "apollo-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apollographql/apollo-ios";
+			requirement = {
+				kind = upToNextMinorVersion;
+				minimumVersion = 1.3.0;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -643,6 +771,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 1B7E4CDC2A65CC820012BEA0 /* XCRemoteSwiftPackageReference "SlideOverCard" */;
 			productName = SlideOverCard;
+		};
+		1BB66E942A669E13001FF7CF /* Apollo */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 1BB66E932A669E13001FF7CF /* XCRemoteSwiftPackageReference "apollo-ios" */;
+			productName = Apollo;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
