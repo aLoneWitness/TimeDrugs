@@ -8,44 +8,38 @@
 import SwiftUI
 import SwiftUICharts
 import SlideOverCard
+import Combine
 
 struct SubstancesHome: View {
-    static var mock: [DataPoint] {
-        let onset = Legend(color: .orange, label: "Onset", order: 1)
-        let comeup = Legend(color: .yellow, label: "Come up", order: 2)
-        let peak = Legend(color: .green, label: "Peak", order: 3)
-        let offset = Legend(color: .blue, label: "Offset", order: 4)
-        
-        
-        
-        
-        
-        return [
-            .init(value: 32, label: "Now", legend: onset),
-            .init(value: 91, label: "in 5 minutes", legend: onset),
-            .init(value: 92, label: "3", legend: onset),
-            .init(value: 130, label: "4", legend: comeup),
-            .init(value: 124, label: "5", legend: comeup),
-            .init(value: 135, label: "19:30", legend: comeup),
-            .init(value: 133, label: "7", legend: comeup),
-            .init(value: 136, label: "8", legend: comeup),
-            .init(value: 138, label: "9", legend: peak),
-            .init(value: 150, label: "10", legend: peak),
-            .init(value: 150, label: "19:45", legend: peak),
-            .init(value: 150, label: "12", legend: peak),
-            .init(value: 136, label: "13", legend: peak),
-            .init(value: 135, label: "14", legend: peak),
-            .init(value: 130, label: "15", legend: peak),
-            .init(value: 130, label: "20:00", legend: peak),
-            .init(value: 130, label: "17", legend: offset),
-            .init(value: 101, label: "18", legend: offset),
-            .init(value: 50, label: "19", legend: offset),
-            .init(value: 30, label: "20", legend: offset),
-        ]
-    }
+    static let everythingForEachLine: [EverythingForOneLine] = [
+        // full
+        EverythingForOneLine(
+            roaDuration: RoaDuration(
+                onset: DurationRange(min: 30, max: 60, units: .minutes),
+                comeup: DurationRange(min: 30, max: 60, units: .minutes),
+                peak: DurationRange(min: 2, max: 3, units: .hours),
+                offset: DurationRange(min: 1, max: 2, units: .hours),
+                total: nil,
+                afterglow: nil
+            ),
+            onsetDelayInHours: 3,
+            startTime: Date().addingTimeInterval(-3*60*60),
+            horizontalWeight: 0.5,
+            verticalWeight: 0.75,
+            color: .blue
+        )
+    ]
+    
+    static let everythingForEachRating: [EverythingForOneRating] = [
+        EverythingForOneRating(
+            time: Date().addingTimeInterval(-2*60*60),
+            option: .fourPlus
+        ),
+    ]
     
     
     @State var showOverlay = false
+//    @StateObject var heartHistoryModel: HeartHistoryModel = HeartHistoryModel()
     
     var body: some View {
         NavigationView {
@@ -54,71 +48,55 @@ struct SubstancesHome: View {
                     Text("Dashboard")
                         .font(.largeTitle.bold())
                         .frame(maxWidth: .infinity, alignment: .leading)
-                }
-                
-                VStack() {
-                    ZStack {
-                        
-                        VStack() {
-                            Text("").font(.title2)
-                            
-                            let dp = DataPoint(value: SubstancesHome.mock[0].endValue, label: "Come up", legend: Legend(color: .orange, label: "Come up", order: 2))
-                            BarChartView(dataPoints: SubstancesHome.mock, limit: dp)
-                                .chartStyle(
-                                    BarChartStyle(
-                                        showAxis: false,
-                                        showLabels: true,
-                                        labelCount: 5,
-                                        showLegends: false
-                                    )
-                                )
-                            
-                            
-                        }
-                        .padding(16).foregroundColor(Color("Primary")).cornerRadius(20)
-                        
-                        
-                        
-                    }
-                    .frame(height: 150)
-                    
-                    ZStack {
-                        RoundedRectangle(cornerRadius: 15)
-                            .foregroundColor(Color("Secondary"))
-                        HStack {
-                            Text("BPM")
-                            Text("BPM")
-                        }
-                    }.frame(height: 75)
-                    
-                }
-                
-                
-
-                
-                Divider()
-                
-                
-                
-                
-                HStack {
-                    Text("Active Substances")
-                        .font(.title2)
-                        .frame(maxWidth: .infinity, alignment: .leading)
                     Button() {
                         showOverlay.toggle()
                     } label: {
-                        Image(systemName: "plus")
-                            
+                        Image(systemName: "plus.circle")
+                            .font(.largeTitle)
+                            .foregroundColor(.accentColor)
+                         
                     } .foregroundColor(.accentColor)
                 }
+                
+                EffectTimeline(
+                    timelineModel: TimelineModel(
+                        everythingForEachLine: SubstancesHome.everythingForEachLine,
+                        everythingForEachRating: SubstancesHome.everythingForEachRating
+                    ),
+                    height: 175
+                )
+                
+//                VStack() {
+//                    ZStack {
+//                        RoundedRectangle(cornerRadius: 15)
+//                            .foregroundColor(Color("Secondary"))
+//                        HStack {
+//                            Text("BPM")
+//                            if let latestHeartData = heartHistoryModel.heartData.first {
+//                                Text(String(latestHeartData.heartRate))
+//                            }
+//                            else {
+//                                Text(String("None"))
+//                            }
+//
+//                        }
+//                    }.frame(height: 75)
+//
+//                }
+                
+                Divider()
+
+//                HStack {
+//                    Text("Active Substances")
+//                        .font(.title2)
+//                        .frame(maxWidth: .infinity, alignment: .leading)
+//                }
                 
                 ScrollView {
                     
                 }
                 
                 Spacer()
-            
             }
             .padding(16)
             
@@ -127,15 +105,28 @@ struct SubstancesHome: View {
             
             .sheet(isPresented: $showOverlay) {
                 HStack() {
+                    
+                    
                     Button("Dismiss",
                            action: { showOverlay.toggle() }).foregroundColor(Color("Primary")).frame(maxWidth: .infinity, alignment: .trailing)
 
 
                 }.padding(16)
                 
+                
+                
+                
+                
                 SubstancesAdd()
             }
             
+        }
+        .onAppear{
+//            self.heartHistoryModel.requestAuthorization() {_ in
+//                return
+//            }
+//
+//            self.heartHistoryModel.setupQuery()
         }
         
         

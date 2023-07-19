@@ -31,6 +31,36 @@
 		1BB66EBF2A66AFD9001FF7CF /* SubstanceSchema.graphql.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EB92A66AFD9001FF7CF /* SubstanceSchema.graphql.swift */; };
 		1BB66EC12A66D67B001FF7CF /* substances.json in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EC02A66D67B001FF7CF /* substances.json */; };
 		1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EC32A66DB8A001FF7CF /* Substance.swift */; };
+		1BB66EF72A66FB1F001FF7CF /* SubstanceTimingGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */; };
+		1BB66F0D2A66FE7B001FF7CF /* EverythingForOneRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EF92A66FE7B001FF7CF /* EverythingForOneRating.swift */; };
+		1BB66F0E2A66FE7B001FF7CF /* IngestionDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EFA2A66FE7B001FF7CF /* IngestionDrawable.swift */; };
+		1BB66F0F2A66FE7B001FF7CF /* TimelineModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EFB2A66FE7B001FF7CF /* TimelineModel.swift */; };
+		1BB66F102A66FE7B001FF7CF /* NoTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EFD2A66FE7B001FF7CF /* NoTimeline.swift */; };
+		1BB66F112A66FE7B001FF7CF /* OnsetComeupTotalTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EFE2A66FE7B001FF7CF /* OnsetComeupTotalTimeline.swift */; };
+		1BB66F122A66FE7B001FF7CF /* StrokeStyle-Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EFF2A66FE7B001FF7CF /* StrokeStyle-Timeline.swift */; };
+		1BB66F132A66FE7B001FF7CF /* OnsetComeupTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F002A66FE7B001FF7CF /* OnsetComeupTimeline.swift */; };
+		1BB66F142A66FE7B001FF7CF /* TimelineDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F012A66FE7B001FF7CF /* TimelineDrawable.swift */; };
+		1BB66F152A66FE7B001FF7CF /* FullTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F022A66FE7B001FF7CF /* FullTimeline.swift */; };
+		1BB66F162A66FE7B001FF7CF /* GraphicsContext-DrawDot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F032A66FE7B001FF7CF /* GraphicsContext-DrawDot.swift */; };
+		1BB66F172A66FE7B001FF7CF /* TotalTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F042A66FE7B001FF7CF /* TotalTimeline.swift */; };
+		1BB66F182A66FE7B001FF7CF /* OnsetComeupPeakTotalTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F052A66FE7B001FF7CF /* OnsetComeupPeakTotalTimeline.swift */; };
+		1BB66F192A66FE7B001FF7CF /* OnsetTotalTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F062A66FE7B001FF7CF /* OnsetTotalTimeline.swift */; };
+		1BB66F1A2A66FE7B001FF7CF /* OnsetComeupPeakTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F072A66FE7B001FF7CF /* OnsetComeupPeakTimeline.swift */; };
+		1BB66F1B2A66FE7B001FF7CF /* OnsetTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F082A66FE7B001FF7CF /* OnsetTimeline.swift */; };
+		1BB66F1E2A66FE7B001FF7CF /* EffectTimeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F0B2A66FE7B001FF7CF /* EffectTimeline.swift */; };
+		1BB66F1F2A66FE7B001FF7CF /* AxisDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F0C2A66FE7B001FF7CF /* AxisDrawable.swift */; };
+		1BB66F2C2A66FED0001FF7CF /* RoaRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F212A66FED0001FF7CF /* RoaRange.swift */; };
+		1BB66F312A66FED0001FF7CF /* RoaDuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F262A66FED0001FF7CF /* RoaDuration.swift */; };
+		1BB66F322A66FED0001FF7CF /* DurationRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66F272A66FED0001FF7CF /* DurationRange.swift */; };
+		1BB66FB62A6700F3001FF7CF /* SubstanceColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FB52A6700F3001FF7CF /* SubstanceColor.swift */; };
+		1BB66FB82A67012B001FF7CF /* ShulginRatingOption.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FB72A67012B001FF7CF /* ShulginRatingOption.swift */; };
+		1BB66FBE2A670145001FF7CF /* UnitPickerOptions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FBA2A670145001FF7CF /* UnitPickerOptions.swift */; };
+		1BB66FBF2A670145001FF7CF /* InteractionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FBB2A670145001FF7CF /* InteractionType.swift */; };
+		1BB66FC02A670145001FF7CF /* AdministrationRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FBC2A670145001FF7CF /* AdministrationRoute.swift */; };
+		1BB66FC12A670145001FF7CF /* DoseRangeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FBD2A670145001FF7CF /* DoseRangeType.swift */; };
+		1BB66FC32A67113F001FF7CF /* EverythingForOneLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FC22A67113F001FF7CF /* EverythingForOneLine.swift */; };
+		1BB66FC52A67117C001FF7CF /* RatingDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FC42A67117C001FF7CF /* RatingDrawable.swift */; };
+		1BB66FCB2A672788001FF7CF /* HealthKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FCA2A672788001FF7CF /* HealthKitManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +106,37 @@
 		1BB66EB92A66AFD9001FF7CF /* SubstanceSchema.graphql.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubstanceSchema.graphql.swift; sourceTree = "<group>"; };
 		1BB66EC02A66D67B001FF7CF /* substances.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = substances.json; sourceTree = "<group>"; };
 		1BB66EC32A66DB8A001FF7CF /* Substance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Substance.swift; sourceTree = "<group>"; };
+		1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstanceTimingGraph.swift; sourceTree = "<group>"; };
+		1BB66EF92A66FE7B001FF7CF /* EverythingForOneRating.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EverythingForOneRating.swift; sourceTree = "<group>"; };
+		1BB66EFA2A66FE7B001FF7CF /* IngestionDrawable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngestionDrawable.swift; sourceTree = "<group>"; };
+		1BB66EFB2A66FE7B001FF7CF /* TimelineModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineModel.swift; sourceTree = "<group>"; };
+		1BB66EFD2A66FE7B001FF7CF /* NoTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoTimeline.swift; sourceTree = "<group>"; };
+		1BB66EFE2A66FE7B001FF7CF /* OnsetComeupTotalTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnsetComeupTotalTimeline.swift; sourceTree = "<group>"; };
+		1BB66EFF2A66FE7B001FF7CF /* StrokeStyle-Timeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "StrokeStyle-Timeline.swift"; sourceTree = "<group>"; };
+		1BB66F002A66FE7B001FF7CF /* OnsetComeupTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnsetComeupTimeline.swift; sourceTree = "<group>"; };
+		1BB66F012A66FE7B001FF7CF /* TimelineDrawable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimelineDrawable.swift; sourceTree = "<group>"; };
+		1BB66F022A66FE7B001FF7CF /* FullTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullTimeline.swift; sourceTree = "<group>"; };
+		1BB66F032A66FE7B001FF7CF /* GraphicsContext-DrawDot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "GraphicsContext-DrawDot.swift"; sourceTree = "<group>"; };
+		1BB66F042A66FE7B001FF7CF /* TotalTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TotalTimeline.swift; sourceTree = "<group>"; };
+		1BB66F052A66FE7B001FF7CF /* OnsetComeupPeakTotalTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnsetComeupPeakTotalTimeline.swift; sourceTree = "<group>"; };
+		1BB66F062A66FE7B001FF7CF /* OnsetTotalTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnsetTotalTimeline.swift; sourceTree = "<group>"; };
+		1BB66F072A66FE7B001FF7CF /* OnsetComeupPeakTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnsetComeupPeakTimeline.swift; sourceTree = "<group>"; };
+		1BB66F082A66FE7B001FF7CF /* OnsetTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnsetTimeline.swift; sourceTree = "<group>"; };
+		1BB66F0B2A66FE7B001FF7CF /* EffectTimeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EffectTimeline.swift; sourceTree = "<group>"; };
+		1BB66F0C2A66FE7B001FF7CF /* AxisDrawable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AxisDrawable.swift; sourceTree = "<group>"; };
+		1BB66F212A66FED0001FF7CF /* RoaRange.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoaRange.swift; sourceTree = "<group>"; };
+		1BB66F262A66FED0001FF7CF /* RoaDuration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoaDuration.swift; sourceTree = "<group>"; };
+		1BB66F272A66FED0001FF7CF /* DurationRange.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DurationRange.swift; sourceTree = "<group>"; };
+		1BB66FB52A6700F3001FF7CF /* SubstanceColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SubstanceColor.swift; path = "../../../../../../Downloads/psychonautwiki-journal-ios-main/PsychonautWiki Journal/CoreDataHelpers/SubstanceColor.swift"; sourceTree = "<group>"; };
+		1BB66FB72A67012B001FF7CF /* ShulginRatingOption.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShulginRatingOption.swift; sourceTree = "<group>"; };
+		1BB66FBA2A670145001FF7CF /* UnitPickerOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitPickerOptions.swift; sourceTree = "<group>"; };
+		1BB66FBB2A670145001FF7CF /* InteractionType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractionType.swift; sourceTree = "<group>"; };
+		1BB66FBC2A670145001FF7CF /* AdministrationRoute.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdministrationRoute.swift; sourceTree = "<group>"; };
+		1BB66FBD2A670145001FF7CF /* DoseRangeType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoseRangeType.swift; sourceTree = "<group>"; };
+		1BB66FC22A67113F001FF7CF /* EverythingForOneLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EverythingForOneLine.swift; sourceTree = "<group>"; };
+		1BB66FC42A67117C001FF7CF /* RatingDrawable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingDrawable.swift; sourceTree = "<group>"; };
+		1BB66FC82A672679001FF7CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		1BB66FCA2A672788001FF7CF /* HealthKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKitManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +190,12 @@
 		1B7E4C9B2A6556B10012BEA0 /* TimeDrugs */ = {
 			isa = PBXGroup;
 			children = (
+				1BB66FC92A672779001FF7CF /* Health */,
+				1BB66FC82A672679001FF7CF /* Info.plist */,
+				1BB66FB92A670145001FF7CF /* Enums */,
+				1BB66FA22A670082001FF7CF /* CoreDataHelpers */,
+				1BB66F202A66FED0001FF7CF /* Decoding */,
+				1BB66EF82A66FE7B001FF7CF /* Timeline */,
 				1BB66EAF2A66AFD9001FF7CF /* GraphQL */,
 				1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */,
 				1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */,
@@ -175,6 +242,7 @@
 				1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */,
 				1B82AE8E2A6685EE00795CB4 /* SubstancesAdd.swift */,
 				1BB66EC02A66D67B001FF7CF /* substances.json */,
+				1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */,
 			);
 			path = Substances;
 			sourceTree = "<group>";
@@ -247,6 +315,78 @@
 				1BB66EC32A66DB8A001FF7CF /* Substance.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		1BB66EF82A66FE7B001FF7CF /* Timeline */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66FC42A67117C001FF7CF /* RatingDrawable.swift */,
+				1BB66FC22A67113F001FF7CF /* EverythingForOneLine.swift */,
+				1BB66EF92A66FE7B001FF7CF /* EverythingForOneRating.swift */,
+				1BB66EFA2A66FE7B001FF7CF /* IngestionDrawable.swift */,
+				1BB66EFB2A66FE7B001FF7CF /* TimelineModel.swift */,
+				1BB66EFC2A66FE7B001FF7CF /* Drawables */,
+				1BB66F0B2A66FE7B001FF7CF /* EffectTimeline.swift */,
+				1BB66F0C2A66FE7B001FF7CF /* AxisDrawable.swift */,
+			);
+			path = Timeline;
+			sourceTree = "<group>";
+		};
+		1BB66EFC2A66FE7B001FF7CF /* Drawables */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66EFD2A66FE7B001FF7CF /* NoTimeline.swift */,
+				1BB66EFE2A66FE7B001FF7CF /* OnsetComeupTotalTimeline.swift */,
+				1BB66EFF2A66FE7B001FF7CF /* StrokeStyle-Timeline.swift */,
+				1BB66F002A66FE7B001FF7CF /* OnsetComeupTimeline.swift */,
+				1BB66F012A66FE7B001FF7CF /* TimelineDrawable.swift */,
+				1BB66F022A66FE7B001FF7CF /* FullTimeline.swift */,
+				1BB66F032A66FE7B001FF7CF /* GraphicsContext-DrawDot.swift */,
+				1BB66F042A66FE7B001FF7CF /* TotalTimeline.swift */,
+				1BB66F052A66FE7B001FF7CF /* OnsetComeupPeakTotalTimeline.swift */,
+				1BB66F062A66FE7B001FF7CF /* OnsetTotalTimeline.swift */,
+				1BB66F072A66FE7B001FF7CF /* OnsetComeupPeakTimeline.swift */,
+				1BB66F082A66FE7B001FF7CF /* OnsetTimeline.swift */,
+			);
+			path = Drawables;
+			sourceTree = "<group>";
+		};
+		1BB66F202A66FED0001FF7CF /* Decoding */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66F212A66FED0001FF7CF /* RoaRange.swift */,
+				1BB66F262A66FED0001FF7CF /* RoaDuration.swift */,
+				1BB66F272A66FED0001FF7CF /* DurationRange.swift */,
+			);
+			path = Decoding;
+			sourceTree = "<group>";
+		};
+		1BB66FA22A670082001FF7CF /* CoreDataHelpers */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66FB72A67012B001FF7CF /* ShulginRatingOption.swift */,
+				1BB66FB52A6700F3001FF7CF /* SubstanceColor.swift */,
+			);
+			path = CoreDataHelpers;
+			sourceTree = "<group>";
+		};
+		1BB66FB92A670145001FF7CF /* Enums */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66FBA2A670145001FF7CF /* UnitPickerOptions.swift */,
+				1BB66FBB2A670145001FF7CF /* InteractionType.swift */,
+				1BB66FBC2A670145001FF7CF /* AdministrationRoute.swift */,
+				1BB66FBD2A670145001FF7CF /* DoseRangeType.swift */,
+			);
+			path = Enums;
+			sourceTree = "<group>";
+		};
+		1BB66FC92A672779001FF7CF /* Health */ = {
+			isa = PBXGroup;
+			children = (
+				1BB66FCA2A672788001FF7CF /* HealthKitManager.swift */,
+			);
+			path = Health;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -394,16 +534,46 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BB66EBB2A66AFD9001FF7CF /* Substance.graphql.swift in Sources */,
+				1BB66F312A66FED0001FF7CF /* RoaDuration.swift in Sources */,
+				1BB66FBE2A670145001FF7CF /* UnitPickerOptions.swift in Sources */,
+				1BB66EF72A66FB1F001FF7CF /* SubstanceTimingGraph.swift in Sources */,
 				1BB66EBC2A66AFD9001FF7CF /* Query.graphql.swift in Sources */,
 				1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */,
+				1BB66F1F2A66FE7B001FF7CF /* AxisDrawable.swift in Sources */,
+				1BB66FB82A67012B001FF7CF /* ShulginRatingOption.swift in Sources */,
+				1BB66F102A66FE7B001FF7CF /* NoTimeline.swift in Sources */,
 				1BB66EBA2A66AFD9001FF7CF /* SubstanceListQuery.graphql.swift in Sources */,
+				1BB66F112A66FE7B001FF7CF /* OnsetComeupTotalTimeline.swift in Sources */,
 				1BB66E9F2A66A4FD001FF7CF /* Network.swift in Sources */,
+				1BB66F0F2A66FE7B001FF7CF /* TimelineModel.swift in Sources */,
 				1B7E4C9F2A6556B10012BEA0 /* ContentView.swift in Sources */,
+				1BB66FBF2A670145001FF7CF /* InteractionType.swift in Sources */,
+				1BB66F1B2A66FE7B001FF7CF /* OnsetTimeline.swift in Sources */,
+				1BB66FB62A6700F3001FF7CF /* SubstanceColor.swift in Sources */,
+				1BB66FC12A670145001FF7CF /* DoseRangeType.swift in Sources */,
 				1B7E4CCD2A657D970012BEA0 /* SubstancesHome.swift in Sources */,
+				1BB66F162A66FE7B001FF7CF /* GraphicsContext-DrawDot.swift in Sources */,
+				1BB66F0D2A66FE7B001FF7CF /* EverythingForOneRating.swift in Sources */,
+				1BB66F0E2A66FE7B001FF7CF /* IngestionDrawable.swift in Sources */,
+				1BB66F132A66FE7B001FF7CF /* OnsetComeupTimeline.swift in Sources */,
+				1BB66FC32A67113F001FF7CF /* EverythingForOneLine.swift in Sources */,
+				1BB66F1A2A66FE7B001FF7CF /* OnsetComeupPeakTimeline.swift in Sources */,
+				1BB66FCB2A672788001FF7CF /* HealthKitManager.swift in Sources */,
 				1B82AE8F2A6685EE00795CB4 /* SubstancesAdd.swift in Sources */,
+				1BB66F142A66FE7B001FF7CF /* TimelineDrawable.swift in Sources */,
+				1BB66F2C2A66FED0001FF7CF /* RoaRange.swift in Sources */,
+				1BB66F172A66FE7B001FF7CF /* TotalTimeline.swift in Sources */,
+				1BB66F182A66FE7B001FF7CF /* OnsetComeupPeakTotalTimeline.swift in Sources */,
+				1BB66F192A66FE7B001FF7CF /* OnsetTotalTimeline.swift in Sources */,
 				1B7E4C9D2A6556B10012BEA0 /* TimeDrugsApp.swift in Sources */,
 				1BB66EBF2A66AFD9001FF7CF /* SubstanceSchema.graphql.swift in Sources */,
+				1BB66F122A66FE7B001FF7CF /* StrokeStyle-Timeline.swift in Sources */,
+				1BB66FC02A670145001FF7CF /* AdministrationRoute.swift in Sources */,
+				1BB66FC52A67117C001FF7CF /* RatingDrawable.swift in Sources */,
+				1BB66F322A66FED0001FF7CF /* DurationRange.swift in Sources */,
+				1BB66F152A66FE7B001FF7CF /* FullTimeline.swift in Sources */,
 				1BB66EBE2A66AFD9001FF7CF /* SchemaMetadata.graphql.swift in Sources */,
+				1BB66F1E2A66FE7B001FF7CF /* EffectTimeline.swift in Sources */,
 				1BB66EBD2A66AFD9001FF7CF /* SchemaConfiguration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -561,12 +731,19 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = TimeDrugs/TimeDrugs.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TimeDrugs/Preview Content\"";
 				DEVELOPMENT_TEAM = BS49Z8AJ8U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TimeDrugs/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = TimeDrugs;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "Need it for drugs";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Need it for drugs";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Need it for drugs";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -580,6 +757,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.vandinteren.TimeDrugs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -592,12 +770,19 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = TimeDrugs/TimeDrugs.entitlements;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TimeDrugs/Preview Content\"";
 				DEVELOPMENT_TEAM = BS49Z8AJ8U;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = TimeDrugs/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = TimeDrugs;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.healthcare-fitness";
+				INFOPLIST_KEY_NSHealthClinicalHealthRecordsShareUsageDescription = "Need it for drugs";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Need it for drugs";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Need it for drugs";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -611,6 +796,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.vandinteren.TimeDrugs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -51,7 +51,12 @@ struct SubstancesAdd: View {
     
     var searchResults: [Substance] {
         if searchText.isEmpty {
-            return substances
+            return substances.filter{
+                if($0.class == nil || $0.class?.psychoactive == nil) {
+                    return false
+                }
+                return true
+            }
         } else {
             return substances.filter {
                 if($0.class == nil || $0.class?.psychoactive == nil) {
@@ -76,14 +81,32 @@ struct SubstancesAdd: View {
     
     var body: some View {
         VStack() {
-            
-            
             NavigationStack {
                 List(searchResults, id: \.name) { substance in
-                    Text(substance.name)
+                    NavigationLink {
+                        Text(substance.name)
+                    } label: {
+                        Text(substance.name)
+                    }
+                    
+                    
+                    //                    VStack{
+                    //                        if let cns = substance.commonNames {
+                    //                            let cnsf = Array(cns.prefix(1))
+                    //                            ForEach(cnsf, id: \.self) { cn in
+                    //                                Text(cn)
+                    //                                    .font(Font.caption)
+                    //                                    .fixedSize(horizontal: true, vertical: true)
+                    //                                    .frame(width: .infinity, alignment: .leading)
+                    //
+//                            }
+//                        }
+//                    }
+                    
+                    
                 }
                 
-                .navigationTitle("Known substances")
+                .navigationTitle("Substances")
                 
             }
             .searchable(text: $searchText, prompt: "Find substance")
