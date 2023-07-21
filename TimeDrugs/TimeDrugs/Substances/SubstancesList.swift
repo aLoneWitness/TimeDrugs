@@ -9,10 +9,13 @@ import SwiftUI
 import Apollo
 import Combine
 
-struct SubstancesAdd: View {
+struct SubstanceList: View {
     @State private var searchText: String = ""
     
-    @State private var substances: [Substance] = []
+    @State private var substances: [JsonSubstance] = []
+    
+    @Environment(\.dismiss) private var dismiss
+
     
     let searchTextPublisher = PassthroughSubject<String, Never>()
     
@@ -41,7 +44,7 @@ struct SubstancesAdd: View {
 
             let decoder = JSONDecoder()
             
-            self.substances = try decoder.decode([Substance].self, from: data)
+            self.substances = try decoder.decode([JsonSubstance].self, from: data)
         }
         catch {
             fatalError("Cant parse JSON, \(error)")
@@ -49,7 +52,7 @@ struct SubstancesAdd: View {
         
     }
     
-    var searchResults: [Substance] {
+    var searchResults: [JsonSubstance] {
         if searchText.isEmpty {
             return substances.filter{
                 if($0.class == nil || $0.class?.psychoactive == nil) {
@@ -80,11 +83,12 @@ struct SubstancesAdd: View {
     }
     
     var body: some View {
-        VStack() {
+
             NavigationStack {
                 List(searchResults, id: \.name) { substance in
                     NavigationLink {
-                        Text(substance.name)
+                        SubstanceInfo(substanceName: substance.name)
+                            .navigationTitle(substance.name)
                     } label: {
                         Text(substance.name)
                     }
@@ -106,9 +110,19 @@ struct SubstancesAdd: View {
                     
                 }
                 
+                .toolbar {
+                  ToolbarItem(placement: .primaryAction) {
+                      Button("Close") {
+                          
+                          dismiss()
+                      }
+                  }
+                }
+
                 .navigationTitle("Substances")
                 
             }
+            
             .searchable(text: $searchText, prompt: "Find substance")
             .onChange(of: searchText) { value in
                 searchTextPublisher.send(value)
@@ -117,23 +131,24 @@ struct SubstancesAdd: View {
                 debounceSearchText in
                 self.updateData(searchString: debounceSearchText)
             }
-            .padding(-16.0)
+            .onAppear {
+                self.fillList()
+            }
             
+            
+
         
         }
-        .padding().foregroundColor(Color("Primary"))
-        .onAppear {
-            self.fillList()
-        }
         
         
         
-    }
+        
+    
 }
 
 struct SubstancesAdd_Previews: PreviewProvider {
     static var previews: some View {
-        SubstancesAdd()
+        SubstanceList()
     }
 }
 

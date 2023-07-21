@@ -33,6 +33,13 @@ extension SubstanceSchema {
       switch typename {
       case "Query": return SubstanceSchema.Objects.Query
       case "Substance": return SubstanceSchema.Objects.Substance
+      case "SubstanceRoa": return SubstanceSchema.Objects.SubstanceRoa
+      case "SubstanceRoaDose": return SubstanceSchema.Objects.SubstanceRoaDose
+      case "SubstanceRoaRange": return SubstanceSchema.Objects.SubstanceRoaRange
+      case "SubstanceRoaDurationRange": return SubstanceSchema.Objects.SubstanceRoaDurationRange
+      case "SubstanceRoaDuration": return SubstanceSchema.Objects.SubstanceRoaDuration
+      case "SubstanceClass": return SubstanceSchema.Objects.SubstanceClass
+      case "Effect": return SubstanceSchema.Objects.Effect
       default: return nil
       }
     }

@@ -39,7 +39,7 @@ struct SubstancesHome: View {
     
     
     @State var showOverlay = false
-//    @StateObject var heartHistoryModel: HeartHistoryModel = HeartHistoryModel()
+    //    @StateObject var heartHistoryModel: HeartHistoryModel = HeartHistoryModel()
     
     var body: some View {
         NavigationView {
@@ -54,7 +54,7 @@ struct SubstancesHome: View {
                         Image(systemName: "plus.circle")
                             .font(.largeTitle)
                             .foregroundColor(.accentColor)
-                         
+                        
                     } .foregroundColor(.accentColor)
                 }
                 
@@ -66,31 +66,31 @@ struct SubstancesHome: View {
                     height: 175
                 )
                 
-//                VStack() {
-//                    ZStack {
-//                        RoundedRectangle(cornerRadius: 15)
-//                            .foregroundColor(Color("Secondary"))
-//                        HStack {
-//                            Text("BPM")
-//                            if let latestHeartData = heartHistoryModel.heartData.first {
-//                                Text(String(latestHeartData.heartRate))
-//                            }
-//                            else {
-//                                Text(String("None"))
-//                            }
-//
-//                        }
-//                    }.frame(height: 75)
-//
-//                }
+                //                VStack() {
+                //                    ZStack {
+                //                        RoundedRectangle(cornerRadius: 15)
+                //                            .foregroundColor(Color("Secondary"))
+                //                        HStack {
+                //                            Text("BPM")
+                //                            if let latestHeartData = heartHistoryModel.heartData.first {
+                //                                Text(String(latestHeartData.heartRate))
+                //                            }
+                //                            else {
+                //                                Text(String("None"))
+                //                            }
+                //
+                //                        }
+                //                    }.frame(height: 75)
+                //
+                //                }
                 
                 Divider()
-
-//                HStack {
-//                    Text("Active Substances")
-//                        .font(.title2)
-//                        .frame(maxWidth: .infinity, alignment: .leading)
-//                }
+                
+                //                HStack {
+                //                    Text("Active Substances")
+                //                        .font(.title2)
+                //                        .frame(maxWidth: .infinity, alignment: .leading)
+                //                }
                 
                 ScrollView {
                     
@@ -104,29 +104,28 @@ struct SubstancesHome: View {
             
             
             .sheet(isPresented: $showOverlay) {
-                HStack() {
-                    
-                    
-                    Button("Dismiss",
-                           action: { showOverlay.toggle() }).foregroundColor(Color("Primary")).frame(maxWidth: .infinity, alignment: .trailing)
-
-
-                }.padding(16)
+                //                HStack() {
+                //
+                //
+                //                    Button("Dismiss",
+                //                           action: { showOverlay.toggle() }).foregroundColor(Color("Primary")).frame(maxWidth: .infinity, alignment: .trailing)
+                //
+                //
+                //                }.padding(16)
                 
                 
+                SubstanceList()
                 
                 
-                
-                SubstancesAdd()
             }
             
         }
         .onAppear{
-//            self.heartHistoryModel.requestAuthorization() {_ in
-//                return
-//            }
-//
-//            self.heartHistoryModel.setupQuery()
+            //            self.heartHistoryModel.requestAuthorization() {_ in
+            //                return
+            //            }
+            //
+            //            self.heartHistoryModel.setupQuery()
         }
         
         
