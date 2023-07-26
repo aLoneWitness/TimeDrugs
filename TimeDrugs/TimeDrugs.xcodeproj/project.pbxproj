@@ -216,7 +216,7 @@
 				1BB66FC92A672779001FF7CF /* Health */,
 				1BB66FC82A672679001FF7CF /* Info.plist */,
 				1BB66FB92A670145001FF7CF /* Enums */,
-				1BB66FA22A670082001FF7CF /* CoreDataHelpers */,
+				1BB66FA22A670082001FF7CF /* Helpers */,
 				1BB66F202A66FED0001FF7CF /* Decoding */,
 				1BB66EF82A66FE7B001FF7CF /* Timeline */,
 				1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */,
@@ -402,13 +402,13 @@
 			path = Decoding;
 			sourceTree = "<group>";
 		};
-		1BB66FA22A670082001FF7CF /* CoreDataHelpers */ = {
+		1BB66FA22A670082001FF7CF /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
 				1BB66FB72A67012B001FF7CF /* ShulginRatingOption.swift */,
 				1BB66FB52A6700F3001FF7CF /* SubstanceColor.swift */,
 			);
-			path = CoreDataHelpers;
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 		1BB66FB92A670145001FF7CF /* Enums */ = {
