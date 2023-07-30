@@ -64,7 +64,7 @@ enum Status: String, Decodable {
 
 struct Roa: Decodable {
     var name: String
-    var dose: Dosage
+    var dose: Dosage?
     var duration: Duration
 }
 
@@ -90,9 +90,9 @@ struct Dosage: Decodable {
     var units: String?
     var threshold: Float?
     var heavy: Float?
-    var common: Range
-    var light: Range
-    var strong: Range
+    var common: Range?
+    var light: Range?
+    var strong: Range?
 }
 
 struct Range: Decodable {

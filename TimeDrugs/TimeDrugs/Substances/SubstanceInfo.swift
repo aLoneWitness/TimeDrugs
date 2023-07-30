@@ -20,10 +20,10 @@ struct SubstanceInfo: View {
     func updateData() {
         self.isLoading = true
         
-        var concatString = "Known as "
+        var concatString = "Also known as "
 
         var tempCommonNames = self.substance.aliases
-        if(!tempCommonNames[0].isEmpty) {
+        if(!tempCommonNames.isEmpty) {
             concatString += tempCommonNames[0]
             tempCommonNames.removeFirst()
             tempCommonNames.forEach{ cn in

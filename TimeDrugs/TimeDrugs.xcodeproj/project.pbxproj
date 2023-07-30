@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		1B2B1BBC2A72C5CC00784CAD /* SubstanceColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B2B1BBB2A72C5CC00784CAD /* SubstanceColor.swift */; };
 		1B2B1BBE2A76950700784CAD /* output.og.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B2B1BBD2A76950700784CAD /* output.og.json */; };
-		1B2B1BC22A76D05100784CAD /* output.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B2B1BC12A76D05100784CAD /* output.json */; };
+		1B2B1BC32A76D39F00784CAD /* SubstancesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */; };
 		1B7E4C9D2A6556B10012BEA0 /* TimeDrugsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7E4C9C2A6556B10012BEA0 /* TimeDrugsApp.swift */; };
 		1B7E4C9F2A6556B10012BEA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7E4C9E2A6556B10012BEA0 /* ContentView.swift */; };
 		1B7E4CA12A6556B20012BEA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B7E4CA02A6556B20012BEA0 /* Assets.xcassets */; };
@@ -20,7 +20,7 @@
 		1B7E4CCD2A657D970012BEA0 /* SubstancesHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */; };
 		1B7E4CD72A6593800012BEA0 /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 1B7E4CD62A6593800012BEA0 /* SwiftUICharts */; };
 		1B7E4CDE2A65CC820012BEA0 /* SlideOverCard in Frameworks */ = {isa = PBXBuildFile; productRef = 1B7E4CDD2A65CC820012BEA0 /* SlideOverCard */; };
-		1B82AE8F2A6685EE00795CB4 /* SubstancesList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */; };
+		1B808FB12A76FA0A005EDFBC /* output.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B808FB02A76FA0A005EDFBC /* output.json */; };
 		1B868D1A2A67E35B00B0CD0A /* SubstanceInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */; };
 		1BB66E952A669E13001FF7CF /* Apollo in Frameworks */ = {isa = PBXBuildFile; productRef = 1BB66E942A669E13001FF7CF /* Apollo */; };
 		1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */; };
@@ -78,7 +78,6 @@
 /* Begin PBXFileReference section */
 		1B2B1BBB2A72C5CC00784CAD /* SubstanceColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubstanceColor.swift; sourceTree = "<group>"; };
 		1B2B1BBD2A76950700784CAD /* output.og.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = output.og.json; sourceTree = "<group>"; };
-		1B2B1BC12A76D05100784CAD /* output.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = output.json; sourceTree = "<group>"; };
 		1B7E4C992A6556B10012BEA0 /* TimeDrugs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeDrugs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B7E4C9C2A6556B10012BEA0 /* TimeDrugsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeDrugsApp.swift; sourceTree = "<group>"; };
 		1B7E4C9E2A6556B10012BEA0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +90,7 @@
 		1B7E4CB92A6556B20012BEA0 /* TimeDrugsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeDrugsUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesHome.swift; sourceTree = "<group>"; };
 		1B7E4CDB2A65BBE30012BEA0 /* TimeDrugs.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TimeDrugs.entitlements; sourceTree = "<group>"; };
+		1B808FB02A76FA0A005EDFBC /* output.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = output.json; sourceTree = "<group>"; };
 		1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesList.swift; sourceTree = "<group>"; };
 		1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstanceInfo.swift; sourceTree = "<group>"; };
 		1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "apollo-codegen-config.json"; sourceTree = "<group>"; };
@@ -231,7 +231,7 @@
 				1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */,
 				1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */,
 				1BB66EC02A66D67B001FF7CF /* substances.old */,
-				1B2B1BC12A76D05100784CAD /* output.json */,
+				1B808FB02A76FA0A005EDFBC /* output.json */,
 				1B2B1BBD2A76950700784CAD /* output.og.json */,
 				1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */,
 			);
@@ -434,7 +434,7 @@
 			files = (
 				1BB66EC12A66D67B001FF7CF /* substances.old in Resources */,
 				1B7E4CA42A6556B20012BEA0 /* Preview Assets.xcassets in Resources */,
-				1B2B1BC22A76D05100784CAD /* output.json in Resources */,
+				1B808FB12A76FA0A005EDFBC /* output.json in Resources */,
 				1BB66EAB2A66AAD4001FF7CF /* apollo-ios-cli in Resources */,
 				1B2B1BBE2A76950700784CAD /* output.og.json in Resources */,
 				1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */,
@@ -485,7 +485,6 @@
 				1BB66FC32A67113F001FF7CF /* EverythingForOneLine.swift in Sources */,
 				1BB66F1A2A66FE7B001FF7CF /* OnsetComeupPeakTimeline.swift in Sources */,
 				1BB66FCB2A672788001FF7CF /* HealthKitManager.swift in Sources */,
-				1B82AE8F2A6685EE00795CB4 /* SubstancesList.swift in Sources */,
 				1BB66F142A66FE7B001FF7CF /* TimelineDrawable.swift in Sources */,
 				1BB66F2C2A66FED0001FF7CF /* RoaRange.swift in Sources */,
 				1BB66F172A66FE7B001FF7CF /* TotalTimeline.swift in Sources */,
@@ -498,6 +497,7 @@
 				1BB66F322A66FED0001FF7CF /* DurationRange.swift in Sources */,
 				1BB66F152A66FE7B001FF7CF /* FullTimeline.swift in Sources */,
 				1BB66F1E2A66FE7B001FF7CF /* EffectTimeline.swift in Sources */,
+				1B2B1BC32A76D39F00784CAD /* SubstancesList.swift in Sources */,
 				1B868D1A2A67E35B00B0CD0A /* SubstanceInfo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
