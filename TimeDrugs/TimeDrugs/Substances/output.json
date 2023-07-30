@@ -1,0 +1,3597 @@
+[
+  {
+    "url": "https://psychonautwiki.org/wiki/1,4-Butanediol",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_14Butanediol.shtml",
+    "name": "1,4-Butanediol",
+    "aliases": [
+      "1,4-b",
+      "1,4-bd",
+      "14bd",
+      "bd",
+      "bdo",
+      "butylene glycol",
+      "one comma four",
+      "one four bee",
+      "or one four b-d-o"
+    ],
+    "aliasesStr": "1,4-b,1,4-bd,14bd,bd,bdo,butylene glycol,one comma four,one four bee,or one four b-d-o",
+    "summary": "1,4-BD is a clear liquid with intoxicating effects. It is a pro-drug for GHB, and has similar though reportedly inferior effects. It also carries the potential for more health risks than GHB, such as liver damage and neurotoxicity.",
+    "reagents": "Marquis: Faint Brown. | Mandelin: Brown.",
+    "classes": {
+      "chemical": [
+        "Alkanediol",
+        "Diol"
+      ],
+      "psychoactive": [
+        "Depressant"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately physically and psychologically addictive",
+    "tolerance": {
+      "full": "within several weeks of continuous use",
+      "half": null,
+      "zero": "7 - 14 days"
+    },
+    "crossTolerances": null,
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mL",
+          "threshold": 0.5,
+          "heavy": 4,
+          "common": {
+            "min": 1,
+            "max": 2.5
+          },
+          "light": {
+            "min": 0.5,
+            "max": 1
+          },
+          "strong": {
+            "min": 2.5,
+            "max": 4
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 1.5,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "total": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1B-LSD",
+    "experiencesUrl": null,
+    "name": "1B-LSD",
+    "aliases": [
+      "1b"
+    ],
+    "aliasesStr": "1b",
+    "summary": "1B-LSD (1-butanoyl-lysergic acid diethylamide) is an LSD analogue which appears to be about as potent as 1P-LSD (slightly more potent than LSD) and has a slightly shorter duration than that of LSD, again thought to be about the same as 1P-LSD. Released in late 2018, and marketed agressively as a replacement for 1P-LSD. 1B-LSD does not yet have a clearly established safety profile,",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "extremely low toxicity relative to dose"
+    ],
+    "addictionPotential": "non-addictive with a low abuse potential",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "5-7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 15,
+          "heavy": 300,
+          "common": {
+            "min": 75,
+            "max": 150
+          },
+          "light": {
+            "min": 25,
+            "max": 75
+          },
+          "strong": {
+            "min": 150,
+            "max": 300
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 45,
+            "max": 120,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1cP-AL-LAD",
+    "experiencesUrl": null,
+    "name": "1cP-AL-LAD",
+    "aliases": [],
+    "aliasesStr": "",
+    "summary": null,
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown",
+      "extremely low toxicity"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "5-7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 20,
+          "heavy": 350,
+          "common": {
+            "min": 100,
+            "max": 225
+          },
+          "light": {
+            "min": 50,
+            "max": 100
+          },
+          "strong": {
+            "min": 225,
+            "max": 350
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 18,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2.5,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 7,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1cP-LSD",
+    "experiencesUrl": null,
+    "name": "1cP-LSD",
+    "aliases": [
+      "1cp",
+      "1cplsd",
+      "curie"
+    ],
+    "aliasesStr": "1cp,1cplsd,curie",
+    "summary": "1cP-LSD (1-cyclopropionyl-lysergic acid diethylamide) is a novel lysergamide with little to no history of use. It is said to be a less pushy and shorter lasting version of LSD. Described as having a more gradual onset than 1P-LSD, with a less visual more meditative headspace when compared with LSD.*NOTE: This is a very new research chemical - take all info with a grain of salt.*",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": null,
+    "addictionPotential": "non-addictive with a low abuse potential",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "5-7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 15,
+          "heavy": 300,
+          "common": {
+            "min": 75,
+            "max": 150
+          },
+          "light": {
+            "min": 25,
+            "max": 75
+          },
+          "strong": {
+            "min": 150,
+            "max": 300
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 45,
+            "max": 120,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1cP-MiPLA",
+    "experiencesUrl": null,
+    "name": "1cP-MiPLA",
+    "aliases": [],
+    "aliasesStr": "",
+    "summary": null,
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown",
+      "extremely low toxicity"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "5-7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 50,
+          "heavy": 300,
+          "common": {
+            "min": 150,
+            "max": 200
+          },
+          "light": {
+            "min": 100,
+            "max": 150
+          },
+          "strong": {
+            "min": 200,
+            "max": 250
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": {
+            "min": 45,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1P-ETH-LAD",
+    "experiencesUrl": null,
+    "name": "1P-ETH-LAD",
+    "aliases": [
+      "1pethlad"
+    ],
+    "aliasesStr": "1pethlad",
+    "summary": "A new psychedelic lysergamide which is suspected to be a prodrug of ETH-LAD, which could explain why the doses are very similar. Or it could be active on its own. Scientific studies would need to be written to understand, yet there are none.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 25,
+          "heavy": 200,
+          "common": {
+            "min": 60,
+            "max": 100
+          },
+          "light": {
+            "min": 30,
+            "max": 60
+          },
+          "strong": {
+            "min": 100,
+            "max": 200
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 30,
+            "max": 90,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 6,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1P-LSD",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_1PLSD.shtml",
+    "name": "1P-LSD",
+    "aliases": [
+      "1p",
+      "1plsd"
+    ],
+    "aliasesStr": "1p,1plsd",
+    "summary": "An LSD analogue which appears to be slightly more potent with a shorter duration. Its effects are reported to be extremely similar to LSD, and thus far seems to be similarly safe. Released in late 2014, It has quickly become a highly popular research chemical due to its implicit legality, similarity to LSD and wide availability on the Internet.",
+    "reagents": "Marquis: Slow Purple. | Mecke: Brown. | Mandelin: No colour change. | Froehde: No colour change. | Liebermann: No colour change. | Ehrlich's Reagent: No colour change. | Gallic Acid: Brown.",
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "extremely low toxicity relative to dose"
+    ],
+    "addictionPotential": "non-addictive with a low abuse potential",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "5-7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 15,
+          "heavy": 300,
+          "common": {
+            "min": 75,
+            "max": 150
+          },
+          "light": {
+            "min": 25,
+            "max": 75
+          },
+          "strong": {
+            "min": 150,
+            "max": 300
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 45,
+            "max": 120,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/1V-LSD",
+    "experiencesUrl": null,
+    "name": "1V-LSD",
+    "aliases": [],
+    "aliasesStr": "",
+    "summary": null,
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Lysergamides"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "extremely low toxicity relative to dose"
+    ],
+    "addictionPotential": "non-addictive with a low abuse potential",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "5-7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 15,
+          "heavy": 300,
+          "common": {
+            "min": 75,
+            "max": 150
+          },
+          "light": {
+            "min": 25,
+            "max": 75
+          },
+          "strong": {
+            "min": 150,
+            "max": 300
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 45,
+            "max": 120,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2-Aminoindane",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2Aminoindan.shtml",
+    "name": "2-AI",
+    "aliases": [
+      "2-aminoindan",
+      "2-aminoindane",
+      "2ai"
+    ],
+    "aliasesStr": "2-aminoindan,2-aminoindane,2ai",
+    "summary": "Short acting stimulant that is sometimes compared to the likes of Methamphetamine. It is a rigid analogue of Amphetamine, and also partially substitutes for the prior in rat discrimination studies.",
+    "reagents": "Marquis: Orange > Brown. | Mecke: Yellow. | Mandelin: Blue. | Liebermann: Yellow Brown. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Aminoindane"
+      ],
+      "psychoactive": [
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 2 weeks"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 3,
+          "heavy": 40,
+          "common": {
+            "min": 10,
+            "max": 20
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 20,
+            "max": 40
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 10,
+            "max": 30,
+            "units": "minutes"
+          },
+          "peak": null,
+          "total": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2-FA",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2Fluoroamphetamine.shtml",
+    "name": "2-FA",
+    "aliases": [
+      "2-fluoroamphetamine",
+      "2-fmp",
+      "2fa"
+    ],
+    "aliasesStr": "2-fluoroamphetamine,2-fmp,2fa",
+    "summary": "Stimulant drug of the amphetamine family. Reported as having effects similar to those of Dextroamphetamine, but with a milder euphoria and a comparatively smoother comedown. Has a shorter duration and less empathogenic effect-profile as compared with 4-FA. Thought to produce less neurotoxic metabolites compared to amphetamine.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted amphetamine"
+      ],
+      "psychoactive": [
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 10 days"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 60,
+          "common": {
+            "min": 30,
+            "max": 50
+          },
+          "light": {
+            "min": 15,
+            "max": 30
+          },
+          "strong": {
+            "min": 50,
+            "max": 60
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": {
+            "min": 15,
+            "max": 30,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 1.5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 15,
+            "max": 30,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "total": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2-Fluorodeschloroketamine",
+    "experiencesUrl": null,
+    "name": "2-FDCK",
+    "aliases": [
+      "2-fk",
+      "2-fl-2'-oxo-pcm",
+      "2-fluorodeschloroketamine",
+      "2-fluoroketamine",
+      "2f-dck",
+      "2f-ket",
+      "2f-ketamine",
+      "2fdck",
+      "2fket",
+      "fluoroketamine"
+    ],
+    "aliasesStr": "2-fk,2-fl-2'-oxo-pcm,2-fluorodeschloroketamine,2-fluoroketamine,2f-dck,2f-ket,2f-ketamine,2fdck,2fket,fluoroketamine",
+    "summary": "Dissociative anesthetic of the arylcyclohexylamine class. Seemingly on par with ketamine in dosage. Longer onset than the prior.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Arylcyclohexylamines"
+      ],
+      "psychoactive": [
+        "Dissociatives"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 2 weeks"
+    },
+    "crossTolerances": [
+      "dissociative"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 175,
+          "common": {
+            "min": 45,
+            "max": 100
+          },
+          "light": {
+            "min": 10,
+            "max": 45
+          },
+          "strong": {
+            "min": 100,
+            "max": 175
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 5,
+            "max": 10,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 1,
+            "max": 3,
+            "units": "minutes"
+          },
+          "peak": null,
+          "total": {
+            "min": 1.5,
+            "max": 3,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 140,
+          "common": {
+            "min": 25,
+            "max": 70
+          },
+          "light": {
+            "min": 10,
+            "max": 25
+          },
+          "strong": {
+            "min": 70,
+            "max": 140
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 3,
+            "max": 8,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 15,
+            "max": 50,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 50,
+            "max": 100,
+            "units": "minutes"
+          },
+          "total": {
+            "min": 2.5,
+            "max": 5,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2-FEA",
+    "experiencesUrl": null,
+    "name": "2-FEA",
+    "aliases": [
+      "2-fluoroethylamphetamine"
+    ],
+    "aliasesStr": "2-fluoroethylamphetamine",
+    "summary": "Stimulant closely related to 2-FMA. Presumably slightly less potent than the prior. Toxicology and the likes are pretty much completely unknown. Tread with caution.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted amphetamine"
+      ],
+      "psychoactive": [
+        "Entactogen",
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 2 weeks"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 15,
+          "heavy": 60,
+          "common": {
+            "min": 30,
+            "max": 40
+          },
+          "light": {
+            "min": 20,
+            "max": 30
+          },
+          "strong": {
+            "min": 40,
+            "max": 60
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 5,
+            "max": 10,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "onset": {
+            "min": 5,
+            "max": 15,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "total": {
+            "min": 1,
+            "max": 2.5,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2-FMA",
+    "experiencesUrl": null,
+    "name": "2-FMA",
+    "aliases": [
+      "2fma"
+    ],
+    "aliasesStr": "2fma",
+    "summary": "A long-acting stimulant often compared to lisdexamphetamine. Thought to lack some of amphetamine's neurotoxic metabolites. Very functional, and for this reason it is commonly used for studying.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Amphetamine",
+        "Substituted amphetamine"
+      ],
+      "psychoactive": [
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 2 weeks"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 50,
+          "common": {
+            "min": 15,
+            "max": 30
+          },
+          "light": {
+            "min": 5,
+            "max": 15
+          },
+          "strong": {
+            "min": 30,
+            "max": 50
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 10,
+            "max": 20,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1.5,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 50,
+          "common": {
+            "min": 15,
+            "max": 30
+          },
+          "light": {
+            "min": 5,
+            "max": 15
+          },
+          "strong": {
+            "min": 30,
+            "max": 50
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 4,
+            "max": 12,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 15,
+            "max": 40,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2.5,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 7,
+            "max": 9,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2M2B",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2Methyl2Butanol.shtml",
+    "name": "2M2B",
+    "aliases": [
+      "2-methyl-2-butanol"
+    ],
+    "aliasesStr": "2-methyl-2-butanol",
+    "summary": "A tertiary alcohol that has sedative, hypnotic, and anxiolytic effects. It is also roughly 20x more potent than Ethanol by weight.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Alcohol"
+      ],
+      "psychoactive": [
+        "Depressant"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 2 weeks"
+    },
+    "crossTolerances": [
+      "GABA",
+      "depressants"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mL",
+          "threshold": 0.5,
+          "heavy": 15,
+          "common": {
+            "min": 5,
+            "max": 10
+          },
+          "light": {
+            "min": 1,
+            "max": 5
+          },
+          "strong": {
+            "min": 10,
+            "max": 15
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          },
+          "onset": null,
+          "peak": {
+            "min": 6,
+            "max": 8,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 14,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25B-NBOMe",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_25BNBOMe.shtml",
+    "name": "25B-NBOMe",
+    "aliases": [
+      "25b"
+    ],
+    "aliasesStr": "25b",
+    "summary": "Psychedelic Phenethylamine, active in the lower microgram range, that is not active orally.",
+    "reagents": "Marquis: Dark Green. | Mecke: Dark Green. | Mandelin: Red and Green. | Froehde: Yellow | Liebermann: Yellow > Black. | Ehrlich's Reagent: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "potentially fatal at heavy dosages"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "1 week",
+      "zero": "2 weeks"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 50,
+          "heavy": null,
+          "common": {
+            "min": 300,
+            "max": 500
+          },
+          "light": {
+            "min": 100,
+            "max": 300
+          },
+          "strong": {
+            "min": 500,
+            "max": 700
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 6,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25C-NBOH",
+    "experiencesUrl": null,
+    "name": "25C-NBOH",
+    "aliases": [],
+    "aliasesStr": "",
+    "summary": "A phenethylamine psychedelic and stimulant derivative of 2C-C, this compound is related and has  similar effects to 25c-NBOMe. It is significantly more potent than 2C-C but less potent than 25c-NBOMe. Overdoses of NBOH compounds may cause dangerous vasoconstriction. May induce uncomfortable body load.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "potentially fatal at heavy dosages"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "1 week",
+      "zero": "2 weeks"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 100,
+          "heavy": null,
+          "common": {
+            "min": 500,
+            "max": 750
+          },
+          "light": {
+            "min": 250,
+            "max": 500
+          },
+          "strong": {
+            "min": 750,
+            "max": 1000
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 3,
+            "max": 6,
+            "units": "days"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 15,
+            "max": 45,
+            "units": "minutes"
+          },
+          "peak": null,
+          "total": {
+            "min": 5,
+            "max": 7,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25C-NBOMe",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_25CNBOMe.shtml",
+    "name": "25C-NBOMe",
+    "aliases": [
+      "25c",
+      "2c-c-nbome",
+      "2c-nbome",
+      "cimbi-82",
+      "nbome-2c-c"
+    ],
+    "aliasesStr": "25c,2c-c-nbome,2c-nbome,cimbi-82,nbome-2c-c",
+    "summary": "A relatively new and popular research chemical. A short acting psychedelic related to 2C-C with similar effects to LSD, though more visual with less of a 'head-trip.' Frequently mis-sold as LSD. Causes an uncomfortable body load and has caused several deaths even within regular dose ranges.",
+    "reagents": "Marquis: Slow Purple. | Mecke: Brown. | Mandelin: No colour change.  | Froehde: Yellow. | Liebermann: Yellow > Black. | Ehrlich's Reagent: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "fatal at heavy dosages"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "7 days",
+      "zero": "14 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 50,
+          "heavy": null,
+          "common": {
+            "min": 300,
+            "max": 700
+          },
+          "light": {
+            "min": 100,
+            "max": 300
+          },
+          "strong": {
+            "min": 700,
+            "max": 1000
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": {
+            "min": 30,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 4,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 0,
+            "max": 15,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          },
+          "total": {
+            "min": 8,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25D-NBOMe",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_25DNBOMe.shtml",
+    "name": "25D-NBOMe",
+    "aliases": [
+      "25d",
+      "2c-d-nbome"
+    ],
+    "aliasesStr": "25d,2c-d-nbome",
+    "summary": "Uncommon analogue of 2C-D. Extremely potent psychedelic with stimulating qualities. Could cause dangerous vasoconstriction at high doses. May induce uncomfortable body load.",
+    "reagents": "Marquis: Orange > Red. | Mecke: Brown > Green. | Mandelin: Red and Green. | Liebermann: Yellow > Black. | Simon's: Red > Brown. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": null,
+    "addictionPotential": null,
+    "tolerance": null,
+    "crossTolerances": [
+      "psychedelics"
+    ],
+    "roas": [
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 300,
+          "heavy": null,
+          "common": {
+            "min": 800,
+            "max": 1000
+          },
+          "light": {
+            "min": 300,
+            "max": 800
+          },
+          "strong": {
+            "min": 1000,
+            "max": 1200
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25I-NBOH",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_25INBOH.shtml",
+    "name": "25I-NBOH",
+    "aliases": [
+      "cimbi-27",
+      "nboh-2ci"
+    ],
+    "aliasesStr": "cimbi-27,nboh-2ci",
+    "summary": "A phenethylamine psychedelic and stimulant derivative of 2C-I, this compound is related and has similar effects to 25i-NBOMe. It is significantly more potent than 2C-I but less potent than 25i-NBOMe. Overdoses of NBOH compounds may cause dangerous vasoconstriction. May induce uncomfortable body load.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "potentially fatal at heavy dosages"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "1 week",
+      "zero": "2 weeks"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 50,
+          "heavy": null,
+          "common": {
+            "min": 500,
+            "max": 900
+          },
+          "light": {
+            "min": 200,
+            "max": 500
+          },
+          "strong": {
+            "min": 900,
+            "max": 1400
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 3,
+            "max": 12,
+            "units": "days"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1.5,
+            "max": 2.5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 15,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 3.5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 5,
+            "max": 8,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25I-NBOMe",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_25INBOMe.shtml",
+    "name": "25I-NBOMe",
+    "aliases": [
+      "2-c-i-nbome",
+      "25-i",
+      "25i",
+      "cimbi-5"
+    ],
+    "aliasesStr": "2-c-i-nbome,25-i,25i,cimbi-5",
+    "summary": "A relatively new and popular research chemical with psychedelic properties. Users report an uncomfortable body load with very strong visuals, though with less of a mental aspect than most psychedelics. Commonly mis-sold as LSD, since it is much cheaper to produce. Is considered quite unsafe, and has caused several deaths at 'regular' doses.",
+    "reagents": "Marquis: Orange > Black. | Mecke: Brown > Black. | Mandelin: Brown > Black. | Froehde: Yellow | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "potentially fatal at heavy dosages"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "1 week",
+      "zero": "2 weeks"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 50,
+          "heavy": null,
+          "common": {
+            "min": 500,
+            "max": 700
+          },
+          "light": {
+            "min": 200,
+            "max": 500
+          },
+          "strong": {
+            "min": 700,
+            "max": null
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 7,
+            "units": "days"
+          },
+          "comeup": {
+            "min": 10,
+            "max": 30,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 120,
+            "max": 180,
+            "units": "minutes"
+          },
+          "onset": {
+            "min": 5,
+            "max": 10,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 60,
+            "max": 120,
+            "units": "minutes"
+          },
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 50,
+          "heavy": null,
+          "common": {
+            "min": 500,
+            "max": 700
+          },
+          "light": {
+            "min": 200,
+            "max": 500
+          },
+          "strong": {
+            "min": 700,
+            "max": 1000
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 3,
+            "max": 6,
+            "units": "days"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 120,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 4,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 15,
+            "max": 120,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 6,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/25N-NBOMe",
+    "experiencesUrl": null,
+    "name": "25N-NBOMe",
+    "aliases": [
+      "2-c-n-nbome",
+      "25n"
+    ],
+    "aliasesStr": "2-c-n-nbome,25n",
+    "summary": "A rare, highly potent and yellow psychedelic phenethylamine and derivative of 2C-N. Effects are similar to other NBOMe compounds, with hallucinations, intense body load, stimulation and vasoconstriction. At high doses vasoconstriction can be dangerous, exercise caution.",
+    "reagents": "Marquis: Red > Brown. | Mecke: Blue > Black. | Mandelin: Blue > Black. | Froehde: Brown. | Liebermann: Brown. | Simon's: Red > Brown. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "potentially fatal at heavy dosages"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "sublingual",
+        "dose": {
+          "units": "\u00b5g",
+          "threshold": 100,
+          "heavy": null,
+          "common": {
+            "min": 300,
+            "max": 800
+          },
+          "light": {
+            "min": 100,
+            "max": 300
+          },
+          "strong": {
+            "min": 800,
+            "max": 1300
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 5,
+            "max": 10,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 45,
+            "max": 75,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "total": {
+            "min": 5,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-B",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CB.shtml",
+    "name": "2C-B",
+    "aliases": [
+      "2-cb",
+      "2cb",
+      "bees",
+      "nexus"
+    ],
+    "aliasesStr": "2-cb,2cb,bees,nexus",
+    "summary": "A popular psychedelic in the phenethylamine family. Provides empathic experiences at lower doses and strong visual and psychedelic experiences at higher doses. Commonly used as a party drug as it is more clear-headed than most psychedelics. 2C-B has been in use since the early 1990s",
+    "reagents": "Marquis: Yellow > Green. | Mecke: Yellow > Green/Brown. | Mandelin: Green. | Froehde: Yellow > Green. | Liebermann: Yellow > Black. | Simon's No colour change or Purple. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "non-addictive with a low potential for abuse",
+    "tolerance": null,
+    "crossTolerances": null,
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 1,
+          "heavy": 23,
+          "common": {
+            "min": 8,
+            "max": 12
+          },
+          "light": {
+            "min": 5,
+            "max": 8
+          },
+          "strong": {
+            "min": 12,
+            "max": 23
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 0,
+            "max": 20,
+            "units": "minutes"
+          },
+          "peak": null,
+          "total": {
+            "min": 4,
+            "max": 7,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 45,
+          "common": {
+            "min": 15,
+            "max": 25
+          },
+          "light": {
+            "min": 10,
+            "max": 15
+          },
+          "strong": {
+            "min": 25,
+            "max": 45
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 40,
+            "max": 60,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1.5,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "total": {
+            "min": 5,
+            "max": 8,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "rectal",
+        "dose": {
+          "units": "mg",
+          "threshold": 1,
+          "heavy": 23,
+          "common": {
+            "min": 8,
+            "max": 12
+          },
+          "light": {
+            "min": 5,
+            "max": 8
+          },
+          "strong": {
+            "min": 12,
+            "max": 23
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 0,
+            "max": 20,
+            "units": "minutes"
+          },
+          "peak": null,
+          "total": {
+            "min": 4,
+            "max": 7,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-B-FLY",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CBFly.shtml",
+    "name": "2C-B-FLY",
+    "aliases": [
+      "2cb-fly",
+      "2cbfly"
+    ],
+    "aliasesStr": "2cb-fly,2cbfly",
+    "summary": "Psychedelic phenethylamine that is the dihydrodifuran analog of 2C-B.",
+    "reagents": "Marquis: Yellow > Brown Green. | Mecke: Yellow > Brown Green. | Mandelin: Brown.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines",
+        "Substituted benzofurans"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 2,
+          "heavy": 25,
+          "common": {
+            "min": 10,
+            "max": 18
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 18,
+            "max": 25
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 7,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-C",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CC.shtml",
+    "name": "2C-C",
+    "aliases": [
+      "2cc"
+    ],
+    "aliasesStr": "2cc",
+    "summary": "A short-acting psychedelic research chemical of the 2c-x family. Often described as being less stimulating than the other 2c-x, and is a relatively unique psychedelic in this respect.",
+    "reagents": "Marquis: Yellow > Green Brown. | Mecke: Yellow Green > Brown. | Mandelin: Orange > Yellow. | Froehde: Yellow > Green. | Liebermann: Yellow > Black > Clear. | Simon's: Pink > Brown. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": null,
+    "crossTolerances": null,
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 90,
+          "common": {
+            "min": 30,
+            "max": 50
+          },
+          "light": {
+            "min": 15,
+            "max": 30
+          },
+          "strong": {
+            "min": 50,
+            "max": 90
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 4,
+            "max": 12,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 45,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 45,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "total": {
+            "min": 4,
+            "max": 8,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-D",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CD.shtml",
+    "name": "2C-D",
+    "aliases": [
+      "2c-m",
+      "2cd",
+      "2cm",
+      "le-25"
+    ],
+    "aliasesStr": "2c-m,2cd,2cm,le-25",
+    "summary": "A fairly generic psychedelic famed for being usable as \"psychedelic tofu\". Little character of its own but pleasant in combinations.",
+    "reagents": "Marquis: Yellow > Brown. | Mecke: Green > Brown. | Mandelin: Green/Yellow. | Simon's Brown > Red. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 3,
+          "heavy": 100,
+          "common": {
+            "min": 25,
+            "max": 50
+          },
+          "light": {
+            "min": 10,
+            "max": 25
+          },
+          "strong": {
+            "min": 50,
+            "max": 100
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 0.5,
+            "max": 1.5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 15,
+            "max": 45,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1.5,
+            "max": 2.5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-E",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CE.shtml",
+    "name": "2C-E",
+    "aliases": [
+      "2ce",
+      "aquarust",
+      "eternity"
+    ],
+    "aliasesStr": "2ce,aquarust,eternity",
+    "summary": "An intense psychedelic drug with very strong visuals, sometimes criticised for its relatively uncomfortable body load. Otherwise, effects are comparable to other 2c-x drugs.",
+    "reagents": "Marquis: Yellow-Pale Brown. | Mecke: Yellow > Brown. | Mandelin: Yellow-Green. | Froehde: Yellow. | Liebermann: Yellow > Black. | Simon's: No colour change. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": null,
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 1,
+          "heavy": 14,
+          "common": {
+            "min": 4,
+            "max": 7
+          },
+          "light": {
+            "min": 1,
+            "max": 4
+          },
+          "strong": {
+            "min": 7,
+            "max": 14
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 1,
+            "max": 2,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": null
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 2,
+          "heavy": 30,
+          "common": {
+            "min": 10,
+            "max": 15
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 15,
+            "max": 30
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 15,
+            "max": 45,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 6,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-I",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CI.shtml",
+    "name": "2C-I",
+    "aliases": [
+      "2ci"
+    ],
+    "aliasesStr": "2ci",
+    "summary": "A psychedelic similar to the more well-known 2C-B. Users frequently report very vivid and bright open-eye visuals and more mild closed-eye visuals compared to 2C-B and other drugs in the 2C family. Can also be more stimulating than 2C-B along with having a slight body load for some users. Less safe at high doses compared to 2C-B",
+    "reagents": "Marquis: Yellow > Green/Blue. | Mecke: Brown > Black. | Mandelin: (Pale) Brown > Black. | Simon's: Red > Orange. | Ehrlich: Brown.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3-5 days",
+      "zero": "7-10 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 2,
+          "heavy": 30,
+          "common": {
+            "min": 10,
+            "max": 20
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 20,
+            "max": 30
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 45,
+            "max": 90,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 15,
+            "max": 45,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 6,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-P",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CP.shtml",
+    "name": "2C-P",
+    "aliases": [
+      "2cp"
+    ],
+    "aliasesStr": "2cp",
+    "summary": "A synthetic phenylethlyamine that is sometimes compared in effects to 2C-E, yet with a much longer duration. With a much more pronouced bodyload. Is one of the most potent of the 2C-X series.",
+    "reagents": "Marquis: Yellow. | Mecke: Green > Brown. | Mandelin: Green. | Froehde: Green. | Liebermann: Green. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "toxic dose is unknown"
+    ],
+    "addictionPotential": "low potential for abuse and dependence",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 1,
+          "heavy": 16,
+          "common": {
+            "min": 6,
+            "max": 10
+          },
+          "light": {
+            "min": 2,
+            "max": 6
+          },
+          "strong": {
+            "min": 10,
+            "max": 16
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 8,
+            "max": 48,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "duration": null,
+          "offset": {
+            "min": 3,
+            "max": 6,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "peak": {
+            "min": 4,
+            "max": 8,
+            "units": "hours"
+          },
+          "total": {
+            "min": 10,
+            "max": 20,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-T",
+    "experiencesUrl": null,
+    "name": "2C-T",
+    "aliases": [
+      "2ct",
+      "tesseract"
+    ],
+    "aliasesStr": "2ct,tesseract",
+    "summary": "A very rare psychedelic phenylethylamine, that is quite lovely.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "no negative health effects attributed to trying this drug"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 20,
+          "heavy": 125,
+          "common": {
+            "min": 60,
+            "max": 100
+          },
+          "light": {
+            "min": 40,
+            "max": 60
+          },
+          "strong": {
+            "min": 100,
+            "max": 120
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 30,
+            "max": 45,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 30,
+            "max": 115,
+            "units": "minutes"
+          },
+          "total": {
+            "min": 3,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-T-2",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CT2.shtml",
+    "name": "2C-T-2",
+    "aliases": [
+      "2ct2",
+      "rosy"
+    ],
+    "aliasesStr": "2ct2,rosy",
+    "summary": "An unusual psychedelic with similar effects to 2C-B and a slightly longer duration, but maligned because of some deaths in the 2000s. Also similar to 2c-t-7, but with a shorter duration. Potentially unsafe with stimulants and empathogens.",
+    "reagents": "Marquis: Fizzes Pale Orange. | Mecke: Orange > Purple. | Mandelin: Purple. | Froehde: Orange > Purple | Liebermann: Red or Purple. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": [
+      "no negative health effects attributed to trying this drug"
+    ],
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 1,
+          "heavy": 25,
+          "common": {
+            "min": 10,
+            "max": 20
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 20,
+            "max": 25
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 5,
+            "max": 15,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 3,
+            "max": 7,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 3,
+          "heavy": 30,
+          "common": {
+            "min": 10,
+            "max": 20
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 20,
+            "max": 30
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 6,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2.5,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 6,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-T-21",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CT21.shtml",
+    "name": "2C-T-21",
+    "aliases": [
+      "aurora"
+    ],
+    "aliasesStr": "aurora",
+    "summary": "A rare psychedelic phenethylamine.",
+    "reagents": "Marquis: Fizzes Light Orange. | Mecke: Dark Purple. | Simon's: Greenish Blue.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": null,
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 15,
+          "common": {
+            "min": 10,
+            "max": 12
+          },
+          "light": {
+            "min": 5,
+            "max": 10
+          },
+          "strong": {
+            "min": 12,
+            "max": 15
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 90,
+            "max": 120,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 10,
+            "max": 12,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/2C-T-7",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_2CT7.shtml",
+    "name": "2C-T-7",
+    "aliases": [
+      "2ct7",
+      "7th heaven",
+      "beautiful",
+      "blue mystic"
+    ],
+    "aliasesStr": "2ct7,7th heaven,beautiful,blue mystic",
+    "summary": "A relatively uncommon psychedelic phenethylamine and possible MAOI. Long lasting, an possesses an unpredictable dosage curve. Questionable safety in combination with most things.",
+    "reagents": "Marquis: Fizzes Pale Orange. | Mecke: Red > Purple. | Mandelin: Red > Purple. | Froehde: Violet Orange | Liebermann: Deep Purple. | Simon's Red > Brown. | Ehrlich: No colour change.",
+    "classes": {
+      "chemical": [
+        "Substituted phenethylamines"
+      ],
+      "psychoactive": [
+        "Psychedelic"
+      ]
+    },
+    "toxicity": null,
+    "addictionPotential": "not habit-forming",
+    "tolerance": {
+      "full": "almost immediately after ingestion",
+      "half": "3 days",
+      "zero": "7 days"
+    },
+    "crossTolerances": [
+      "psychedelic"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 1,
+          "heavy": null,
+          "common": {
+            "min": 5,
+            "max": 10
+          },
+          "light": {
+            "min": 2,
+            "max": 5
+          },
+          "strong": {
+            "min": 10,
+            "max": 15
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 5,
+            "max": 15,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 3,
+            "max": 7,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 3,
+          "heavy": 40,
+          "common": {
+            "min": 15,
+            "max": 25
+          },
+          "light": {
+            "min": 10,
+            "max": 15
+          },
+          "strong": {
+            "min": 25,
+            "max": 40
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 8,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 10,
+            "max": 30,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 60,
+            "max": 90,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 3,
+            "max": 5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 6,
+            "max": 10,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/3,4-CTMP",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_34Dichloromethylphenidate.shtml",
+    "name": "3,4-CTMP",
+    "aliases": [
+      "3,4-dichloromethylphenidate",
+      "34ctmp"
+    ],
+    "aliasesStr": "3,4-dichloromethylphenidate,34ctmp",
+    "summary": "A strong stimulant, NDRI and analogue of methylphenidate. Has increased in popularity in recent years. Said to be seven times more potent than methylphenidate but with a slower onset, however discrimination studies have found it to be more addictive than cocaine.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted phenidates"
+      ],
+      "psychoactive": [
+        "Stimulants"
+      ]
+    },
+    "toxicity": null,
+    "addictionPotential": null,
+    "tolerance": null,
+    "crossTolerances": null,
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 2,
+          "heavy": 8,
+          "common": {
+            "min": 4,
+            "max": 6
+          },
+          "light": {
+            "min": 2,
+            "max": 4
+          },
+          "strong": {
+            "min": 6,
+            "max": 8
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 24,
+            "units": "hours"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          },
+          "peak": null,
+          "total": {
+            "min": 6,
+            "max": 18,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/3-FA",
+    "experiencesUrl": null,
+    "name": "3-FA",
+    "aliases": [
+      "3fa",
+      "pal-353"
+    ],
+    "aliasesStr": "3fa,pal-353",
+    "summary": "A stimulant that is close to equipotent with methamphetamine and acts as a monoamine releasing agent , but has more selectivity for dopamine/noradrenaline over serotonin.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Amphetamine",
+        "Substituted amphetamine"
+      ],
+      "psychoactive": [
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 10 days"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 10,
+          "heavy": 70,
+          "common": {
+            "min": 30,
+            "max": 50
+          },
+          "light": {
+            "min": 20,
+            "max": 30
+          },
+          "strong": {
+            "min": 50,
+            "max": 70
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 2,
+            "max": 6,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 1.5,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/3-FEA",
+    "experiencesUrl": null,
+    "name": "3-FEA",
+    "aliases": [],
+    "aliasesStr": "",
+    "summary": "A novel fluorinated amphetamine with serotonergic properties. Effects are similar to 4-FA, in that it provides slight dopamine and norepinephrine release or reuptake inhibition, as well as serotonin release and reuptake inhibition. Effects on the serotonin side are more pronounced than dopamine and norepinephrine, the latter two being almost negligibly.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Amphetamine",
+        "Substituted amphetamine"
+      ],
+      "psychoactive": [
+        "Entactogen",
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "2 - 3 days",
+      "zero": "3-7 days"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "serotonin|serotonergic",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 15,
+          "heavy": 60,
+          "common": {
+            "min": 35,
+            "max": 60
+          },
+          "light": {
+            "min": 20,
+            "max": 35
+          },
+          "strong": {
+            "min": 50,
+            "max": 60
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 5,
+            "max": 10,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "onset": {
+            "min": 5,
+            "max": 15,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "total": {
+            "min": 1,
+            "max": 2,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 15,
+          "heavy": 90,
+          "common": {
+            "min": 35,
+            "max": 70
+          },
+          "light": {
+            "min": 20,
+            "max": 35
+          },
+          "strong": {
+            "min": 70,
+            "max": 90
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 12,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 2,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 1.5,
+            "max": 2.5,
+            "units": "hours"
+          },
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/3-FMA",
+    "experiencesUrl": null,
+    "name": "3-FMA",
+    "aliases": [
+      "3fma"
+    ],
+    "aliasesStr": "3fma",
+    "summary": "Stimulant drug in the amphetamine family",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Amphetamine",
+        "Substituted amphetamine"
+      ],
+      "psychoactive": [
+        "Entactogen",
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 10 days"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "serotonin|serotonergic",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": 50,
+          "common": {
+            "min": 20,
+            "max": 35
+          },
+          "light": {
+            "min": 10,
+            "max": 20
+          },
+          "strong": {
+            "min": 35,
+            "max": 50
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 6,
+            "max": 12,
+            "units": "hours"
+          },
+          "comeup": {
+            "min": 30,
+            "max": 60,
+            "units": "minutes"
+          },
+          "duration": null,
+          "offset": {
+            "min": 1,
+            "max": 3,
+            "units": "hours"
+          },
+          "onset": {
+            "min": 20,
+            "max": 60,
+            "units": "minutes"
+          },
+          "peak": {
+            "min": 2,
+            "max": 4,
+            "units": "hours"
+          },
+          "total": {
+            "min": 3,
+            "max": 7,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  },
+  {
+    "url": "https://psychonautwiki.org/wiki/3-FPM",
+    "experiencesUrl": "https://www.erowid.org/experiences/subs/exp_3FPhenmetrazine.shtml",
+    "name": "3-FPM",
+    "aliases": [
+      "3-fph",
+      "3f-p",
+      "3f-phenmetrazine",
+      "3fp",
+      "3fpm",
+      "pal-593"
+    ],
+    "aliasesStr": "3-fph,3f-p,3f-phenmetrazine,3fp,3fpm,pal-593",
+    "summary": "A functional stimulant related to phenmetrazine. Effects similar to amphetamine, but longer and more focused. Observed as being relatively benign in low doses, but seems to cause worrying health effects for heavy users. Pain from insufflation is eye-wateringly intense, but short.",
+    "reagents": null,
+    "classes": {
+      "chemical": [
+        "Substituted amphetamine",
+        "Phenylmorpholine"
+      ],
+      "psychoactive": [
+        "Stimulants"
+      ]
+    },
+    "toxicity": [
+      "exact toxic dosage is unknown"
+    ],
+    "addictionPotential": "moderately addictive with a high potential for abuse",
+    "tolerance": {
+      "full": "develops with prolonged and repeated use",
+      "half": "3 - 7 days",
+      "zero": "1 - 2 weeks"
+    },
+    "crossTolerances": [
+      "dopamine",
+      "stimulant"
+    ],
+    "roas": [
+      {
+        "name": "insufflated",
+        "dose": {
+          "units": "mg",
+          "threshold": 5,
+          "heavy": null,
+          "common": {
+            "min": 20,
+            "max": 35
+          },
+          "light": {
+            "min": 10,
+            "max": 20
+          },
+          "strong": {
+            "min": 35,
+            "max": 50
+          }
+        },
+        "duration": {
+          "afterglow": null,
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": null,
+          "peak": null,
+          "total": {
+            "min": 3,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      },
+      {
+        "name": "oral",
+        "dose": {
+          "units": "mg",
+          "threshold": 10,
+          "heavy": 90,
+          "common": {
+            "min": 30,
+            "max": 60
+          },
+          "light": {
+            "min": 10,
+            "max": 30
+          },
+          "strong": {
+            "min": 60,
+            "max": 90
+          }
+        },
+        "duration": {
+          "afterglow": {
+            "min": 30,
+            "max": 90,
+            "units": "minutes"
+          },
+          "comeup": null,
+          "duration": null,
+          "offset": null,
+          "onset": {
+            "min": 20,
+            "max": 40,
+            "units": "minutes"
+          },
+          "peak": null,
+          "total": {
+            "min": 4,
+            "max": 6,
+            "units": "hours"
+          }
+        }
+      }
+    ],
+    "interactions": null
+  }
+]

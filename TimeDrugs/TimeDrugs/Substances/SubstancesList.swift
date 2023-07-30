@@ -12,7 +12,7 @@ import Combine
 struct SubstanceList: View {
     @State private var searchText: String = ""
     
-    @State private var substances: [JsonSubstance] = []
+    @State private var substances: [Substance] = []
     
     @Environment(\.dismiss) private var dismiss
 
@@ -35,7 +35,7 @@ struct SubstanceList: View {
     private func fillList() {
         let data: Data
         do {
-            guard let file = Bundle.main.url(forResource: "substances.json", withExtension: nil)
+            guard let file = Bundle.main.url(forResource: "output.json", withExtension: nil)
             else {
                 fatalError("Cant parse JSON")
             }
@@ -44,7 +44,7 @@ struct SubstanceList: View {
 
             let decoder = JSONDecoder()
             
-            self.substances = try decoder.decode([JsonSubstance].self, from: data)
+            self.substances = try decoder.decode([Substance].self, from: data)
         }
         catch {
             fatalError("Cant parse JSON, \(error)")
@@ -52,31 +52,17 @@ struct SubstanceList: View {
         
     }
     
-    var searchResults: [JsonSubstance] {
+    var searchResults: [Substance] {
         if searchText.isEmpty {
-            return substances.filter{
-                if($0.class == nil || $0.class?.psychoactive == nil) {
-                    return false
-                }
-                return true
-            }
+            return substances
         } else {
             return substances.filter {
-                if($0.class == nil || $0.class?.psychoactive == nil) {
-                    return false
-                }
                 
                 if($0.name.lowercased().contains(searchText.lowercased())){
                     return true
                 }
                 else {
-                    if $0.commonNames == nil {
-                        return false
-                    }
-                    else {
-                        return $0.commonNames!.contains(where: { $0.lowercased().contains(searchText.lowercased()) })
-                    }
-                    
+                    return $0.aliases.contains(where: { $0.lowercased().contains(searchText.lowercased()) })
                 }
             }
         }
@@ -87,7 +73,7 @@ struct SubstanceList: View {
             NavigationStack {
                 List(searchResults, id: \.name) { substance in
                     NavigationLink {
-                        SubstanceInfo(substanceName: substance.name)
+                        SubstanceInfo(substance: substance)
                             .navigationTitle(substance.name)
                     } label: {
                         Text(substance.name)
