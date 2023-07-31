@@ -21,12 +21,14 @@
 		1B7E4CD72A6593800012BEA0 /* SwiftUICharts in Frameworks */ = {isa = PBXBuildFile; productRef = 1B7E4CD62A6593800012BEA0 /* SwiftUICharts */; };
 		1B7E4CDE2A65CC820012BEA0 /* SlideOverCard in Frameworks */ = {isa = PBXBuildFile; productRef = 1B7E4CDD2A65CC820012BEA0 /* SlideOverCard */; };
 		1B808FB12A76FA0A005EDFBC /* output.json in Resources */ = {isa = PBXBuildFile; fileRef = 1B808FB02A76FA0A005EDFBC /* output.json */; };
+		1B808FB32A77F30F005EDFBC /* Recording.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B808FB22A77F30F005EDFBC /* Recording.swift */; };
+		1B808FB52A77F3C5005EDFBC /* RecordingStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B808FB42A77F3C5005EDFBC /* RecordingStore.swift */; };
 		1B868D1A2A67E35B00B0CD0A /* SubstanceInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */; };
 		1BB66E952A669E13001FF7CF /* Apollo in Frameworks */ = {isa = PBXBuildFile; productRef = 1BB66E942A669E13001FF7CF /* Apollo */; };
 		1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */; };
 		1BB66EAB2A66AAD4001FF7CF /* apollo-ios-cli in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */; };
 		1BB66EC12A66D67B001FF7CF /* substances.old in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EC02A66D67B001FF7CF /* substances.old */; };
-		1BB66EC42A66DB8A001FF7CF /* JsonSubstance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EC32A66DB8A001FF7CF /* JsonSubstance.swift */; };
+		1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EC32A66DB8A001FF7CF /* Substance.swift */; };
 		1BB66EF72A66FB1F001FF7CF /* SubstanceTimingGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */; };
 		1BB66F0D2A66FE7B001FF7CF /* EverythingForOneRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EF92A66FE7B001FF7CF /* EverythingForOneRating.swift */; };
 		1BB66F0E2A66FE7B001FF7CF /* IngestionDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EFA2A66FE7B001FF7CF /* IngestionDrawable.swift */; };
@@ -91,12 +93,14 @@
 		1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesHome.swift; sourceTree = "<group>"; };
 		1B7E4CDB2A65BBE30012BEA0 /* TimeDrugs.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TimeDrugs.entitlements; sourceTree = "<group>"; };
 		1B808FB02A76FA0A005EDFBC /* output.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = output.json; sourceTree = "<group>"; };
+		1B808FB22A77F30F005EDFBC /* Recording.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recording.swift; sourceTree = "<group>"; };
+		1B808FB42A77F3C5005EDFBC /* RecordingStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingStore.swift; sourceTree = "<group>"; };
 		1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesList.swift; sourceTree = "<group>"; };
 		1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstanceInfo.swift; sourceTree = "<group>"; };
 		1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "apollo-codegen-config.json"; sourceTree = "<group>"; };
 		1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "apollo-ios-cli"; sourceTree = "<group>"; };
 		1BB66EC02A66D67B001FF7CF /* substances.old */ = {isa = PBXFileReference; lastKnownFileType = text; path = substances.old; sourceTree = "<group>"; };
-		1BB66EC32A66DB8A001FF7CF /* JsonSubstance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonSubstance.swift; sourceTree = "<group>"; };
+		1BB66EC32A66DB8A001FF7CF /* Substance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Substance.swift; sourceTree = "<group>"; };
 		1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstanceTimingGraph.swift; sourceTree = "<group>"; };
 		1BB66EF92A66FE7B001FF7CF /* EverythingForOneRating.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EverythingForOneRating.swift; sourceTree = "<group>"; };
 		1BB66EFA2A66FE7B001FF7CF /* IngestionDrawable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IngestionDrawable.swift; sourceTree = "<group>"; };
@@ -241,7 +245,9 @@
 		1BB66EC22A66DB7A001FF7CF /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				1BB66EC32A66DB8A001FF7CF /* JsonSubstance.swift */,
+				1BB66EC32A66DB8A001FF7CF /* Substance.swift */,
+				1B808FB22A77F30F005EDFBC /* Recording.swift */,
+				1B808FB42A77F3C5005EDFBC /* RecordingStore.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -466,8 +472,10 @@
 				1BB66F312A66FED0001FF7CF /* RoaDuration.swift in Sources */,
 				1BB66FBE2A670145001FF7CF /* UnitPickerOptions.swift in Sources */,
 				1BB66EF72A66FB1F001FF7CF /* SubstanceTimingGraph.swift in Sources */,
-				1BB66EC42A66DB8A001FF7CF /* JsonSubstance.swift in Sources */,
+				1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */,
 				1BB66F1F2A66FE7B001FF7CF /* AxisDrawable.swift in Sources */,
+				1B808FB32A77F30F005EDFBC /* Recording.swift in Sources */,
+				1B808FB52A77F3C5005EDFBC /* RecordingStore.swift in Sources */,
 				1BB66FB82A67012B001FF7CF /* ShulginRatingOption.swift in Sources */,
 				1BB66F102A66FE7B001FF7CF /* NoTimeline.swift in Sources */,
 				1B2B1BBC2A72C5CC00784CAD /* SubstanceColor.swift in Sources */,

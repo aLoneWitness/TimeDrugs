@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct Substance: Decodable {
+struct Substance: Codable {
     var url: String
     var experiencesUrl: String?
     var name: String
@@ -25,12 +25,12 @@ struct Substance: Decodable {
     var interactions: [Interaction]?
 }
 
-struct Classes: Decodable {
+struct Classes: Codable {
     var chemical: [String]?
     var psychoactive: [String]?
 }
 
-enum Psychoactive: String, Decodable {
+enum Psychoactive: String, Codable {
     case Antidepressants = "Antidepressants"
     case Antipsychotic = "Antipsychotic"
     case Cannabinoid = "Cannabinoid"
@@ -48,12 +48,12 @@ enum Psychoactive: String, Decodable {
     case Stimulants = "Stimulants"
 }
 
-struct Interaction: Decodable {
+struct Interaction: Codable {
     var status: String
     var note: String?
 }
 
-enum Status: String, Decodable {
+enum Status: String, Codable {
     case Caution = "Caution"
     case Dangerous = "Dangerous"
     case LowRiskDecrease = "Low Risk & Decrease"
@@ -62,7 +62,7 @@ enum Status: String, Decodable {
     case Unsafe = "Unsafe"
 }
 
-struct Roa: Decodable {
+struct Roa: Codable {
     var name: String
     var dose: Dosage?
     var duration: Duration
@@ -70,7 +70,7 @@ struct Roa: Decodable {
 
 
 
-struct Duration: Decodable {
+struct Duration: Codable {
     var afterglow: DRange?
     var comeup: DRange?
     var duration: DRange?
@@ -80,13 +80,13 @@ struct Duration: Decodable {
     var total: DRange?
 }
 
-struct DRange: Decodable {
+struct DRange: Codable {
     var min: Double?
     var max: Double?
     var units: String
 }
 
-struct Dosage: Decodable {
+struct Dosage: Codable {
     var units: String?
     var threshold: Float?
     var heavy: Float?
@@ -95,12 +95,12 @@ struct Dosage: Decodable {
     var strong: Range?
 }
 
-struct Range: Decodable {
+struct Range: Codable {
     var min: Double?
     var max: Double?
 }
 
-enum Name: String, Decodable {
+enum Name: String, Codable {
     case AfterEffects = "After effects"
     case ComeUp = "Come up"
     case Common = "Common"
@@ -115,7 +115,7 @@ enum Name: String, Decodable {
     case Total = "Total"
 }
 
-struct Tolerance: Decodable {
+struct Tolerance: Codable {
     var full: String
     var half: String?
     var zero: String?

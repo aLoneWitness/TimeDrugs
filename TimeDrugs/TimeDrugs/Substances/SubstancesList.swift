@@ -13,10 +13,11 @@ struct SubstanceList: View {
     @State private var searchText: String = ""
     
     @State private var substances: [Substance] = []
+        
+    @Binding var isDismissed: Bool
     
-    @Environment(\.dismiss) private var dismiss
+    var startRecording: (Recording) -> Void
 
-    
     let searchTextPublisher = PassthroughSubject<String, Never>()
     
     private func updateData(searchString: String?) {
@@ -73,8 +74,11 @@ struct SubstanceList: View {
             NavigationStack {
                 List(searchResults, id: \.name) { substance in
                     NavigationLink {
-                        SubstanceInfo(substance: substance)
+                        SubstanceInfo(substance: substance, dismissView: $isDismissed, startRecording: { sub in
+                            self.startRecording(sub)
+                        })
                             .navigationTitle(substance.name)
+                        
                     } label: {
                         Text(substance.name)
                     }
@@ -99,8 +103,7 @@ struct SubstanceList: View {
                 .toolbar {
                   ToolbarItem(placement: .primaryAction) {
                       Button("Close") {
-                          
-                          dismiss()
+                          self.isDismissed.toggle()
                       }
                   }
                 }
@@ -120,21 +123,16 @@ struct SubstanceList: View {
             .onAppear {
                 self.fillList()
             }
-            
-            
-
-        
         }
-        
-        
-        
-        
-    
 }
 
 struct SubstancesAdd_Previews: PreviewProvider {
+    @State private static var isDismissed = false
+    
     static var previews: some View {
-        SubstanceList()
+        SubstanceList(isDismissed: $isDismissed) { sub in
+            
+        }
     }
 }
 

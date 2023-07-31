@@ -51,4 +51,5 @@ enum SubstanceColor: String, CaseIterable, Identifiable, Codable {
             return Color.teal
         }
     }
+
 }

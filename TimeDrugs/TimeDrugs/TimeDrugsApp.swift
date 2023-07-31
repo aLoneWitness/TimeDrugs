@@ -9,9 +9,26 @@ import SwiftUI
 
 @main
 struct TimeDrugsApp: App {
+    @StateObject private var store = RecordingStore()
+    
     var body: some Scene {
         WindowGroup {
-            SubstancesHome()
+            SubstancesHome(recordings: $store.recordings) {
+                Task {
+                    do {
+                        try await store.save(recordings: store.recordings)
+                    } catch {
+                        fatalError(error.localizedDescription)
+                    }
+                }
+            }
+                .task {
+                    do {
+                        try await store.load()
+                    } catch {
+                        fatalError(error.localizedDescription)
+                    }
+                }
         }
     }
 }
