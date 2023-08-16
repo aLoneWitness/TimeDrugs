@@ -9,6 +9,7 @@ import SwiftUI
 import SwiftUICharts
 import SlideOverCard
 import Combine
+import UserNotifications
 
 struct SubstancesHome: View {
     static let everythingForEachLine: [EverythingForOneLine] = [
@@ -22,8 +23,8 @@ struct SubstancesHome: View {
                 total: nil,
                 afterglow: nil
             ),
-            onsetDelayInHours: 3,
-            startTime: Date().addingTimeInterval(-3*60*60),
+            onsetDelayInHours: 0,
+            startTime: Date(),
             horizontalWeight: 0.5,
             verticalWeight: 0.75,
             color: .blue
@@ -33,7 +34,84 @@ struct SubstancesHome: View {
     @State var showOverlay = false
     @Binding var recordings: [Recording]
     let saveAction: ()->Void
+    
+    
+    var everythingForEachLines: [EverythingForOneLine] {
+        return self.recordings.enumerated().map({ (index, recording) in
+                let roa = recording.substance.roas[recording.roaIndex]
+                return EverythingForOneLine(
+                    roaDuration: RoaDuration(
+                        onset: DurationRange(min: roa.duration.onset?.min, max: roa.duration.onset?.max, units: DurationRange.Units(rawValue: (roa.duration.onset?.units) ?? "minutes") ?? .minutes),
+                        comeup: DurationRange(min: roa.duration.comeup?.min, max: roa.duration.comeup?.max, units: DurationRange.Units(rawValue: (roa.duration.comeup?.units) ?? "minutes") ?? .minutes),
+                        peak: DurationRange(min: roa.duration.peak?.min, max: roa.duration.peak?.max, units: DurationRange.Units(rawValue: (roa.duration.peak?.units) ?? "minutes") ?? .minutes),
+                        offset: DurationRange(min: roa.duration.offset?.min, max: roa.duration.offset?.max, units: DurationRange.Units(rawValue: (roa.duration.offset?.units) ?? "minutes") ?? .minutes),
+                        total: DurationRange(min: roa.duration.total?.min, max: roa.duration.total?.max, units: DurationRange.Units(rawValue: (roa.duration.total?.units) ?? "minutes") ?? .minutes),
+                        afterglow: DurationRange(min: roa.duration.afterglow?.min, max: roa.duration.afterglow?.max, units: DurationRange.Units(rawValue: (roa.duration.afterglow?.units) ?? "minutes") ?? .minutes)
+                    ),
+                    onsetDelayInHours: 0,
+                    startTime: recording.start,
+                    horizontalWeight: 0.5,
+                    verticalWeight: 0.75 - ( Double(index) * 0.05),
+                    color: recording.color
+                )
+            }
+                
+        )
+    }
+    
+    private func startRecording(rec: Recording) {
+//        let roaDuration = rec.substance.roas[rec.roaIndex].duration
+//
+//        var notifications: [String] = []
+//
+//        
+//        if let minOnset = roaDuration.onset?.min {
+//            addRoaNotification(interval: roaDuration.onset?., substanceName: rec.substance.name, stage: "Peak")
+//        }
+//
+//        if let minPeak = roaDuration.peak?.min {
+//            if (minOns)
+//            addRoaNotification(interval: minPeak, substanceName: rec.substance.name, stage: "Peak")
+//        }
+//
+//        if let minComeup = roaDuration. {
+//            addRoaNotification(interval: comeup, substanceName: rec.substance.name, stage: "Comeup")
+//        }
+//
+//        if let minComeup = roaDuration.comeup?.min {
+//            addRoaNotification(interval: comeup, substanceName: rec.substance.name, stage: "Comeup")
+//        }
+//
+//        if let minComeup = roaDuration.comeup?.min {
+//            addRoaNotification(interval: comeup, substanceName: rec.substance.name, stage: "Comeup")
+//        }
+        
+        self.recordings.append(rec)
+        self.saveAction()
+        
+        
+        
+        self.showOverlay.toggle()
+    }
+    
+    private func addRoaNotification(interval: Double, substanceName: String, stage: String) -> String {
+        let uuid = UUID().uuidString
+        let content = UNMutableNotificationContent()
+        content.title = "Drug Timing"
+        content.body = stage + " stage started for " + substanceName + "."
+        content.sound = UNNotificationSound.default
 
+        // show this notification five seconds from now
+        let trigger = UNTimeIntervalNotificationTrigger(timeInterval: interval, repeats: false)
+
+        // choose a random identifier
+        let request = UNNotificationRequest(identifier: uuid, content: content, trigger: trigger)
+
+        // add our notification request
+        UNUserNotificationCenter.current().add(request)
+        
+        return uuid
+    }
     
 //    let saveAction: ()->Void
     //    @StateObject var heartHistoryModel: HeartHistoryModel = HeartHistoryModel()
@@ -55,38 +133,27 @@ struct SubstancesHome: View {
                     } .foregroundColor(.accentColor)
                 }
                 
-                EffectTimeline(
-                    timelineModel: TimelineModel(
-                        everythingForEachLine: self.recordings.map({ recording in
-                            let roa = recording.substance.roas[0]
-                            return
-                            EverythingForOneLine(
-                                roaDuration: RoaDuration(
-                                    onset: DurationRange(min: roa.duration.onset?.min, max: roa.duration.onset?.max, units: DurationRange.Units(rawValue: (roa.duration.onset?.units) ?? "minutes") ?? .minutes),
-                                    comeup: DurationRange(min: roa.duration.comeup?.min, max: roa.duration.comeup?.max, units: DurationRange.Units(rawValue: (roa.duration.comeup?.units) ?? "minutes") ?? .minutes),
-                                    peak: DurationRange(min: roa.duration.peak?.min, max: roa.duration.peak?.max, units: DurationRange.Units(rawValue: (roa.duration.peak?.units) ?? "minutes") ?? .minutes),
-                                    offset: DurationRange(min: roa.duration.offset?.min, max: roa.duration.offset?.max, units: DurationRange.Units(rawValue: (roa.duration.offset?.units) ?? "minutes") ?? .minutes),
-                                    total: DurationRange(min: roa.duration.total?.min, max: roa.duration.total?.max, units: DurationRange.Units(rawValue: (roa.duration.total?.units) ?? "minutes") ?? .minutes),
-                                    afterglow: DurationRange(min: roa.duration.afterglow?.min, max: roa.duration.afterglow?.max, units: DurationRange.Units(rawValue: (roa.duration.afterglow?.units) ?? "minutes") ?? .minutes)
-                                ),
-                                onsetDelayInHours: 3,
-                                startTime: Date().addingTimeInterval(-3*60*60),
-                                horizontalWeight: 0.5,
-                                verticalWeight: 0.75,
-                                color: recording.color
-                            )
-                            
-                        }),
-                        everythingForEachRating: []
-                    ),
-                    height: 175
-                )
+                ZStack {
+                    if self.everythingForEachLines.count == 0 {
+                        Text("No active substances")
+                    }
+                    
+                    EffectTimeline(
+                        timelineModel: TimelineModel(
+                            everythingForEachLine: self.everythingForEachLines,
+                            everythingForEachRating: []
+                        ),
+                        height: 175
+                        
+                    )
+                }
+                
                 
                 
                 List{
                     if !recordings.isEmpty {
                         Section("Currently active") {
-                            ForEach(recordings, id: \.start) { recording in
+                            ForEach(Array(recordings.enumerated()), id: \.offset) { index, recording in
                                 VStack {
                                     HStack {
                                         
@@ -106,7 +173,10 @@ struct SubstancesHome: View {
                                 .listRowInsets(EdgeInsets(top: 5, leading: 0, bottom: 5, trailing: 0))
                                 .swipeActions(allowsFullSwipe: false) {
                                     Button(role: .destructive) {
-                                        
+                                        Task {
+                                            self.recordings.remove(at: index)
+                                            self.saveAction()
+                                        }
                                         
                                     } label: {
                                         Label("Delete", systemImage: "trash.fill")
@@ -119,15 +189,22 @@ struct SubstancesHome: View {
                 }.listStyle(.plain)
                 
             }
+            .onAppear{
+                UNUserNotificationCenter.current().requestAuthorization(options: [.alert, .badge, .sound]) { success, error in
+                    if success {
+                        print("All set!")
+                    } else if let error = error {
+                        print(error.localizedDescription)
+                    }
+                }
+            }
             .padding(16)
             .sheet(isPresented: $showOverlay) {
                 SubstanceList(isDismissed: $showOverlay) { rec in
-                    self.recordings.append(rec)
-                    self.saveAction()
-                    self.showOverlay.toggle()
+                    self.startRecording(rec: rec)
                 }
             }
-            
+
         }
     }
 }

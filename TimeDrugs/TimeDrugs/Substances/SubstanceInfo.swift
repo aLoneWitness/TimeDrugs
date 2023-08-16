@@ -114,12 +114,14 @@ struct SubstanceInfo: View {
                 )
                 
                 Button {
+                    print(self.selectedRoa)
                     let rec = Recording(
+                        uniqueId: UUID().uuidString,
                         color: self.subColor,
                         roaIndex: self.selectedRoa,
                         substance: self.substance,
                         start: Date(),
-                        name: "Hello"
+                        notificationsIds: []
                     )
                     startRecording(rec)
                 } label: {

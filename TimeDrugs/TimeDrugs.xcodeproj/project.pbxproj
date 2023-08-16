@@ -233,11 +233,11 @@
 				1BB66EC22A66DB7A001FF7CF /* Models */,
 				1B7E4CCC2A657D970012BEA0 /* SubstancesHome.swift */,
 				1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */,
+				1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */,
 				1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */,
 				1BB66EC02A66D67B001FF7CF /* substances.old */,
 				1B808FB02A76FA0A005EDFBC /* output.json */,
 				1B2B1BBD2A76950700784CAD /* output.og.json */,
-				1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */,
 			);
 			path = Substances;
 			sourceTree = "<group>";

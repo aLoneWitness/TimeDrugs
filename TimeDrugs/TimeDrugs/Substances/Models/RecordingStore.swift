@@ -21,7 +21,9 @@ class RecordingStore: ObservableObject {
             guard let data = try? Data(contentsOf: fileURL) else {
                 return []
             }
-            let recordings = try JSONDecoder().decode([Recording].self, from: data)
+            guard let recordings = try? JSONDecoder().decode([Recording].self, from: data) else {
+                return []
+            }
             return recordings
         }
         let recordings = try await task.value
