@@ -10699,11 +10699,7 @@
             "max": 60,
             "units": "minutes"
           },
-          "peak": {
-            "min": null,
-            "max": null,
-            "units": "hour"
-          },
+          "peak": null,
           "total": {
             "min": 2,
             "max": 3,
@@ -19988,7 +19984,7 @@
           "afterglow": {
             "min": 12,
             "max": 24,
-            "units": "Hours#"
+            "units": "hours"
           },
           "comeup": {
             "min": 1,

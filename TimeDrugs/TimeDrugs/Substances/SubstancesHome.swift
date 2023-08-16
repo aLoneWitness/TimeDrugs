@@ -41,12 +41,12 @@ struct SubstancesHome: View {
                 let roa = recording.substance.roas[recording.roaIndex]
                 return EverythingForOneLine(
                     roaDuration: RoaDuration(
-                        onset: DurationRange(min: roa.duration.onset?.min, max: roa.duration.onset?.max, units: DurationRange.Units(rawValue: (roa.duration.onset?.units) ?? "minutes") ?? .minutes),
-                        comeup: DurationRange(min: roa.duration.comeup?.min, max: roa.duration.comeup?.max, units: DurationRange.Units(rawValue: (roa.duration.comeup?.units) ?? "minutes") ?? .minutes),
-                        peak: DurationRange(min: roa.duration.peak?.min, max: roa.duration.peak?.max, units: DurationRange.Units(rawValue: (roa.duration.peak?.units) ?? "minutes") ?? .minutes),
-                        offset: DurationRange(min: roa.duration.offset?.min, max: roa.duration.offset?.max, units: DurationRange.Units(rawValue: (roa.duration.offset?.units) ?? "minutes") ?? .minutes),
-                        total: DurationRange(min: roa.duration.total?.min, max: roa.duration.total?.max, units: DurationRange.Units(rawValue: (roa.duration.total?.units) ?? "minutes") ?? .minutes),
-                        afterglow: DurationRange(min: roa.duration.afterglow?.min, max: roa.duration.afterglow?.max, units: DurationRange.Units(rawValue: (roa.duration.afterglow?.units) ?? "minutes") ?? .minutes)
+                        onset: roa.duration.onset,
+                        comeup: roa.duration.comeup,
+                        peak: roa.duration.peak,
+                        offset: roa.duration.offset,
+                        total: roa.duration.total,
+                        afterglow: roa.duration.afterglow
                     ),
                     onsetDelayInHours: 0,
                     startTime: recording.start,

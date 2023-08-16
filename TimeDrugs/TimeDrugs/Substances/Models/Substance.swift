@@ -71,20 +71,20 @@ struct Roa: Codable {
 
 
 struct Duration: Codable {
-    var afterglow: DRange?
-    var comeup: DRange?
-    var duration: DRange?
-    var offset: DRange?
-    var onset: DRange?
-    var peak: DRange?
-    var total: DRange?
+    var afterglow: DurationRange?
+    var comeup: DurationRange?
+    var duration: DurationRange?
+    var offset: DurationRange?
+    var onset: DurationRange?
+    var peak: DurationRange?
+    var total: DurationRange?
 }
 
-struct DRange: Codable {
-    var min: Double?
-    var max: Double?
-    var units: String
-}
+//struct DRange: Codable {
+//    var min: Double?
+//    var max: Double?
+//    var units: String
+//}
 
 struct Dosage: Codable {
     var units: String?
