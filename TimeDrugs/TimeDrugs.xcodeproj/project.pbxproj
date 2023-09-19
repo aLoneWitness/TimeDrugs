@@ -24,9 +24,7 @@
 		1B808FB32A77F30F005EDFBC /* Recording.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B808FB22A77F30F005EDFBC /* Recording.swift */; };
 		1B808FB52A77F3C5005EDFBC /* RecordingStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B808FB42A77F3C5005EDFBC /* RecordingStore.swift */; };
 		1B868D1A2A67E35B00B0CD0A /* SubstanceInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */; };
-		1BB66E952A669E13001FF7CF /* Apollo in Frameworks */ = {isa = PBXBuildFile; productRef = 1BB66E942A669E13001FF7CF /* Apollo */; };
 		1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */; };
-		1BB66EAB2A66AAD4001FF7CF /* apollo-ios-cli in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */; };
 		1BB66EC12A66D67B001FF7CF /* substances.old in Resources */ = {isa = PBXBuildFile; fileRef = 1BB66EC02A66D67B001FF7CF /* substances.old */; };
 		1BB66EC42A66DB8A001FF7CF /* Substance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EC32A66DB8A001FF7CF /* Substance.swift */; };
 		1BB66EF72A66FB1F001FF7CF /* SubstanceTimingGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */; };
@@ -58,6 +56,7 @@
 		1BB66FC32A67113F001FF7CF /* EverythingForOneLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FC22A67113F001FF7CF /* EverythingForOneLine.swift */; };
 		1BB66FC52A67117C001FF7CF /* RatingDrawable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FC42A67117C001FF7CF /* RatingDrawable.swift */; };
 		1BB66FCB2A672788001FF7CF /* HealthKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB66FCA2A672788001FF7CF /* HealthKitManager.swift */; };
+		DF8508E92AA23D5600AB36D9 /* Apollo in Frameworks */ = {isa = PBXBuildFile; productRef = DF8508E82AA23D5600AB36D9 /* Apollo */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,7 +97,6 @@
 		1B82AE8E2A6685EE00795CB4 /* SubstancesList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstancesList.swift; sourceTree = "<group>"; };
 		1B868D192A67E35B00B0CD0A /* SubstanceInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstanceInfo.swift; sourceTree = "<group>"; };
 		1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "apollo-codegen-config.json"; sourceTree = "<group>"; };
-		1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = "apollo-ios-cli"; sourceTree = "<group>"; };
 		1BB66EC02A66D67B001FF7CF /* substances.old */ = {isa = PBXFileReference; lastKnownFileType = text; path = substances.old; sourceTree = "<group>"; };
 		1BB66EC32A66DB8A001FF7CF /* Substance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Substance.swift; sourceTree = "<group>"; };
 		1BB66EF62A66FB1F001FF7CF /* SubstanceTimingGraph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubstanceTimingGraph.swift; sourceTree = "<group>"; };
@@ -139,7 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B7E4CDE2A65CC820012BEA0 /* SlideOverCard in Frameworks */,
-				1BB66E952A669E13001FF7CF /* Apollo in Frameworks */,
+				DF8508E92AA23D5600AB36D9 /* Apollo in Frameworks */,
 				1B7E4CD72A6593800012BEA0 /* SwiftUICharts in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -191,7 +189,6 @@
 				1BB66F202A66FED0001FF7CF /* Decoding */,
 				1BB66EF82A66FE7B001FF7CF /* Timeline */,
 				1BB66EA72A66AAD4001FF7CF /* apollo-codegen-config.json */,
-				1BB66EA82A66AAD4001FF7CF /* apollo-ios-cli */,
 				1B7E4CDB2A65BBE30012BEA0 /* TimeDrugs.entitlements */,
 				1B7E4CCB2A657D770012BEA0 /* Substances */,
 				1B7E4C9C2A6556B10012BEA0 /* TimeDrugsApp.swift */,
@@ -343,7 +340,7 @@
 			packageProductDependencies = (
 				1B7E4CD62A6593800012BEA0 /* SwiftUICharts */,
 				1B7E4CDD2A65CC820012BEA0 /* SlideOverCard */,
-				1BB66E942A669E13001FF7CF /* Apollo */,
+				DF8508E82AA23D5600AB36D9 /* Apollo */,
 			);
 			productName = TimeDrugs;
 			productReference = 1B7E4C992A6556B10012BEA0 /* TimeDrugs.app */;
@@ -420,7 +417,7 @@
 			packageReferences = (
 				1B7E4CD52A6593800012BEA0 /* XCRemoteSwiftPackageReference "SwiftUICharts" */,
 				1B7E4CDC2A65CC820012BEA0 /* XCRemoteSwiftPackageReference "SlideOverCard" */,
-				1BB66E932A669E13001FF7CF /* XCRemoteSwiftPackageReference "apollo-ios" */,
+				DF8508E72AA23D5600AB36D9 /* XCRemoteSwiftPackageReference "apollo-ios" */,
 			);
 			productRefGroup = 1B7E4C9A2A6556B10012BEA0 /* Products */;
 			projectDirPath = "";
@@ -441,7 +438,6 @@
 				1BB66EC12A66D67B001FF7CF /* substances.old in Resources */,
 				1B7E4CA42A6556B20012BEA0 /* Preview Assets.xcassets in Resources */,
 				1B808FB12A76FA0A005EDFBC /* output.json in Resources */,
-				1BB66EAB2A66AAD4001FF7CF /* apollo-ios-cli in Resources */,
 				1B2B1BBE2A76950700784CAD /* output.og.json in Resources */,
 				1BB66EAA2A66AAD4001FF7CF /* apollo-codegen-config.json in Resources */,
 				1B7E4CA12A6556B20012BEA0 /* Assets.xcassets in Resources */,
@@ -869,12 +865,12 @@
 				minimumVersion = 2.0.0;
 			};
 		};
-		1BB66E932A669E13001FF7CF /* XCRemoteSwiftPackageReference "apollo-ios" */ = {
+		DF8508E72AA23D5600AB36D9 /* XCRemoteSwiftPackageReference "apollo-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/apollographql/apollo-ios";
 			requirement = {
-				kind = upToNextMinorVersion;
-				minimumVersion = 1.3.0;
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
@@ -890,9 +886,9 @@
 			package = 1B7E4CDC2A65CC820012BEA0 /* XCRemoteSwiftPackageReference "SlideOverCard" */;
 			productName = SlideOverCard;
 		};
-		1BB66E942A669E13001FF7CF /* Apollo */ = {
+		DF8508E82AA23D5600AB36D9 /* Apollo */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 1BB66E932A669E13001FF7CF /* XCRemoteSwiftPackageReference "apollo-ios" */;
+			package = DF8508E72AA23D5600AB36D9 /* XCRemoteSwiftPackageReference "apollo-ios" */;
 			productName = Apollo;
 		};
 /* End XCSwiftPackageProductDependency section */

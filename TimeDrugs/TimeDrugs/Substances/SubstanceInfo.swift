@@ -22,6 +22,10 @@ struct SubstanceInfo: View {
     @State private var selectedRoa: Int = 0
     
     @Binding var dismissView: Bool
+    
+    @State private var showPopover = false
+    
+    @State private var date = Date()
         
     var startRecording: (Recording) -> Void
     
@@ -113,34 +117,96 @@ struct SubstanceInfo: View {
                     height: 175
                 )
                 
-                Button {
-                    print(self.selectedRoa)
-                    let rec = Recording(
-                        uniqueId: UUID().uuidString,
-                        color: self.subColor,
-                        roaIndex: self.selectedRoa,
-                        substance: self.substance,
-                        start: Date(),
-                        notificationsIds: []
-                    )
-                    startRecording(rec)
-                } label: {
-                    HStack {
-                        Image(systemName: "record.circle")
-                        Text("Start recording")
+                HStack {
+                    Button {
                         
-                    }
-                    
+                        let rec = Recording(
+                            uniqueId: UUID().uuidString,
+                            color: self.subColor,
+                            roaIndex: self.selectedRoa,
+                            substance: self.substance,
+                            start: Date(),
+                            notificationsIds: []
+                        )
+                        startRecording(rec)
+                    } label: {
+                        
+                        HStack {
+                            Image(systemName: "play.circle")
+                            Text("Take now")
+                        }
                         .frame(maxWidth: .infinity)
                         .padding()
                         .background(.secondary)
                         .foregroundColor(self.subColor.swiftUIColor)
                         .cornerRadius(10)
+                    }
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    Button {
+                        let rec = Recording(
+                            uniqueId: UUID().uuidString,
+                            color: self.subColor,
+                            roaIndex: self.selectedRoa,
+                            substance: self.substance,
+                            start: Date()  + 60 * 60 * 4,
+                            notificationsIds: []
+                        )
+                        startRecording(rec)
+                    } label: {
+                        Button {
+                            showPopover = true
+                        } label: {
+                            HStack {
+                                Image(systemName: "timer.circle")
+                                
+                            }
+                            .padding()
+                            .background(.secondary)
+                            .foregroundColor(self.subColor.swiftUIColor)
+                            .cornerRadius(10)
+                        }
+                        .sheet(isPresented: $showPopover) {
+                            VStack(alignment: .center) {
+                                Text("Timed intake")
+                                    .font(.headline)
+                                
+                                Spacer()
+                                    
+                                
+                                DatePicker(
+                                    "Date of intake",
+                                    selection: $date,
+                                    displayedComponents: [.date, .hourAndMinute]
+                                )
+                                DatePicker(
+                                    "Date of intake",
+                                    selection: $date,
+                                    displayedComponents: [.date, .hourAndMinute]
+                                )
+                                Spacer()
+                            }
+                            .padding(16)
+                            .presentationDetents([.height(400)])
+                            
+                        }
+                        
+                        
+                        
+                    }
                     
                 }
                 
+                
+                
                 Divider()
-
+                
                 
                 if let summary = self.substance.summary {
                     Text("Summary").font(.title).frame(maxWidth: .infinity, alignment: .leading).bold()

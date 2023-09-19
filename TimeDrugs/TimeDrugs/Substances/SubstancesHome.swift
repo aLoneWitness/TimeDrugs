@@ -60,30 +60,42 @@ struct SubstancesHome: View {
     }
     
     private func startRecording(rec: Recording) {
-//        let roaDuration = rec.substance.roas[rec.roaIndex].duration
-//
+        let roaDuration = rec.substance.roas[rec.roaIndex].duration
+        
+        // TODO: Fix notifications later with a different system, Maybe for redosing? Not for peak and low and up its too invasive ive found.
+
 //        var notifications: [String] = []
-//
-//        
-//        if let minOnset = roaDuration.onset?.min {
-//            addRoaNotification(interval: roaDuration.onset?., substanceName: rec.substance.name, stage: "Peak")
+        
+//        let minOnset = roaDuration.onset?.minSec
+//        let minComeup = roaDuration.comeup?.minSec
+//        let minPeak = roaDuration.peak?.minSec
+//        let minOffset = roaDuration.offset?.minSec
+//        let minAfterglow = roaDuration.afterglow?.minSec
+
+        
+//        if let minOnset = roaDuration.onset?.minSec {
+//            print(minOnset)
+//            notifications.append(addRoaNotification(interval: minOnset, substanceName: rec.substance.name, stage: "Onset"))
 //        }
 //
-//        if let minPeak = roaDuration.peak?.min {
-//            if (minOns)
-//            addRoaNotification(interval: minPeak, substanceName: rec.substance.name, stage: "Peak")
+//        if let minComeup = roaDuration.comeup?.minSec {
+//            print(minComeup)
+//            notifications.append(addRoaNotification(interval: minComeup, substanceName: rec.substance.name, stage: "Comeup"))
 //        }
 //
-//        if let minComeup = roaDuration. {
-//            addRoaNotification(interval: comeup, substanceName: rec.substance.name, stage: "Comeup")
+//        if let minPeak = roaDuration.peak?.minSec {
+//            print(minPeak)
+//            notifications.append(addRoaNotification(interval: minPeak, substanceName: rec.substance.name, stage: "Peak"))
 //        }
 //
-//        if let minComeup = roaDuration.comeup?.min {
-//            addRoaNotification(interval: comeup, substanceName: rec.substance.name, stage: "Comeup")
+//        if let minOffset = roaDuration.offset?.minSec {
+//            print(minOffset)
+//            notifications.append(addRoaNotification(interval: minOffset, substanceName: rec.substance.name, stage: "Offset"))
 //        }
 //
-//        if let minComeup = roaDuration.comeup?.min {
-//            addRoaNotification(interval: comeup, substanceName: rec.substance.name, stage: "Comeup")
+//        if let minAfterglow = roaDuration.afterglow?.minSec {
+//            print(minAfterglow)
+//            notifications.append(addRoaNotification(interval: minAfterglow, substanceName: rec.substance.name, stage: "Afterglow"))
 //        }
         
         self.recordings.append(rec)
@@ -126,8 +138,8 @@ struct SubstancesHome: View {
                     Button() {
                         showOverlay.toggle()
                     } label: {
-                        Image(systemName: "plus.circle")
-                            .font(.largeTitle)
+                        Image(systemName: "plus")
+                            .font(.title)
                             .foregroundColor(.accentColor)
                         
                     } .foregroundColor(.accentColor)
